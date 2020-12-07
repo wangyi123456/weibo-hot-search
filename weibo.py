@@ -129,7 +129,7 @@ def updateArchive(rank):
     Returns:
         更新后当天 Markdown 文件内容
     '''
-    line = '1. [{title} hot: {hot}]({href})'
+    line = '1. [{title}]({href}) <font color="#808080" size="2">{hot}</font>'
     lines = [line.format(title=k, hot=v['hot'], href=v['href']) for k, v in rank.items()]
     content = '\n'.join(lines)
 
