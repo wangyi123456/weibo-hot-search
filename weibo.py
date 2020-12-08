@@ -22,10 +22,10 @@ def getHTML(url, needPretty=False):
     Returns:
         HTML 字符串
     '''
-    params = {
+    headers = {
         'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.125 Safari/537.36'
     }
-    response = requests.get(url, params=params)
+    response = requests.get(url, headers=headers)
     if needPretty is True:
         # lxml 的 prettify 太拉跨，用了 bs4 的美化
         return BeautifulSoup(response.text, 'lxml').prettify()
