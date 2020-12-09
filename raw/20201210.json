@@ -214,5 +214,13 @@
   "明日方舟": {
     "href": "https://s.weibo.com/weibo?q=%E6%98%8E%E6%97%A5%E6%96%B9%E8%88%9F&Refer=top",
     "hot": 48360
+  },
+  "成都目前无新增病例及无症状感染者": {
+    "href": "https://s.weibo.com/weibo?q=%E6%88%90%E9%83%BD%E7%9B%AE%E5%89%8D%E6%97%A0%E6%96%B0%E5%A2%9E%E7%97%85%E4%BE%8B%E5%8F%8A%E6%97%A0%E7%97%87%E7%8A%B6%E6%84%9F%E6%9F%93%E8%80%85&Refer=top",
+    "hot": 32154
+  },
+  "CBA": {
+    "href": "https://s.weibo.com/weibo?q=CBA&Refer=top",
+    "hot": 27015
   }
 }
