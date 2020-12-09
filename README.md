@@ -6,6 +6,9 @@
 
 微博热搜，记录从 2020-12-07 14:16:43 开始的微博热门搜索。每小时抓取一次数据，按天[归档](./archives)。Python 实现。
 
+## 相关项目
++ [知乎热榜](https://github.com/Arrackisarookie/zhihu-top-search)
+
 ## 今日热门搜索
 
 <!-- Rank Begin -->
