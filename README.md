@@ -14,7 +14,7 @@
 
 <!-- Rank Begin -->
 
-最后更新时间 2020-12-11 01:24:12
+最后更新时间 2020-12-11 02:11:30
 
 1. [张雨绮 希望我明年不会塌房](https://s.weibo.com/weibo?q=%E5%BC%A0%E9%9B%A8%E7%BB%AE%20%E5%B8%8C%E6%9C%9B%E6%88%91%E6%98%8E%E5%B9%B4%E4%B8%8D%E4%BC%9A%E5%A1%8C%E6%88%BF&Refer=top) 2626367
 1. [成都新增2例本土确诊](https://s.weibo.com/weibo?q=%23%E6%88%90%E9%83%BD%E6%96%B0%E5%A2%9E2%E4%BE%8B%E6%9C%AC%E5%9C%9F%E7%A1%AE%E8%AF%8A%23&Refer=top) 1666033
