@@ -8,6 +8,7 @@
 
 ## 相关项目
 + [知乎热榜](https://github.com/Arrackisarookie/zhihu-top-search)
++ [百度实时热搜](https://github.com/Arrackisarookie/baidu-hot-search)
 
 ## 今日热门搜索
 
