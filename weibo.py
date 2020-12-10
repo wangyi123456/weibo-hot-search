@@ -3,7 +3,6 @@ import json
 import os
 import re
 
-from bs4 import BeautifulSoup
 from lxml import etree
 import requests
 
@@ -26,9 +25,6 @@ def getHTML(url, needPretty=False):
         'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.125 Safari/537.36'
     }
     response = requests.get(url, headers=headers)
-    if needPretty is True:
-        # lxml 的 prettify 太拉跨，用了 bs4 的美化
-        return BeautifulSoup(response.text, 'lxml').prettify()
     return response.text
 
 
@@ -129,7 +125,7 @@ def updateArchive(rank):
     Returns:
         更新后当天 Markdown 文件内容
     '''
-    line = '1. [{title}]({href}) <font color="#808080" size="2">{hot}</font>'
+    line = '1. [{title}]({href}) {hot}'
     lines = [line.format(title=k, hot=v['hot'], href=v['href']) for k, v in rank.items()]
     content = '\n'.join(lines)
 
@@ -160,9 +156,6 @@ def updateReadme(rank):
 
 def main():
     url = '/top/summary'
-    # content = getHTML(BASE_URL + url, needPretty=True)
-    # save('temp.html', content)
-    # content = load('temp.html')
     content = getHTML(BASE_URL + url)
     correntRank = parseHTMLByXPath(content)
     rankJSON = updateJSON(correntRank)
