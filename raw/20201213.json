@@ -211,8 +211,16 @@
     "href": "https://s.weibo.com/weibo?q=%23%E5%BC%A0%E9%A2%82%E6%96%87%E6%95%99%E7%A7%91%E4%B9%A6%E7%BA%A7%E5%8D%B3%E5%85%B4%E8%A1%A8%E6%BC%94%23&Refer=top",
     "hot": 42787
   },
+  "社区团购": {
+    "href": "https://s.weibo.com/weibo?q=%E7%A4%BE%E5%8C%BA%E5%9B%A2%E8%B4%AD&Refer=top",
+    "hot": 36146
+  },
   "马嘉祺外滩生日应援": {
     "href": "https://s.weibo.com/weibo?q=%23%E9%A9%AC%E5%98%89%E7%A5%BA%E5%A4%96%E6%BB%A9%E7%94%9F%E6%97%A5%E5%BA%94%E6%8F%B4%23&Refer=top",
     "hot": 35982
+  },
+  "符龙飞我记住你了": {
+    "href": "https://s.weibo.com/weibo?q=%23%E7%AC%A6%E9%BE%99%E9%A3%9E%E6%88%91%E8%AE%B0%E4%BD%8F%E4%BD%A0%E4%BA%86%23&Refer=top",
+    "hot": 27718
   }
 }
