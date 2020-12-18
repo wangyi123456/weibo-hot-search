@@ -194,5 +194,13 @@
   "终极笔记": {
     "href": "https://s.weibo.com/weibo?q=%E7%BB%88%E6%9E%81%E7%AC%94%E8%AE%B0&Refer=top",
     "hot": 144106
+  },
+  "KBS歌谣大祝祭": {
+    "href": "https://s.weibo.com/weibo?q=KBS%E6%AD%8C%E8%B0%A3%E5%A4%A7%E7%A5%9D%E7%A5%AD&Refer=top",
+    "hot": 75383
+  },
+  "黑白禁区": {
+    "href": "https://s.weibo.com/weibo?q=%E9%BB%91%E7%99%BD%E7%A6%81%E5%8C%BA&Refer=top",
+    "hot": 62293
   }
 }
