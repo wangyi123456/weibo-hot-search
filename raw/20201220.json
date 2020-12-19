@@ -202,5 +202,13 @@
   "DYG夺冠": {
     "href": "https://s.weibo.com/weibo?q=DYG%E5%A4%BA%E5%86%A0&Refer=top",
     "hot": 64789
+  },
+  "舞蹈风暴": {
+    "href": "https://s.weibo.com/weibo?q=%E8%88%9E%E8%B9%88%E9%A3%8E%E6%9A%B4&Refer=top",
+    "hot": 36282
+  },
+  "了不起的儿科医生": {
+    "href": "https://s.weibo.com/weibo?q=%E4%BA%86%E4%B8%8D%E8%B5%B7%E7%9A%84%E5%84%BF%E7%A7%91%E5%8C%BB%E7%94%9F&Refer=top",
+    "hot": 25258
   }
 }
