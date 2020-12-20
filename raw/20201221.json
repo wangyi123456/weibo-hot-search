@@ -189,7 +189,7 @@
   },
   "冬至": {
     "href": "https://s.weibo.com/weibo?q=%E5%86%AC%E8%87%B3&Refer=top",
-    "hot": 182173
+    "hot": 182753
   },
   "黑龙江东宁新增确诊1例": {
     "href": "https://s.weibo.com/weibo?q=%23%E9%BB%91%E9%BE%99%E6%B1%9F%E4%B8%9C%E5%AE%81%E6%96%B0%E5%A2%9E%E7%A1%AE%E8%AF%8A1%E4%BE%8B%23&Refer=top",
@@ -202,5 +202,13 @@
   "我们的歌": {
     "href": "https://s.weibo.com/weibo?q=%E6%88%91%E4%BB%AC%E7%9A%84%E6%AD%8C&Refer=top",
     "hot": 110569
+  },
+  "大江大河": {
+    "href": "https://s.weibo.com/weibo?q=%E5%A4%A7%E6%B1%9F%E5%A4%A7%E6%B2%B3&Refer=top",
+    "hot": 80907
+  },
+  "只要平凡": {
+    "href": "https://s.weibo.com/weibo?q=%E5%8F%AA%E8%A6%81%E5%B9%B3%E5%87%A1&Refer=top",
+    "hot": 69414
   }
 }
