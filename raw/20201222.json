@@ -197,6 +197,14 @@
   },
   "美股": {
     "href": "https://s.weibo.com/weibo?q=%E7%BE%8E%E8%82%A1&Refer=top",
-    "hot": 72272
+    "hot": 113786
+  },
+  "瑞丽时尚盛典": {
+    "href": "https://s.weibo.com/weibo?q=%E7%91%9E%E4%B8%BD%E6%97%B6%E5%B0%9A%E7%9B%9B%E5%85%B8&Refer=top",
+    "hot": 66195
+  },
+  "张云雷现场唱牵挂": {
+    "href": "https://s.weibo.com/weibo?q=%23%E5%BC%A0%E4%BA%91%E9%9B%B7%E7%8E%B0%E5%9C%BA%E5%94%B1%E7%89%B5%E6%8C%82%23&Refer=top",
+    "hot": 55627
   }
 }
