@@ -211,6 +211,10 @@
     "href": "https://s.weibo.com/weibo?q=%E5%B7%A1%E5%9B%9E%E6%A3%80%E5%AF%9F%E7%BB%84&Refer=top",
     "hot": 53380
   },
+  "英国变异病毒对市场的影响": {
+    "href": "https://s.weibo.com/weibo?q=%23%E8%8B%B1%E5%9B%BD%E5%8F%98%E5%BC%82%E7%97%85%E6%AF%92%E5%AF%B9%E5%B8%82%E5%9C%BA%E7%9A%84%E5%BD%B1%E5%93%8D%23&Refer=top",
+    "hot": 45507
+  },
   "德云社直播": {
     "href": "https://s.weibo.com/weibo?q=%E5%BE%B7%E4%BA%91%E7%A4%BE%E7%9B%B4%E6%92%AD&Refer=top",
     "hot": 43496
@@ -222,5 +226,9 @@
   "周翡太会怼了": {
     "href": "https://s.weibo.com/weibo?q=%23%E5%91%A8%E7%BF%A1%E5%A4%AA%E4%BC%9A%E6%80%BC%E4%BA%86%23&Refer=top",
     "hot": 37750
+  },
+  "薇娅GAI直播": {
+    "href": "https://s.weibo.com/weibo?q=%E8%96%87%E5%A8%85GAI%E7%9B%B4%E6%92%AD&Refer=top",
+    "hot": 27209
   }
 }
