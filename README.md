@@ -14,7 +14,7 @@
 
 <!-- Rank Begin -->
 
-最后更新时间 2020-12-23 03:16:41
+最后更新时间 2020-12-23 04:08:50
 
 1. [李佳琦给金靖过生日](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E4%BD%B3%E7%90%A6%E7%BB%99%E9%87%91%E9%9D%96%E8%BF%87%E7%94%9F%E6%97%A5%23&Refer=top) 2546503
 1. [变异新冠病毒或推高儿童感染率](https://s.weibo.com/weibo?q=%23%E5%8F%98%E5%BC%82%E6%96%B0%E5%86%A0%E7%97%85%E6%AF%92%E6%88%96%E6%8E%A8%E9%AB%98%E5%84%BF%E7%AB%A5%E6%84%9F%E6%9F%93%E7%8E%87%23&Refer=top) 1603544
@@ -72,8 +72,10 @@
 1. [高铁试点静音车厢](https://s.weibo.com/weibo?q=%23%E9%AB%98%E9%93%81%E8%AF%95%E7%82%B9%E9%9D%99%E9%9F%B3%E8%BD%A6%E5%8E%A2%23&Refer=top) 94128
 1. [你好生活](https://s.weibo.com/weibo?q=%E4%BD%A0%E5%A5%BD%E7%94%9F%E6%B4%BB&Refer=top) 74722
 1. [周翡惹谢允生气](https://s.weibo.com/weibo?q=%23%E5%91%A8%E7%BF%A1%E6%83%B9%E8%B0%A2%E5%85%81%E7%94%9F%E6%B0%94%23&Refer=top) 62095
+1. [每18名美国人中就有1人曾确诊新冠肺炎](https://s.weibo.com/weibo?q=%E6%AF%8F18%E5%90%8D%E7%BE%8E%E5%9B%BD%E4%BA%BA%E4%B8%AD%E5%B0%B1%E6%9C%891%E4%BA%BA%E6%9B%BE%E7%A1%AE%E8%AF%8A%E6%96%B0%E5%86%A0%E8%82%BA%E7%82%8E&Refer=top) 51695
 1. [薇娅直播](https://s.weibo.com/weibo?q=%E8%96%87%E5%A8%85%E7%9B%B4%E6%92%AD&Refer=top) 48995
-1. [每18名美国人中就有1人曾确诊新冠肺炎](https://s.weibo.com/weibo?q=%E6%AF%8F18%E5%90%8D%E7%BE%8E%E5%9B%BD%E4%BA%BA%E4%B8%AD%E5%B0%B1%E6%9C%891%E4%BA%BA%E6%9B%BE%E7%A1%AE%E8%AF%8A%E6%96%B0%E5%86%A0%E8%82%BA%E7%82%8E&Refer=top) 37177
+1. [声控灯到底有多麻烦](https://s.weibo.com/weibo?q=%23%E5%A3%B0%E6%8E%A7%E7%81%AF%E5%88%B0%E5%BA%95%E6%9C%89%E5%A4%9A%E9%BA%BB%E7%83%A6%23&Refer=top) 29534
+1. [沈思怡男友力](https://s.weibo.com/weibo?q=%23%E6%B2%88%E6%80%9D%E6%80%A1%E7%94%B7%E5%8F%8B%E5%8A%9B%23&Refer=top) 24614
 <!-- Rank End -->
 
 历史归档 [./archives](./archives)
