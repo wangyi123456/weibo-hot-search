@@ -235,6 +235,10 @@
     "href": "https://s.weibo.com/weibo?q=%E5%A4%A7%E6%B1%9F%E5%A4%A7%E6%B2%B3&Refer=top",
     "hot": 75635
   },
+  "天真带小哥回家": {
+    "href": "https://s.weibo.com/weibo?q=%23%E5%A4%A9%E7%9C%9F%E5%B8%A6%E5%B0%8F%E5%93%A5%E5%9B%9E%E5%AE%B6%23&Refer=top",
+    "hot": 54076
+  },
   "WE晋级决赛": {
     "href": "https://s.weibo.com/weibo?q=%23WE%E6%99%8B%E7%BA%A7%E5%86%B3%E8%B5%9B%23&Refer=top",
     "hot": 41137
@@ -243,13 +247,9 @@
     "href": "https://s.weibo.com/weibo?q=%23%E8%B0%A2%E9%9C%86%E9%94%8B%E7%BA%BF%E4%B8%8A%E6%BC%94%E5%94%B1%E4%BC%9A%23&Refer=top",
     "hot": 40674
   },
-  "天真带小哥回家": {
-    "href": "https://s.weibo.com/weibo?q=%23%E5%A4%A9%E7%9C%9F%E5%B8%A6%E5%B0%8F%E5%93%A5%E5%9B%9E%E5%AE%B6%23&Refer=top",
-    "hot": 36926
-  },
   "考研": {
     "href": "https://s.weibo.com/weibo?q=%E8%80%83%E7%A0%94&Refer=top",
-    "hot": 22078
+    "hot": 33054
   },
   "舞蹈风暴": {
     "href": "https://s.weibo.com/weibo?q=%E8%88%9E%E8%B9%88%E9%A3%8E%E6%9A%B4&Refer=top",
