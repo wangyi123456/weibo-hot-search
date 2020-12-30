@@ -234,5 +234,13 @@
   "送你一朵小红花": {
     "href": "https://s.weibo.com/weibo?q=%E9%80%81%E4%BD%A0%E4%B8%80%E6%9C%B5%E5%B0%8F%E7%BA%A2%E8%8A%B1&Refer=top",
     "hot": 65005
+  },
+  "罗欣然被追杀": {
+    "href": "https://s.weibo.com/weibo?q=%23%E7%BD%97%E6%AC%A3%E7%84%B6%E8%A2%AB%E8%BF%BD%E6%9D%80%23&Refer=top",
+    "hot": 47230
+  },
+  "股市": {
+    "href": "https://s.weibo.com/weibo?q=%E8%82%A1%E5%B8%82&Refer=top",
+    "hot": 34921
   }
 }
