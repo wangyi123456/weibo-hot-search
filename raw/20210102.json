@@ -197,6 +197,14 @@
   },
   "2021年的第一天": {
     "href": "https://s.weibo.com/weibo?q=2021%E5%B9%B4%E7%9A%84%E7%AC%AC%E4%B8%80%E5%A4%A9&Refer=top",
-    "hot": 141783
+    "hot": 165565
+  },
+  "上海": {
+    "href": "https://s.weibo.com/weibo?q=%E4%B8%8A%E6%B5%B7&Refer=top",
+    "hot": 105945
+  },
+  "终极笔记": {
+    "href": "https://s.weibo.com/weibo?q=%E7%BB%88%E6%9E%81%E7%AC%94%E8%AE%B0&Refer=top",
+    "hot": 91683
   }
 }
