@@ -14,7 +14,7 @@
 
 <!-- Rank Begin -->
 
-最后更新时间 2021-01-06 03:26:22
+最后更新时间 2021-01-06 04:14:37
 
 1. [谈莉娜 未等到的东西会等到嘛](https://s.weibo.com/weibo?q=%E8%B0%88%E8%8E%89%E5%A8%9C%20%E6%9C%AA%E7%AD%89%E5%88%B0%E7%9A%84%E4%B8%9C%E8%A5%BF%E4%BC%9A%E7%AD%89%E5%88%B0%E5%98%9B&Refer=top) 1753227
 1. [河北本轮疫情仍是境外输入病毒](https://s.weibo.com/weibo?q=%23%E6%B2%B3%E5%8C%97%E6%9C%AC%E8%BD%AE%E7%96%AB%E6%83%85%E4%BB%8D%E6%98%AF%E5%A2%83%E5%A4%96%E8%BE%93%E5%85%A5%E7%97%85%E6%AF%92%23&Refer=top) 1559061
@@ -76,6 +76,7 @@
 1. [石家庄](https://s.weibo.com/weibo?q=%E7%9F%B3%E5%AE%B6%E5%BA%84&Refer=top) 54658
 1. [MTV中文频道2月1日起停播](https://s.weibo.com/weibo?q=MTV%E4%B8%AD%E6%96%87%E9%A2%91%E9%81%932%E6%9C%881%E6%97%A5%E8%B5%B7%E5%81%9C%E6%92%AD&Refer=top) 43291
 1. [王永正表白蒋南孙](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%B0%B8%E6%AD%A3%E8%A1%A8%E7%99%BD%E8%92%8B%E5%8D%97%E5%AD%99%23&Refer=top) 36654
+1. [雷军称不送充电器创意是他首创](https://s.weibo.com/weibo?q=%23%E9%9B%B7%E5%86%9B%E7%A7%B0%E4%B8%8D%E9%80%81%E5%85%85%E7%94%B5%E5%99%A8%E5%88%9B%E6%84%8F%E6%98%AF%E4%BB%96%E9%A6%96%E5%88%9B%23&Refer=top) 31431
 <!-- Rank End -->
 
 历史归档 [./archives](./archives)
