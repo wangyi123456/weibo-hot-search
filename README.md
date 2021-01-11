@@ -14,7 +14,7 @@
 
 <!-- Rank Begin -->
 
-最后更新时间 2021-01-12 03:32:36
+最后更新时间 2021-01-12 04:20:30
 
 1. [王一博方声明](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%B8%80%E5%8D%9A%E6%96%B9%E5%A3%B0%E6%98%8E%23&Refer=top) 1854575
 1. [山西晋中疫情防控发布会](https://s.weibo.com/weibo?q=%23%E5%B1%B1%E8%A5%BF%E6%99%8B%E4%B8%AD%E7%96%AB%E6%83%85%E9%98%B2%E6%8E%A7%E5%8F%91%E5%B8%83%E4%BC%9A%23&Refer=top) 1380535
@@ -71,6 +71,8 @@
 1. [谢允白色披风造型](https://s.weibo.com/weibo?q=%23%E8%B0%A2%E5%85%81%E7%99%BD%E8%89%B2%E6%8A%AB%E9%A3%8E%E9%80%A0%E5%9E%8B%23&Refer=top) 39959
 1. [榆次高村](https://s.weibo.com/weibo?q=%E6%A6%86%E6%AC%A1%E9%AB%98%E6%9D%91&Refer=top) 33491
 1. [赵睿违体犯规](https://s.weibo.com/weibo?q=%E8%B5%B5%E7%9D%BF%E8%BF%9D%E4%BD%93%E7%8A%AF%E8%A7%84&Refer=top) 31685
+1. [黑龙江新增20例无症状](https://s.weibo.com/weibo?q=%23%E9%BB%91%E9%BE%99%E6%B1%9F%E6%96%B0%E5%A2%9E20%E4%BE%8B%E6%97%A0%E7%97%87%E7%8A%B6%23&Refer=top) 27157
+1. [比特币](https://s.weibo.com/weibo?q=%E6%AF%94%E7%89%B9%E5%B8%81&Refer=top) 22561
 <!-- Rank End -->
 
 历史归档 [./archives](./archives)
