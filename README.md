@@ -14,7 +14,7 @@
 
 <!-- Rank Begin -->
 
-最后更新时间 2021-01-14 05:23:26
+最后更新时间 2021-01-14 06:25:01
 
 1. [多多用自己的脸打开了孙莉手机](https://s.weibo.com/weibo?q=%23%E5%A4%9A%E5%A4%9A%E7%94%A8%E8%87%AA%E5%B7%B1%E7%9A%84%E8%84%B8%E6%89%93%E5%BC%80%E4%BA%86%E5%AD%99%E8%8E%89%E6%89%8B%E6%9C%BA%23&Refer=top) 1416230
 1. [黑龙江新增40例确诊病例](https://s.weibo.com/weibo?q=%23%E9%BB%91%E9%BE%99%E6%B1%9F%E6%96%B0%E5%A2%9E40%E4%BE%8B%E7%A1%AE%E8%AF%8A%E7%97%85%E4%BE%8B%23&Refer=top) 908769
@@ -71,15 +71,15 @@
 1. [胡明轩后脑勺被打](https://s.weibo.com/weibo?q=%E8%83%A1%E6%98%8E%E8%BD%A9%E5%90%8E%E8%84%91%E5%8B%BA%E8%A2%AB%E6%89%93&Refer=top) 138149
 1. [丛容温少卿衣柜抱](https://s.weibo.com/weibo?q=%23%E4%B8%9B%E5%AE%B9%E6%B8%A9%E5%B0%91%E5%8D%BF%E8%A1%A3%E6%9F%9C%E6%8A%B1%23&Refer=top) 138094
 1. [薪水很高但看不惯老板要不要辞职](https://s.weibo.com/weibo?q=%23%E8%96%AA%E6%B0%B4%E5%BE%88%E9%AB%98%E4%BD%86%E7%9C%8B%E4%B8%8D%E6%83%AF%E8%80%81%E6%9D%BF%E8%A6%81%E4%B8%8D%E8%A6%81%E8%BE%9E%E8%81%8C%23&Refer=top) 95440
+1. [张艺谋告诉刘浩存电影电视都可以拍](https://s.weibo.com/weibo?q=%E5%BC%A0%E8%89%BA%E8%B0%8B%E5%91%8A%E8%AF%89%E5%88%98%E6%B5%A9%E5%AD%98%E7%94%B5%E5%BD%B1%E7%94%B5%E8%A7%86%E9%83%BD%E5%8F%AF%E4%BB%A5%E6%8B%8D&Refer=top) 85107
 1. [基金](https://s.weibo.com/weibo?q=%23%E5%9F%BA%E9%87%91%23&Refer=top) 77452
-1. [张艺谋告诉刘浩存电影电视都可以拍](https://s.weibo.com/weibo?q=%E5%BC%A0%E8%89%BA%E8%B0%8B%E5%91%8A%E8%AF%89%E5%88%98%E6%B5%A9%E5%AD%98%E7%94%B5%E5%BD%B1%E7%94%B5%E8%A7%86%E9%83%BD%E5%8F%AF%E4%BB%A5%E6%8B%8D&Refer=top) 74969
 1. [山海情](https://s.weibo.com/weibo?q=%E5%B1%B1%E6%B5%B7%E6%83%85&Refer=top) 72991
+1. [日本将全面禁止外国人入境](https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E5%B0%86%E5%85%A8%E9%9D%A2%E7%A6%81%E6%AD%A2%E5%A4%96%E5%9B%BD%E4%BA%BA%E5%85%A5%E5%A2%83%23&Refer=top) 59616
 1. [谢允愿周翡百岁无忧](https://s.weibo.com/weibo?q=%23%E8%B0%A2%E5%85%81%E6%84%BF%E5%91%A8%E7%BF%A1%E7%99%BE%E5%B2%81%E6%97%A0%E5%BF%A7%23&Refer=top) 59146
 1. [周翡谢允定终身](https://s.weibo.com/weibo?q=%23%E5%91%A8%E7%BF%A1%E8%B0%A2%E5%85%81%E5%AE%9A%E7%BB%88%E8%BA%AB%23&Refer=top) 57088
-1. [女神降临](https://s.weibo.com/weibo?q=%E5%A5%B3%E7%A5%9E%E9%99%8D%E4%B8%B4&Refer=top) 37809
-1. [上阳赋](https://s.weibo.com/weibo?q=%E4%B8%8A%E9%98%B3%E8%B5%8B&Refer=top) 33513
-1. [武汉日夜](https://s.weibo.com/weibo?q=%E6%AD%A6%E6%B1%89%E6%97%A5%E5%A4%9C&Refer=top) 31297
-1. [日本将全面禁止外国人入境](https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E5%B0%86%E5%85%A8%E9%9D%A2%E7%A6%81%E6%AD%A2%E5%A4%96%E5%9B%BD%E4%BA%BA%E5%85%A5%E5%A2%83%23&Refer=top) 28769
+1. [女神降临](https://s.weibo.com/weibo?q=%E5%A5%B3%E7%A5%9E%E9%99%8D%E4%B8%B4&Refer=top) 49181
+1. [武汉日夜](https://s.weibo.com/weibo?q=%E6%AD%A6%E6%B1%89%E6%97%A5%E5%A4%9C&Refer=top) 47628
+1. [上阳赋](https://s.weibo.com/weibo?q=%E4%B8%8A%E9%98%B3%E8%B5%8B&Refer=top) 40567
 1. [叶谨言安慰朱锁锁](https://s.weibo.com/weibo?q=%E5%8F%B6%E8%B0%A8%E8%A8%80%E5%AE%89%E6%85%B0%E6%9C%B1%E9%94%81%E9%94%81&Refer=top) 27152
 1. [2020王者荣耀冬冠](https://s.weibo.com/weibo?q=%232020%E7%8E%8B%E8%80%85%E8%8D%A3%E8%80%80%E5%86%AC%E5%86%A0%23&Refer=top) 18524
 <!-- Rank End -->
