@@ -14,7 +14,7 @@
 
 <!-- Rank Begin -->
 
-最后更新时间 2021-01-16 03:46:32
+最后更新时间 2021-01-16 04:31:34
 
 1. [只有潘玮柏在后台认真吃火锅](https://s.weibo.com/weibo?q=%23%E5%8F%AA%E6%9C%89%E6%BD%98%E7%8E%AE%E6%9F%8F%E5%9C%A8%E5%90%8E%E5%8F%B0%E8%AE%A4%E7%9C%9F%E5%90%83%E7%81%AB%E9%94%85%23&Refer=top) 1895693
 1. [核酸检测排查揪出潜逃21年杀人嫌犯](https://s.weibo.com/weibo?q=%23%E6%A0%B8%E9%85%B8%E6%A3%80%E6%B5%8B%E6%8E%92%E6%9F%A5%E6%8F%AA%E5%87%BA%E6%BD%9C%E9%80%8321%E5%B9%B4%E6%9D%80%E4%BA%BA%E5%AB%8C%E7%8A%AF%23&Refer=top) 1652480
@@ -68,10 +68,12 @@
 1. [汽油柴油价格五连涨](https://s.weibo.com/weibo?q=%23%E6%B1%BD%E6%B2%B9%E6%9F%B4%E6%B2%B9%E4%BB%B7%E6%A0%BC%E4%BA%94%E8%BF%9E%E6%B6%A8%23&Refer=top) 100205
 1. [仙剑奇侠传7](https://s.weibo.com/weibo?q=%23%E4%BB%99%E5%89%91%E5%A5%87%E4%BE%A0%E4%BC%A07%23&Refer=top) 93447
 1. [蒋南孙王永正和好](https://s.weibo.com/weibo?q=%E8%92%8B%E5%8D%97%E5%AD%99%E7%8E%8B%E6%B0%B8%E6%AD%A3%E5%92%8C%E5%A5%BD&Refer=top) 62397
+1. [张韶涵赵磊高音](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E9%9F%B6%E6%B6%B5%E8%B5%B5%E7%A3%8A%E9%AB%98%E9%9F%B3%23&Refer=top) 50422
 1. [周深无所畏惧](https://s.weibo.com/weibo?q=%23%E5%91%A8%E6%B7%B1%E6%97%A0%E6%89%80%E7%95%8F%E6%83%A7%23&Refer=top) 49621
 1. [重庆才是真的赛博朋克2077](https://s.weibo.com/weibo?q=%23%E9%87%8D%E5%BA%86%E6%89%8D%E6%98%AF%E7%9C%9F%E7%9A%84%E8%B5%9B%E5%8D%9A%E6%9C%8B%E5%85%8B2077%23&Refer=top) 42757
 1. [上阳赋](https://s.weibo.com/weibo?q=%E4%B8%8A%E9%98%B3%E8%B5%8B&Refer=top) 22190
 1. [为爱尖叫阵容](https://s.weibo.com/weibo?q=%23%E4%B8%BA%E7%88%B1%E5%B0%96%E5%8F%AB%E9%98%B5%E5%AE%B9%23&Refer=top) 17431
+1. [肖战为爱尖叫彩排](https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%E4%B8%BA%E7%88%B1%E5%B0%96%E5%8F%AB%E5%BD%A9%E6%8E%92%23&Refer=top) 15262
 <!-- Rank End -->
 
 历史归档 [./archives](./archives)

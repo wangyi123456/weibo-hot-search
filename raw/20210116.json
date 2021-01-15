@@ -207,6 +207,10 @@
     "href": "https://s.weibo.com/weibo?q=%E8%92%8B%E5%8D%97%E5%AD%99%E7%8E%8B%E6%B0%B8%E6%AD%A3%E5%92%8C%E5%A5%BD&Refer=top",
     "hot": 62397
   },
+  "张韶涵赵磊高音": {
+    "href": "https://s.weibo.com/weibo?q=%23%E5%BC%A0%E9%9F%B6%E6%B6%B5%E8%B5%B5%E7%A3%8A%E9%AB%98%E9%9F%B3%23&Refer=top",
+    "hot": 50422
+  },
   "周深无所畏惧": {
     "href": "https://s.weibo.com/weibo?q=%23%E5%91%A8%E6%B7%B1%E6%97%A0%E6%89%80%E7%95%8F%E6%83%A7%23&Refer=top",
     "hot": 49621
@@ -222,5 +226,9 @@
   "为爱尖叫阵容": {
     "href": "https://s.weibo.com/weibo?q=%23%E4%B8%BA%E7%88%B1%E5%B0%96%E5%8F%AB%E9%98%B5%E5%AE%B9%23&Refer=top",
     "hot": 17431
+  },
+  "肖战为爱尖叫彩排": {
+    "href": "https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%E4%B8%BA%E7%88%B1%E5%B0%96%E5%8F%AB%E5%BD%A9%E6%8E%92%23&Refer=top",
+    "hot": 15262
   }
 }
