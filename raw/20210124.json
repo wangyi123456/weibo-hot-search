@@ -226,5 +226,9 @@
   "山海情": {
     "href": "https://s.weibo.com/weibo?q=%E5%B1%B1%E6%B5%B7%E6%83%85&Refer=top",
     "hot": 96918
+  },
+  "蔡徐坤情人年度十大金曲": {
+    "href": "https://s.weibo.com/weibo?q=%23%E8%94%A1%E5%BE%90%E5%9D%A4%E6%83%85%E4%BA%BA%E5%B9%B4%E5%BA%A6%E5%8D%81%E5%A4%A7%E9%87%91%E6%9B%B2%23&Refer=top",
+    "hot": 91176
   }
 }
