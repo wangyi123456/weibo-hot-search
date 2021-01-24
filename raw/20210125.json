@@ -218,5 +218,17 @@
   "通化物资": {
     "href": "https://s.weibo.com/weibo?q=%E9%80%9A%E5%8C%96%E7%89%A9%E8%B5%84&Refer=top",
     "hot": 65303
+  },
+  "2020年度KPL最佳阵容": {
+    "href": "https://s.weibo.com/weibo?q=2020%E5%B9%B4%E5%BA%A6KPL%E6%9C%80%E4%BD%B3%E9%98%B5%E5%AE%B9&Refer=top",
+    "hot": 38162
+  },
+  "2020王者荣耀年度颁奖典礼": {
+    "href": "https://s.weibo.com/weibo?q=2020%E7%8E%8B%E8%80%85%E8%8D%A3%E8%80%80%E5%B9%B4%E5%BA%A6%E9%A2%81%E5%A5%96%E5%85%B8%E7%A4%BC&Refer=top",
+    "hot": 30634
+  },
+  "同曦逆转吉林": {
+    "href": "https://s.weibo.com/weibo?q=%E5%90%8C%E6%9B%A6%E9%80%86%E8%BD%AC%E5%90%89%E6%9E%97&Refer=top",
+    "hot": 30345
   }
 }
