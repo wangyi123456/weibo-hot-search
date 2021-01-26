@@ -14,7 +14,7 @@
 
 <!-- Rank Begin -->
 
-最后更新时间 2021-01-27 03:16:57
+最后更新时间 2021-01-27 04:13:31
 
 1. [现实版樊胜美](https://s.weibo.com/weibo?q=%23%E7%8E%B0%E5%AE%9E%E7%89%88%E6%A8%8A%E8%83%9C%E7%BE%8E%23&Refer=top) 4254611
 1. [印度十万农民开拖拉机游行](https://s.weibo.com/weibo?q=%23%E5%8D%B0%E5%BA%A6%E5%8D%81%E4%B8%87%E5%86%9C%E6%B0%91%E5%BC%80%E6%8B%96%E6%8B%89%E6%9C%BA%E6%B8%B8%E8%A1%8C%23&Refer=top) 3129623
@@ -72,6 +72,8 @@
 1. [姚晨给自己和白宇取CP名](https://s.weibo.com/weibo?q=%23%E5%A7%9A%E6%99%A8%E7%BB%99%E8%87%AA%E5%B7%B1%E5%92%8C%E7%99%BD%E5%AE%87%E5%8F%96CP%E5%90%8D%23&Refer=top) 62915
 1. [上阳赋](https://s.weibo.com/weibo?q=%E4%B8%8A%E9%98%B3%E8%B5%8B&Refer=top) 61737
 1. [山海情](https://s.weibo.com/weibo?q=%23%E5%B1%B1%E6%B5%B7%E6%83%85%23&Refer=top) 37392
+1. [福奇年薪超美国总统](https://s.weibo.com/weibo?q=%E7%A6%8F%E5%A5%87%E5%B9%B4%E8%96%AA%E8%B6%85%E7%BE%8E%E5%9B%BD%E6%80%BB%E7%BB%9F&Refer=top) 28988
+1. [陈薇院士喊你身在他乡也要安心过年](https://s.weibo.com/weibo?q=%E9%99%88%E8%96%87%E9%99%A2%E5%A3%AB%E5%96%8A%E4%BD%A0%E8%BA%AB%E5%9C%A8%E4%BB%96%E4%B9%A1%E4%B9%9F%E8%A6%81%E5%AE%89%E5%BF%83%E8%BF%87%E5%B9%B4&Refer=top) 23507
 <!-- Rank End -->
 
 历史归档 [./archives](./archives)
