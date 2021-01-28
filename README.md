@@ -14,7 +14,7 @@
 
 <!-- Rank Begin -->
 
-最后更新时间 2021-01-29 05:06:05
+最后更新时间 2021-01-29 06:13:05
 
 1. [马可宣布结婚](https://s.weibo.com/weibo?q=%23%E9%A9%AC%E5%8F%AF%E5%AE%A3%E5%B8%83%E7%BB%93%E5%A9%9A%23&Refer=top) 3810382
 1. [赵立坚连说3遍中国没有种族灭绝](https://s.weibo.com/weibo?q=%23%E8%B5%B5%E7%AB%8B%E5%9D%9A%E8%BF%9E%E8%AF%B43%E9%81%8D%E4%B8%AD%E5%9B%BD%E6%B2%A1%E6%9C%89%E7%A7%8D%E6%97%8F%E7%81%AD%E7%BB%9D%23&Refer=top) 3089571
@@ -55,6 +55,7 @@
 1. [美股](https://s.weibo.com/weibo?q=%E7%BE%8E%E8%82%A1&Refer=top) 232441
 1. [首批电竞本科生几乎没人从业电竞](https://s.weibo.com/weibo?q=%23%E9%A6%96%E6%89%B9%E7%94%B5%E7%AB%9E%E6%9C%AC%E7%A7%91%E7%94%9F%E5%87%A0%E4%B9%8E%E6%B2%A1%E4%BA%BA%E4%BB%8E%E4%B8%9A%E7%94%B5%E7%AB%9E%23&Refer=top) 209025
 1. [张家口女子恶意推倒老人已被抓获](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%AE%B6%E5%8F%A3%E5%A5%B3%E5%AD%90%E6%81%B6%E6%84%8F%E6%8E%A8%E5%80%92%E8%80%81%E4%BA%BA%E5%B7%B2%E8%A2%AB%E6%8A%93%E8%8E%B7%23&Refer=top) 203460
+1. [俄老太因不戴口罩被售票员踹下车](https://s.weibo.com/weibo?q=%E4%BF%84%E8%80%81%E5%A4%AA%E5%9B%A0%E4%B8%8D%E6%88%B4%E5%8F%A3%E7%BD%A9%E8%A2%AB%E5%94%AE%E7%A5%A8%E5%91%98%E8%B8%B9%E4%B8%8B%E8%BD%A6&Refer=top) 203264
 1. [白月光纯情初恋妆](https://s.weibo.com/weibo?q=%23%E7%99%BD%E6%9C%88%E5%85%89%E7%BA%AF%E6%83%85%E5%88%9D%E6%81%8B%E5%A6%86%23&Refer=top) 202404
 1. [我的小确幸](https://s.weibo.com/weibo?q=%23%E6%88%91%E7%9A%84%E5%B0%8F%E7%A1%AE%E5%B9%B8%23&Refer=top) 202073
 1. [新iPhone在中国创下历史最高纪录](https://s.weibo.com/weibo?q=%23%E6%96%B0iPhone%E5%9C%A8%E4%B8%AD%E5%9B%BD%E5%88%9B%E4%B8%8B%E5%8E%86%E5%8F%B2%E6%9C%80%E9%AB%98%E7%BA%AA%E5%BD%95%23&Refer=top) 198650
@@ -67,9 +68,9 @@
 1. [这些防护用品不能带上飞机](https://s.weibo.com/weibo?q=%23%E8%BF%99%E4%BA%9B%E9%98%B2%E6%8A%A4%E7%94%A8%E5%93%81%E4%B8%8D%E8%83%BD%E5%B8%A6%E4%B8%8A%E9%A3%9E%E6%9C%BA%23&Refer=top) 120349
 1. [平底锅拉丝奶枣](https://s.weibo.com/weibo?q=%23%E5%B9%B3%E5%BA%95%E9%94%85%E6%8B%89%E4%B8%9D%E5%A5%B6%E6%9E%A3%23&Refer=top) 119253
 1. [合成大西瓜](https://s.weibo.com/weibo?q=%E5%90%88%E6%88%90%E5%A4%A7%E8%A5%BF%E7%93%9C&Refer=top) 118883
-1. [俄老太因不戴口罩被售票员踹下车](https://s.weibo.com/weibo?q=%E4%BF%84%E8%80%81%E5%A4%AA%E5%9B%A0%E4%B8%8D%E6%88%B4%E5%8F%A3%E7%BD%A9%E8%A2%AB%E5%94%AE%E7%A5%A8%E5%91%98%E8%B8%B9%E4%B8%8B%E8%BD%A6&Refer=top) 85443
 1. [股票](https://s.weibo.com/weibo?q=%E8%82%A1%E7%A5%A8&Refer=top) 66430
-1. [基金](https://s.weibo.com/weibo?q=%E5%9F%BA%E9%87%91&Refer=top) 24360
+1. [基金](https://s.weibo.com/weibo?q=%E5%9F%BA%E9%87%91&Refer=top) 36933
+1. [春运](https://s.weibo.com/weibo?q=%E6%98%A5%E8%BF%90&Refer=top) 34150
 1. [山海情](https://s.weibo.com/weibo?q=%E5%B1%B1%E6%B5%B7%E6%83%85&Refer=top) 17197
 <!-- Rank End -->
 
