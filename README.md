@@ -14,7 +14,7 @@
 
 <!-- Rank Begin -->
 
-最后更新时间 2021-01-31 01:35:23
+最后更新时间 2021-01-31 02:19:03
 
 1. [周迅躺着玩手机鼻梁被砸伤](https://s.weibo.com/weibo?q=%23%E5%91%A8%E8%BF%85%E8%BA%BA%E7%9D%80%E7%8E%A9%E6%89%8B%E6%9C%BA%E9%BC%BB%E6%A2%81%E8%A2%AB%E7%A0%B8%E4%BC%A4%23&Refer=top) 3734661
 1. [张文宏称就地过年是作出了牺牲](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%96%87%E5%AE%8F%E7%A7%B0%E5%B0%B1%E5%9C%B0%E8%BF%87%E5%B9%B4%E6%98%AF%E4%BD%9C%E5%87%BA%E4%BA%86%E7%89%BA%E7%89%B2%23&Refer=top) 3669356
@@ -50,6 +50,7 @@
 1. [檀健次符龙飞双人舞台](https://s.weibo.com/weibo?q=%23%E6%AA%80%E5%81%A5%E6%AC%A1%E7%AC%A6%E9%BE%99%E9%A3%9E%E5%8F%8C%E4%BA%BA%E8%88%9E%E5%8F%B0%23&Refer=top) 375098
 1. [河北2男子伪造核酸报告进京被拘](https://s.weibo.com/weibo?q=%E6%B2%B3%E5%8C%972%E7%94%B7%E5%AD%90%E4%BC%AA%E9%80%A0%E6%A0%B8%E9%85%B8%E6%8A%A5%E5%91%8A%E8%BF%9B%E4%BA%AC%E8%A2%AB%E6%8B%98&Refer=top) 362096
 1. [怦然再心动](https://s.weibo.com/weibo?q=%E6%80%A6%E7%84%B6%E5%86%8D%E5%BF%83%E5%8A%A8&Refer=top) 329793
+1. [胡叠效应](https://s.weibo.com/weibo?q=%E8%83%A1%E5%8F%A0%E6%95%88%E5%BA%94&Refer=top) 329087
 1. [教育部答复防止男性青少年女性化提案](https://s.weibo.com/weibo?q=%23%E6%95%99%E8%82%B2%E9%83%A8%E7%AD%94%E5%A4%8D%E9%98%B2%E6%AD%A2%E7%94%B7%E6%80%A7%E9%9D%92%E5%B0%91%E5%B9%B4%E5%A5%B3%E6%80%A7%E5%8C%96%E6%8F%90%E6%A1%88%23&Refer=top) 323706
 1. [追光吧哥哥](https://s.weibo.com/weibo?q=%E8%BF%BD%E5%85%89%E5%90%A7%E5%93%A5%E5%93%A5&Refer=top) 317903
 1. [我就是演员](https://s.weibo.com/weibo?q=%E6%88%91%E5%B0%B1%E6%98%AF%E6%BC%94%E5%91%98&Refer=top) 303188
@@ -65,11 +66,12 @@
 1. [风起霓裳](https://s.weibo.com/weibo?q=%E9%A3%8E%E8%B5%B7%E9%9C%93%E8%A3%B3&Refer=top) 197234
 1. [谢可寅怼脸哭戏](https://s.weibo.com/weibo?q=%23%E8%B0%A2%E5%8F%AF%E5%AF%85%E6%80%BC%E8%84%B8%E5%93%AD%E6%88%8F%23&Refer=top) 159841
 1. [11名美军士兵误把防冻液当酒喝](https://s.weibo.com/weibo?q=%2311%E5%90%8D%E7%BE%8E%E5%86%9B%E5%A3%AB%E5%85%B5%E8%AF%AF%E6%8A%8A%E9%98%B2%E5%86%BB%E6%B6%B2%E5%BD%93%E9%85%92%E5%96%9D%23&Refer=top) 144794
+1. [中方不再承认所谓BNO护照为有效证件](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E6%96%B9%E4%B8%8D%E5%86%8D%E6%89%BF%E8%AE%A4%E6%89%80%E8%B0%93BNO%E6%8A%A4%E7%85%A7%E4%B8%BA%E6%9C%89%E6%95%88%E8%AF%81%E4%BB%B6%23&Refer=top) 143249
 1. [学生考试的迷惑行为](https://s.weibo.com/weibo?q=%23%E5%AD%A6%E7%94%9F%E8%80%83%E8%AF%95%E7%9A%84%E8%BF%B7%E6%83%91%E8%A1%8C%E4%B8%BA%23&Refer=top) 139177
 1. [奇葩说](https://s.weibo.com/weibo?q=%E5%A5%87%E8%91%A9%E8%AF%B4&Refer=top) 112586
 1. [边防战士巡逻路上捡到小奶狗续集](https://s.weibo.com/weibo?q=%23%E8%BE%B9%E9%98%B2%E6%88%98%E5%A3%AB%E5%B7%A1%E9%80%BB%E8%B7%AF%E4%B8%8A%E6%8D%A1%E5%88%B0%E5%B0%8F%E5%A5%B6%E7%8B%97%E7%BB%AD%E9%9B%86%23&Refer=top) 89526
 1. [世界极限运动会谷爱凌夺冠创历史](https://s.weibo.com/weibo?q=%E4%B8%96%E7%95%8C%E6%9E%81%E9%99%90%E8%BF%90%E5%8A%A8%E4%BC%9A%E8%B0%B7%E7%88%B1%E5%87%8C%E5%A4%BA%E5%86%A0%E5%88%9B%E5%8E%86%E5%8F%B2&Refer=top) 87397
-1. [山海情](https://s.weibo.com/weibo?q=%E5%B1%B1%E6%B5%B7%E6%83%85&Refer=top) 59031
+1. [山海情](https://s.weibo.com/weibo?q=%E5%B1%B1%E6%B5%B7%E6%83%85&Refer=top) 75938
 <!-- Rank End -->
 
 历史归档 [./archives](./archives)
