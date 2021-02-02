@@ -202,5 +202,9 @@
   "基金": {
     "href": "https://s.weibo.com/weibo?q=%E5%9F%BA%E9%87%91&Refer=top",
     "hot": 29275
+  },
+  "2021LPL": {
+    "href": "https://s.weibo.com/weibo?q=%232021LPL%23&Refer=top",
+    "hot": 24140
   }
 }
