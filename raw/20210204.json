@@ -214,5 +214,13 @@
   "正青春": {
     "href": "https://s.weibo.com/weibo?q=%E6%AD%A3%E9%9D%92%E6%98%A5&Refer=top",
     "hot": 66564
+  },
+  "CBA": {
+    "href": "https://s.weibo.com/weibo?q=CBA&Refer=top",
+    "hot": 30637
+  },
+  "立春": {
+    "href": "https://s.weibo.com/weibo?q=%23%E7%AB%8B%E6%98%A5%23&Refer=top",
+    "hot": 29932
   }
 }
