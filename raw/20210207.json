@@ -167,6 +167,10 @@
     "href": "https://s.weibo.com/weibo?q=%23LWX%E9%9C%9E%23&Refer=top",
     "hot": 129201
   },
+  "贾玲问水瓶你刚干嘛去了": {
+    "href": "https://s.weibo.com/weibo?q=%23%E8%B4%BE%E7%8E%B2%E9%97%AE%E6%B0%B4%E7%93%B6%E4%BD%A0%E5%88%9A%E5%B9%B2%E5%98%9B%E5%8E%BB%E4%BA%86%23&Refer=top",
+    "hot": 125454
+  },
   "快乐大本营": {
     "href": "https://s.weibo.com/weibo?q=%E5%BF%AB%E4%B9%90%E5%A4%A7%E6%9C%AC%E8%90%A5&Refer=top",
     "hot": 123461
@@ -191,12 +195,16 @@
     "href": "https://s.weibo.com/weibo?q=%E7%8E%B2%E7%8F%91&Refer=top",
     "hot": 84903
   },
-  "贾玲问水瓶你刚干嘛去了": {
-    "href": "https://s.weibo.com/weibo?q=%23%E8%B4%BE%E7%8E%B2%E9%97%AE%E6%B0%B4%E7%93%B6%E4%BD%A0%E5%88%9A%E5%B9%B2%E5%98%9B%E5%8E%BB%E4%BA%86%23&Refer=top",
-    "hot": 70517
-  },
   "贺希宁受伤": {
     "href": "https://s.weibo.com/weibo?q=%E8%B4%BA%E5%B8%8C%E5%AE%81%E5%8F%97%E4%BC%A4&Refer=top",
     "hot": 67070
+  },
+  "金牌喜剧班": {
+    "href": "https://s.weibo.com/weibo?q=%E9%87%91%E7%89%8C%E5%96%9C%E5%89%A7%E7%8F%AD&Refer=top",
+    "hot": 43697
+  },
+  "中科大送学生量子力学导论乳酪饼": {
+    "href": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E7%A7%91%E5%A4%A7%E9%80%81%E5%AD%A6%E7%94%9F%E9%87%8F%E5%AD%90%E5%8A%9B%E5%AD%A6%E5%AF%BC%E8%AE%BA%E4%B9%B3%E9%85%AA%E9%A5%BC%23&Refer=top",
+    "hot": 30641
   }
 }
