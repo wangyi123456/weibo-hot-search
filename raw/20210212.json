@@ -278,5 +278,9 @@
   "雷佳军装": {
     "href": "https://s.weibo.com/weibo?q=%E9%9B%B7%E4%BD%B3%E5%86%9B%E8%A3%85&Refer=top",
     "hot": 120031
+  },
+  "NBA": {
+    "href": "https://s.weibo.com/weibo?q=NBA&Refer=top",
+    "hot": 88250
   }
 }
