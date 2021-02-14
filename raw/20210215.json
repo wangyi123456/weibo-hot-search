@@ -218,5 +218,17 @@
   "新相亲大会": {
     "href": "https://s.weibo.com/weibo?q=%E6%96%B0%E7%9B%B8%E4%BA%B2%E5%A4%A7%E4%BC%9A&Refer=top",
     "hot": 48271
+  },
+  "情人节": {
+    "href": "https://s.weibo.com/weibo?q=%E6%83%85%E4%BA%BA%E8%8A%82&Refer=top",
+    "hot": 43742
+  },
+  "人潮汹涌台词": {
+    "href": "https://s.weibo.com/weibo?q=%23%E4%BA%BA%E6%BD%AE%E6%B1%B9%E6%B6%8C%E5%8F%B0%E8%AF%8D%23&Refer=top",
+    "hot": 30646
+  },
+  "刺杀小说家": {
+    "href": "https://s.weibo.com/weibo?q=%E5%88%BA%E6%9D%80%E5%B0%8F%E8%AF%B4%E5%AE%B6&Refer=top",
+    "hot": 28021
   }
 }
