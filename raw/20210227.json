@@ -251,6 +251,10 @@
     "href": "https://s.weibo.com/weibo?q=%E5%85%83%E5%AE%B5%E8%8A%82%E5%BF%AB%E4%B9%90&Refer=top",
     "hot": 95377
   },
+  "华晨宇猜热依扎为迪丽热扎": {
+    "href": "https://s.weibo.com/weibo?q=%E5%8D%8E%E6%99%A8%E5%AE%87%E7%8C%9C%E7%83%AD%E4%BE%9D%E6%89%8E%E4%B8%BA%E8%BF%AA%E4%B8%BD%E7%83%AD%E6%89%8E&Refer=top",
+    "hot": 55036
+  },
   "缉魂": {
     "href": "https://s.weibo.com/weibo?q=%E7%BC%89%E9%AD%82&Refer=top",
     "hot": 51159
@@ -266,5 +270,9 @@
   "老师对比家长收入歧视学生": {
     "href": "https://s.weibo.com/weibo?q=%E8%80%81%E5%B8%88%E5%AF%B9%E6%AF%94%E5%AE%B6%E9%95%BF%E6%94%B6%E5%85%A5%E6%AD%A7%E8%A7%86%E5%AD%A6%E7%94%9F&Refer=top",
     "hot": 30034
+  },
+  "赘婿": {
+    "href": "https://s.weibo.com/weibo?q=%E8%B5%98%E5%A9%BF&Refer=top",
+    "hot": 19056
   }
 }
