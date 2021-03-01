@@ -238,5 +238,9 @@
   "CBA": {
     "href": "https://s.weibo.com/weibo?q=CBA&Refer=top",
     "hot": 21627
+  },
+  "河北省考公告": {
+    "href": "https://s.weibo.com/weibo?q=%E6%B2%B3%E5%8C%97%E7%9C%81%E8%80%83%E5%85%AC%E5%91%8A&Refer=top",
+    "hot": 18514
   }
 }
