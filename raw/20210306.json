@@ -219,8 +219,16 @@
     "href": "https://s.weibo.com/weibo?q=%23%E7%8E%B2%E7%8F%91%E5%A4%A7%E7%BB%93%E5%B1%80%23&Refer=top",
     "hot": 52400
   },
+  "广州上海地铁乘车码一码通行": {
+    "href": "https://s.weibo.com/weibo?q=%23%E5%B9%BF%E5%B7%9E%E4%B8%8A%E6%B5%B7%E5%9C%B0%E9%93%81%E4%B9%98%E8%BD%A6%E7%A0%81%E4%B8%80%E7%A0%81%E9%80%9A%E8%A1%8C%23&Refer=top",
+    "hot": 43042
+  },
   "暴风眼": {
     "href": "https://s.weibo.com/weibo?q=%23%E6%9A%B4%E9%A3%8E%E7%9C%BC%23&Refer=top",
     "hot": 39298
+  },
+  "交通部约谈滴滴": {
+    "href": "https://s.weibo.com/weibo?q=%E4%BA%A4%E9%80%9A%E9%83%A8%E7%BA%A6%E8%B0%88%E6%BB%B4%E6%BB%B4&Refer=top",
+    "hot": 22722
   }
 }
