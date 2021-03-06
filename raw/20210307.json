@@ -231,12 +231,16 @@
     "href": "https://s.weibo.com/weibo?q=%E7%A9%BA%E5%86%9B%E5%94%AF%E4%B8%80%E4%B8%80%E6%94%AF%E5%A5%B3%E5%AD%90%E7%89%B9%E6%88%98%E5%B0%8F%E9%98%9F&Refer=top",
     "hot": 67371
   },
-  "RNG战胜EDG": {
-    "href": "https://s.weibo.com/weibo?q=%23RNG%E6%88%98%E8%83%9CEDG%23&Refer=top",
-    "hot": 29160
+  "山河令预告": {
+    "href": "https://s.weibo.com/weibo?q=%E5%B1%B1%E6%B2%B3%E4%BB%A4%E9%A2%84%E5%91%8A&Refer=top",
+    "hot": 34588
   },
   "暴风眼": {
     "href": "https://s.weibo.com/weibo?q=%23%E6%9A%B4%E9%A3%8E%E7%9C%BC%23&Refer=top",
-    "hot": 19974
+    "hot": 34453
+  },
+  "RNG战胜EDG": {
+    "href": "https://s.weibo.com/weibo?q=%23RNG%E6%88%98%E8%83%9CEDG%23&Refer=top",
+    "hot": 31533
   }
 }
