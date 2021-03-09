@@ -199,8 +199,16 @@
     "href": "https://s.weibo.com/weibo?q=%E9%98%BF%E5%87%A1%E8%BE%BE&Refer=top",
     "hot": 107550
   },
+  "王源新发色": {
+    "href": "https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%BA%90%E6%96%B0%E5%8F%91%E8%89%B2%23&Refer=top",
+    "hot": 105246
+  },
   "毒花生案报案车行已暂停营业": {
     "href": "https://s.weibo.com/weibo?q=%E6%AF%92%E8%8A%B1%E7%94%9F%E6%A1%88%E6%8A%A5%E6%A1%88%E8%BD%A6%E8%A1%8C%E5%B7%B2%E6%9A%82%E5%81%9C%E8%90%A5%E4%B8%9A&Refer=top",
-    "hot": 70794
+    "hot": 77870
+  },
+  "A股": {
+    "href": "https://s.weibo.com/weibo?q=%23A%E8%82%A1%23&Refer=top",
+    "hot": 44446
   }
 }
