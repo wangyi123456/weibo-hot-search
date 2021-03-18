@@ -223,6 +223,10 @@
     "href": "https://s.weibo.com/weibo?q=%23%E8%BF%91%E7%99%BE%E5%B9%B4%E5%89%8D%E7%94%B7%E5%AD%A9%E8%87%AA%E4%BF%A1%E7%94%A8%E8%8B%B1%E6%96%87%E4%BB%8B%E7%BB%8D%E4%B8%AD%E5%9B%BD%23&Refer=top",
     "hot": 38461
   },
+  "锦心似玉": {
+    "href": "https://s.weibo.com/weibo?q=%E9%94%A6%E5%BF%83%E4%BC%BC%E7%8E%89&Refer=top",
+    "hot": 28138
+  },
   "戴希希向段序逼婚": {
     "href": "https://s.weibo.com/weibo?q=%23%E6%88%B4%E5%B8%8C%E5%B8%8C%E5%90%91%E6%AE%B5%E5%BA%8F%E9%80%BC%E5%A9%9A%23&Refer=top",
     "hot": 26089
@@ -231,12 +235,12 @@
     "href": "https://s.weibo.com/weibo?q=%E4%B8%80%E8%AF%BA%E9%B2%81%E7%8F%AD%E5%9B%9B%E6%9D%80&Refer=top",
     "hot": 25814
   },
-  "锦心似玉": {
-    "href": "https://s.weibo.com/weibo?q=%E9%94%A6%E5%BF%83%E4%BC%BC%E7%8E%89&Refer=top",
-    "hot": 20453
-  },
   "义务教育质量评价指南发布": {
     "href": "https://s.weibo.com/weibo?q=%23%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E8%B4%A8%E9%87%8F%E8%AF%84%E4%BB%B7%E6%8C%87%E5%8D%97%E5%8F%91%E5%B8%83%23&Refer=top",
-    "hot": 17378
+    "hot": 24033
+  },
+  "亚特兰大枪击案": {
+    "href": "https://s.weibo.com/weibo?q=%E4%BA%9A%E7%89%B9%E5%85%B0%E5%A4%A7%E6%9E%AA%E5%87%BB%E6%A1%88&Refer=top",
+    "hot": 22171
   }
 }
