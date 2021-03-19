@@ -222,5 +222,13 @@
   "欧冠抽签": {
     "href": "https://s.weibo.com/weibo?q=%E6%AC%A7%E5%86%A0%E6%8A%BD%E7%AD%BE&Refer=top",
     "hot": 84046
+  },
+  "接招吧前辈": {
+    "href": "https://s.weibo.com/weibo?q=%E6%8E%A5%E6%8B%9B%E5%90%A7%E5%89%8D%E8%BE%88&Refer=top",
+    "hot": 43172
+  },
+  "柠檬身价暴涨": {
+    "href": "https://s.weibo.com/weibo?q=%E6%9F%A0%E6%AA%AC%E8%BA%AB%E4%BB%B7%E6%9A%B4%E6%B6%A8&Refer=top",
+    "hot": 40244
   }
 }
