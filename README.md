@@ -14,7 +14,7 @@
 
 <!-- Rank Begin -->
 
-最后更新时间 2021-03-26 01:23:25
+最后更新时间 2021-03-26 02:28:23
 
 1. [FILA中国退出BCI](https://s.weibo.com/weibo?q=%23FILA%E4%B8%AD%E5%9B%BD%E9%80%80%E5%87%BABCI%23&Refer=top) 3838616
 1. [BCI上海办事处回应](https://s.weibo.com/weibo?q=%23BCI%E4%B8%8A%E6%B5%B7%E5%8A%9E%E4%BA%8B%E5%A4%84%E5%9B%9E%E5%BA%94%23&Refer=top) 3461100
@@ -67,6 +67,7 @@
 1. [昆明海关破获案值11亿元头发走私案](https://s.weibo.com/weibo?q=%23%E6%98%86%E6%98%8E%E6%B5%B7%E5%85%B3%E7%A0%B4%E8%8E%B7%E6%A1%88%E5%80%BC11%E4%BA%BF%E5%85%83%E5%A4%B4%E5%8F%91%E8%B5%B0%E7%A7%81%E6%A1%88%23&Refer=top) 179728
 1. [新疆机械化采棉画面](https://s.weibo.com/weibo?q=%23%E6%96%B0%E7%96%86%E6%9C%BA%E6%A2%B0%E5%8C%96%E9%87%87%E6%A3%89%E7%94%BB%E9%9D%A2%23&Refer=top) 178079
 1. [成都ayo音乐节](https://s.weibo.com/weibo?q=%E6%88%90%E9%83%BDayo%E9%9F%B3%E4%B9%90%E8%8A%82&Refer=top) 113306
+1. [费加罗风尚盛典](https://s.weibo.com/weibo?q=%23%E8%B4%B9%E5%8A%A0%E7%BD%97%E9%A3%8E%E5%B0%9A%E7%9B%9B%E5%85%B8%23&Refer=top) 56093
 <!-- Rank End -->
 
 历史归档 [./archives](./archives)
