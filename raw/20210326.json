@@ -211,8 +211,16 @@
     "href": "https://s.weibo.com/weibo?q=%E5%8F%B8%E8%97%A4&Refer=top",
     "hot": 32364
   },
+  "一起深呼吸是悬疑剧吧": {
+    "href": "https://s.weibo.com/weibo?q=%23%E4%B8%80%E8%B5%B7%E6%B7%B1%E5%91%BC%E5%90%B8%E6%98%AF%E6%82%AC%E7%96%91%E5%89%A7%E5%90%A7%23&Refer=top",
+    "hot": 28763
+  },
   "阿迪达斯": {
     "href": "https://s.weibo.com/weibo?q=%23%E9%98%BF%E8%BF%AA%E8%BE%BE%E6%96%AF%23&Refer=top",
     "hot": 22426
+  },
+  "新冠疫苗": {
+    "href": "https://s.weibo.com/weibo?q=%E6%96%B0%E5%86%A0%E7%96%AB%E8%8B%97&Refer=top",
+    "hot": 21750
   }
 }
