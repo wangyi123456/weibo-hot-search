@@ -227,12 +227,12 @@
     "href": "https://s.weibo.com/weibo?q=%E6%AC%A2%E4%B9%90%E5%96%9C%E5%89%A7%E4%BA%BA&Refer=top",
     "hot": 37782
   },
-  "KPL": {
-    "href": "https://s.weibo.com/weibo?q=KPL&Refer=top",
-    "hot": 23869
-  },
   "山河令": {
     "href": "https://s.weibo.com/weibo?q=%E5%B1%B1%E6%B2%B3%E4%BB%A4&Refer=top",
-    "hot": 23773
+    "hot": 28438
+  },
+  "KPL": {
+    "href": "https://s.weibo.com/weibo?q=KPL&Refer=top",
+    "hot": 24131
   }
 }
