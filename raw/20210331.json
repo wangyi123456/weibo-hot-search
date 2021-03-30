@@ -194,5 +194,13 @@
   "每朵云都有自己的故事": {
     "href": "https://s.weibo.com/weibo?q=%23%E6%AF%8F%E6%9C%B5%E4%BA%91%E9%83%BD%E6%9C%89%E8%87%AA%E5%B7%B1%E7%9A%84%E6%95%85%E4%BA%8B%23&Refer=top",
     "hot": 150328
+  },
+  "小米发布会": {
+    "href": "https://s.weibo.com/weibo?q=%E5%B0%8F%E7%B1%B3%E5%8F%91%E5%B8%83%E4%BC%9A&Refer=top",
+    "hot": 75410
+  },
+  "张艺上演的端木翠": {
+    "href": "https://s.weibo.com/weibo?q=%23%E5%BC%A0%E8%89%BA%E4%B8%8A%E6%BC%94%E7%9A%84%E7%AB%AF%E6%9C%A8%E7%BF%A0%23&Refer=top",
+    "hot": 50615
   }
 }
