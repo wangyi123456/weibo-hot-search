@@ -14,7 +14,7 @@
 
 <!-- Rank Begin -->
 
-最后更新时间 2021-04-02 01:42:31
+最后更新时间 2021-04-02 02:27:36
 
 1. [黄奕 实力不允许我男朋友坐经济舱](https://s.weibo.com/weibo?q=%E9%BB%84%E5%A5%95%20%E5%AE%9E%E5%8A%9B%E4%B8%8D%E5%85%81%E8%AE%B8%E6%88%91%E7%94%B7%E6%9C%8B%E5%8F%8B%E5%9D%90%E7%BB%8F%E6%B5%8E%E8%88%B1&Refer=top) 1807140
 1. [30秒了解女性打新冠疫苗要点](https://s.weibo.com/weibo?q=%2330%E7%A7%92%E4%BA%86%E8%A7%A3%E5%A5%B3%E6%80%A7%E6%89%93%E6%96%B0%E5%86%A0%E7%96%AB%E8%8B%97%E8%A6%81%E7%82%B9%23&Refer=top) 1457323
@@ -67,6 +67,8 @@
 1. [夫妻家庭地位由经济决定吗](https://s.weibo.com/weibo?q=%23%E5%A4%AB%E5%A6%BB%E5%AE%B6%E5%BA%AD%E5%9C%B0%E4%BD%8D%E7%94%B1%E7%BB%8F%E6%B5%8E%E5%86%B3%E5%AE%9A%E5%90%97%23&Refer=top) 126190
 1. [主人含泪为退役导盲犬找领养家庭](https://s.weibo.com/weibo?q=%23%E4%B8%BB%E4%BA%BA%E5%90%AB%E6%B3%AA%E4%B8%BA%E9%80%80%E5%BD%B9%E5%AF%BC%E7%9B%B2%E7%8A%AC%E6%89%BE%E9%A2%86%E5%85%BB%E5%AE%B6%E5%BA%AD%23&Refer=top) 107135
 1. [心疼长歌](https://s.weibo.com/weibo?q=%23%E5%BF%83%E7%96%BC%E9%95%BF%E6%AD%8C%23&Refer=top) 106835
+1. [严浩翔挑染蓝发造型](https://s.weibo.com/weibo?q=%23%E4%B8%A5%E6%B5%A9%E7%BF%94%E6%8C%91%E6%9F%93%E8%93%9D%E5%8F%91%E9%80%A0%E5%9E%8B%23&Refer=top) 62530
+1. [LPL](https://s.weibo.com/weibo?q=LPL&Refer=top) 38568
 <!-- Rank End -->
 
 历史归档 [./archives](./archives)
