@@ -215,16 +215,24 @@
     "href": "https://s.weibo.com/weibo?q=LPL&Refer=top",
     "hot": 38568
   },
+  "街电搜电宣布合并": {
+    "href": "https://s.weibo.com/weibo?q=%E8%A1%97%E7%94%B5%E6%90%9C%E7%94%B5%E5%AE%A3%E5%B8%83%E5%90%88%E5%B9%B6&Refer=top",
+    "hot": 21380
+  },
+  "长歌行": {
+    "href": "https://s.weibo.com/weibo?q=%E9%95%BF%E6%AD%8C%E8%A1%8C&Refer=top",
+    "hot": 21330
+  },
+  "司藤": {
+    "href": "https://s.weibo.com/weibo?q=%E5%8F%B8%E8%97%A4&Refer=top",
+    "hot": 20684
+  },
   "RA战胜iG": {
     "href": "https://s.weibo.com/weibo?q=%23RA%E6%88%98%E8%83%9CiG%23&Refer=top",
     "hot": 20406
   },
-  "街电搜电宣布合并": {
-    "href": "https://s.weibo.com/weibo?q=%E8%A1%97%E7%94%B5%E6%90%9C%E7%94%B5%E5%AE%A3%E5%B8%83%E5%90%88%E5%B9%B6&Refer=top",
-    "hot": 19490
-  },
-  "长歌行": {
-    "href": "https://s.weibo.com/weibo?q=%E9%95%BF%E6%AD%8C%E8%A1%8C&Refer=top",
-    "hot": 16647
+  "窥探": {
+    "href": "https://s.weibo.com/weibo?q=%E7%AA%A5%E6%8E%A2&Refer=top",
+    "hot": 19749
   }
 }
