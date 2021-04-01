@@ -14,7 +14,7 @@
 
 <!-- Rank Begin -->
 
-最后更新时间 2021-04-02 00:20:04
+最后更新时间 2021-04-02 01:42:31
 
 1. [黄奕 实力不允许我男朋友坐经济舱](https://s.weibo.com/weibo?q=%E9%BB%84%E5%A5%95%20%E5%AE%9E%E5%8A%9B%E4%B8%8D%E5%85%81%E8%AE%B8%E6%88%91%E7%94%B7%E6%9C%8B%E5%8F%8B%E5%9D%90%E7%BB%8F%E6%B5%8E%E8%88%B1&Refer=top) 1807140
 1. [30秒了解女性打新冠疫苗要点](https://s.weibo.com/weibo?q=%2330%E7%A7%92%E4%BA%86%E8%A7%A3%E5%A5%B3%E6%80%A7%E6%89%93%E6%96%B0%E5%86%A0%E7%96%AB%E8%8B%97%E8%A6%81%E7%82%B9%23&Refer=top) 1457323
@@ -59,7 +59,9 @@
 1. [首尔江南区房价降10%](https://s.weibo.com/weibo?q=%23%E9%A6%96%E5%B0%94%E6%B1%9F%E5%8D%97%E5%8C%BA%E6%88%BF%E4%BB%B7%E9%99%8D10%25%23&Refer=top) 163187
 1. [许冠杰唱沉默是金](https://s.weibo.com/weibo?q=%E8%AE%B8%E5%86%A0%E6%9D%B0%E5%94%B1%E6%B2%89%E9%BB%98%E6%98%AF%E9%87%91&Refer=top) 155042
 1. [我的姐姐](https://s.weibo.com/weibo?q=%E6%88%91%E7%9A%84%E5%A7%90%E5%A7%90&Refer=top) 150423
+1. [龚俊跟薇娅说女儿取名龚得起](https://s.weibo.com/weibo?q=%23%E9%BE%9A%E4%BF%8A%E8%B7%9F%E8%96%87%E5%A8%85%E8%AF%B4%E5%A5%B3%E5%84%BF%E5%8F%96%E5%90%8D%E9%BE%9A%E5%BE%97%E8%B5%B7%23&Refer=top) 148062
 1. [河南一女子身份被冒用贷款200万](https://s.weibo.com/weibo?q=%E6%B2%B3%E5%8D%97%E4%B8%80%E5%A5%B3%E5%AD%90%E8%BA%AB%E4%BB%BD%E8%A2%AB%E5%86%92%E7%94%A8%E8%B4%B7%E6%AC%BE200%E4%B8%87&Refer=top) 146783
+1. [BTS新歌](https://s.weibo.com/weibo?q=BTS%E6%96%B0%E6%AD%8C&Refer=top) 146741
 1. [警方称将查处20万自制停车掉头系统](https://s.weibo.com/weibo?q=%23%E8%AD%A6%E6%96%B9%E7%A7%B0%E5%B0%86%E6%9F%A5%E5%A4%8420%E4%B8%87%E8%87%AA%E5%88%B6%E5%81%9C%E8%BD%A6%E6%8E%89%E5%A4%B4%E7%B3%BB%E7%BB%9F%23&Refer=top) 142823
 1. [五十公里桃花坞路透](https://s.weibo.com/weibo?q=%23%E4%BA%94%E5%8D%81%E5%85%AC%E9%87%8C%E6%A1%83%E8%8A%B1%E5%9D%9E%E8%B7%AF%E9%80%8F%23&Refer=top) 138469
 1. [夫妻家庭地位由经济决定吗](https://s.weibo.com/weibo?q=%23%E5%A4%AB%E5%A6%BB%E5%AE%B6%E5%BA%AD%E5%9C%B0%E4%BD%8D%E7%94%B1%E7%BB%8F%E6%B5%8E%E5%86%B3%E5%AE%9A%E5%90%97%23&Refer=top) 126190
