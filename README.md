@@ -14,7 +14,7 @@
 
 <!-- Rank Begin -->
 
-最后更新时间 2021-04-11 04:11:39
+最后更新时间 2021-04-11 05:10:22
 
 1. [王子文改微博名](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E5%AD%90%E6%96%87%E6%94%B9%E5%BE%AE%E5%8D%9A%E5%90%8D%23&Refer=top) 5838200
 1. [27年前自考北大保安如今已是校长](https://s.weibo.com/weibo?q=%2327%E5%B9%B4%E5%89%8D%E8%87%AA%E8%80%83%E5%8C%97%E5%A4%A7%E4%BF%9D%E5%AE%89%E5%A6%82%E4%BB%8A%E5%B7%B2%E6%98%AF%E6%A0%A1%E9%95%BF%23&Refer=top) 4108895
@@ -75,6 +75,7 @@
 1. [杨九郎即兴捧哏能力](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E4%B9%9D%E9%83%8E%E5%8D%B3%E5%85%B4%E6%8D%A7%E5%93%8F%E8%83%BD%E5%8A%9B%23&Refer=top) 91747
 1. [孟鹤堂rap](https://s.weibo.com/weibo?q=%E5%AD%9F%E9%B9%A4%E5%A0%82rap&Refer=top) 58850
 1. [LPL](https://s.weibo.com/weibo?q=LPL&Refer=top) 35736
+1. [RNG战胜TES](https://s.weibo.com/weibo?q=%23RNG%E6%88%98%E8%83%9CTES%23&Refer=top) 20165
 <!-- Rank End -->
 
 历史归档 [./archives](./archives)
