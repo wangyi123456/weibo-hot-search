@@ -14,7 +14,7 @@
 
 <!-- Rank Begin -->
 
-最后更新时间 2021-04-18 01:32:26
+最后更新时间 2021-04-18 02:19:47
 
 1. [郑恺今年办婚礼](https://s.weibo.com/weibo?q=%E9%83%91%E6%81%BA%E4%BB%8A%E5%B9%B4%E5%8A%9E%E5%A9%9A%E7%A4%BC&Refer=top) 2257779
 1. [五一国内出游有望达2亿人次](https://s.weibo.com/weibo?q=%23%E4%BA%94%E4%B8%80%E5%9B%BD%E5%86%85%E5%87%BA%E6%B8%B8%E6%9C%89%E6%9C%9B%E8%BE%BE2%E4%BA%BF%E4%BA%BA%E6%AC%A1%23&Refer=top) 1718036
@@ -64,9 +64,12 @@
 1. [整颗蜜瓜蛋糕](https://s.weibo.com/weibo?q=%23%E6%95%B4%E9%A2%97%E8%9C%9C%E7%93%9C%E8%9B%8B%E7%B3%95%23&Refer=top) 102697
 1. [宋亚轩 我一定会当起哥哥的责任](https://s.weibo.com/weibo?q=%E5%AE%8B%E4%BA%9A%E8%BD%A9%20%E6%88%91%E4%B8%80%E5%AE%9A%E4%BC%9A%E5%BD%93%E8%B5%B7%E5%93%A5%E5%93%A5%E7%9A%84%E8%B4%A3%E4%BB%BB&Refer=top) 91570
 1. [铁岭市政府长期不作为慢作为被通报](https://s.weibo.com/weibo?q=%23%E9%93%81%E5%B2%AD%E5%B8%82%E6%94%BF%E5%BA%9C%E9%95%BF%E6%9C%9F%E4%B8%8D%E4%BD%9C%E4%B8%BA%E6%85%A2%E4%BD%9C%E4%B8%BA%E8%A2%AB%E9%80%9A%E6%8A%A5%23&Refer=top) 73272
+1. [高空索降军犬紧紧抱住特战队员胳膊](https://s.weibo.com/weibo?q=%E9%AB%98%E7%A9%BA%E7%B4%A2%E9%99%8D%E5%86%9B%E7%8A%AC%E7%B4%A7%E7%B4%A7%E6%8A%B1%E4%BD%8F%E7%89%B9%E6%88%98%E9%98%9F%E5%91%98%E8%83%B3%E8%86%8A&Refer=top) 72155
 1. [小朋友写的诗有多温柔](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E6%9C%8B%E5%8F%8B%E5%86%99%E7%9A%84%E8%AF%97%E6%9C%89%E5%A4%9A%E6%B8%A9%E6%9F%94%23&Refer=top) 70898
 1. [还有两周五一小长假](https://s.weibo.com/weibo?q=%23%E8%BF%98%E6%9C%89%E4%B8%A4%E5%91%A8%E4%BA%94%E4%B8%80%E5%B0%8F%E9%95%BF%E5%81%87%23&Refer=top) 64425
 1. [CBA季后赛8进4对阵](https://s.weibo.com/weibo?q=CBA%E5%AD%A3%E5%90%8E%E8%B5%9B8%E8%BF%9B4%E5%AF%B9%E9%98%B5&Refer=top) 63643
+1. [美国近一个月发生45起大规模枪击案](https://s.weibo.com/weibo?q=%E7%BE%8E%E5%9B%BD%E8%BF%91%E4%B8%80%E4%B8%AA%E6%9C%88%E5%8F%91%E7%94%9F45%E8%B5%B7%E5%A4%A7%E8%A7%84%E6%A8%A1%E6%9E%AA%E5%87%BB%E6%A1%88&Refer=top) 49775
+1. [长歌行](https://s.weibo.com/weibo?q=%E9%95%BF%E6%AD%8C%E8%A1%8C&Refer=top) 25422
 <!-- Rank End -->
 
 历史归档 [./archives](./archives)
