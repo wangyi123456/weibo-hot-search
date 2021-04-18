@@ -14,7 +14,7 @@
 
 <!-- Rank Begin -->
 
-最后更新时间 2021-04-19 05:10:02
+最后更新时间 2021-04-19 06:12:46
 
 1. [贾乃亮是从工地回来吗](https://s.weibo.com/weibo?q=%23%E8%B4%BE%E4%B9%83%E4%BA%AE%E6%98%AF%E4%BB%8E%E5%B7%A5%E5%9C%B0%E5%9B%9E%E6%9D%A5%E5%90%97%23&Refer=top) 1388129
 1. [台湾花莲5.6级地震](https://s.weibo.com/weibo?q=%E5%8F%B0%E6%B9%BE%E8%8A%B1%E8%8E%B25.6%E7%BA%A7%E5%9C%B0%E9%9C%87&Refer=top) 1317333
@@ -68,11 +68,13 @@
 1. [周深唱山路十八弯](https://s.weibo.com/weibo?q=%23%E5%91%A8%E6%B7%B1%E5%94%B1%E5%B1%B1%E8%B7%AF%E5%8D%81%E5%85%AB%E5%BC%AF%23&Refer=top) 67083
 1. [心疼子悠](https://s.weibo.com/weibo?q=%E5%BF%83%E7%96%BC%E5%AD%90%E6%82%A0&Refer=top) 66280
 1. [现实版福贵大爷已结婚生女](https://s.weibo.com/weibo?q=%23%E7%8E%B0%E5%AE%9E%E7%89%88%E7%A6%8F%E8%B4%B5%E5%A4%A7%E7%88%B7%E5%B7%B2%E7%BB%93%E5%A9%9A%E7%94%9F%E5%A5%B3%23&Refer=top) 62460
+1. [交警通报大巴车撞限高杆致1死6伤](https://s.weibo.com/weibo?q=%E4%BA%A4%E8%AD%A6%E9%80%9A%E6%8A%A5%E5%A4%A7%E5%B7%B4%E8%BD%A6%E6%92%9E%E9%99%90%E9%AB%98%E6%9D%86%E8%87%B41%E6%AD%BB6%E4%BC%A4&Refer=top) 55599
+1. [柯南](https://s.weibo.com/weibo?q=%E6%9F%AF%E5%8D%97&Refer=top) 42958
+1. [偷鸡蛋被拦猝死家属索赔38万被驳](https://s.weibo.com/weibo?q=%23%E5%81%B7%E9%B8%A1%E8%9B%8B%E8%A2%AB%E6%8B%A6%E7%8C%9D%E6%AD%BB%E5%AE%B6%E5%B1%9E%E7%B4%A2%E8%B5%9438%E4%B8%87%E8%A2%AB%E9%A9%B3%23&Refer=top) 38125
 1. [我国已接种新冠疫苗18980.9万剂次](https://s.weibo.com/weibo?q=%23%E6%88%91%E5%9B%BD%E5%B7%B2%E6%8E%A5%E7%A7%8D%E6%96%B0%E5%86%A0%E7%96%AB%E8%8B%9718980.9%E4%B8%87%E5%89%82%E6%AC%A1%23&Refer=top) 36925
-1. [长歌行](https://s.weibo.com/weibo?q=%E9%95%BF%E6%AD%8C%E8%A1%8C&Refer=top) 29812
+1. [长歌行](https://s.weibo.com/weibo?q=%E9%95%BF%E6%AD%8C%E8%A1%8C&Refer=top) 35605
+1. [桂林一旅游大巴撞限高架致1死6伤](https://s.weibo.com/weibo?q=%23%E6%A1%82%E6%9E%97%E4%B8%80%E6%97%85%E6%B8%B8%E5%A4%A7%E5%B7%B4%E6%92%9E%E9%99%90%E9%AB%98%E6%9E%B6%E8%87%B41%E6%AD%BB6%E4%BC%A4%23&Refer=top) 34512
 1. [FPX RNG](https://s.weibo.com/weibo?q=%23FPX%20RNG%23&Refer=top) 28620
-1. [偷鸡蛋被拦猝死家属索赔38万被驳](https://s.weibo.com/weibo?q=%23%E5%81%B7%E9%B8%A1%E8%9B%8B%E8%A2%AB%E6%8B%A6%E7%8C%9D%E6%AD%BB%E5%AE%B6%E5%B1%9E%E7%B4%A2%E8%B5%9438%E4%B8%87%E8%A2%AB%E9%A9%B3%23&Refer=top) 27957
-1. [交警通报大巴车撞限高杆致1死6伤](https://s.weibo.com/weibo?q=%E4%BA%A4%E8%AD%A6%E9%80%9A%E6%8A%A5%E5%A4%A7%E5%B7%B4%E8%BD%A6%E6%92%9E%E9%99%90%E9%AB%98%E6%9D%86%E8%87%B41%E6%AD%BB6%E4%BC%A4&Refer=top) 19919
 1. [QG掉入B组](https://s.weibo.com/weibo?q=QG%E6%8E%89%E5%85%A5B%E7%BB%84&Refer=top) 19586
 <!-- Rank End -->
 
