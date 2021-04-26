@@ -203,6 +203,10 @@
     "href": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%A2%E6%B6%89%E5%AB%8C%E5%9E%84%E6%96%AD%E8%A2%AB%E8%B0%83%E6%9F%A5%23&Refer=top",
     "hot": 81838
   },
+  "任嘉伦演技": {
+    "href": "https://s.weibo.com/weibo?q=%23%E4%BB%BB%E5%98%89%E4%BC%A6%E6%BC%94%E6%8A%80%23&Refer=top",
+    "hot": 74369
+  },
   "鹦鹉飞进小学教室蹭音乐课": {
     "href": "https://s.weibo.com/weibo?q=%E9%B9%A6%E9%B9%89%E9%A3%9E%E8%BF%9B%E5%B0%8F%E5%AD%A6%E6%95%99%E5%AE%A4%E8%B9%AD%E9%9F%B3%E4%B9%90%E8%AF%BE&Refer=top",
     "hot": 60129
@@ -210,5 +214,9 @@
   "长歌行": {
     "href": "https://s.weibo.com/weibo?q=%E9%95%BF%E6%AD%8C%E8%A1%8C&Refer=top",
     "hot": 49622
+  },
+  "印度": {
+    "href": "https://s.weibo.com/weibo?q=%E5%8D%B0%E5%BA%A6&Refer=top",
+    "hot": 36821
   }
 }
