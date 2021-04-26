@@ -14,7 +14,7 @@
 
 <!-- Rank Begin -->
 
-最后更新时间 2021-04-27 04:12:15
+最后更新时间 2021-04-27 05:10:46
 
 1. [王子文 为什么叫我小丸](https://s.weibo.com/weibo?q=%E7%8E%8B%E5%AD%90%E6%96%87%20%E4%B8%BA%E4%BB%80%E4%B9%88%E5%8F%AB%E6%88%91%E5%B0%8F%E4%B8%B8&Refer=top) 2093039
 1. [中科院回应熟蛋返生课程](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E7%A7%91%E9%99%A2%E5%9B%9E%E5%BA%94%E7%86%9F%E8%9B%8B%E8%BF%94%E7%94%9F%E8%AF%BE%E7%A8%8B%23&Refer=top) 1424297
@@ -71,8 +71,8 @@
 1. [鹦鹉飞进小学教室蹭音乐课](https://s.weibo.com/weibo?q=%E9%B9%A6%E9%B9%89%E9%A3%9E%E8%BF%9B%E5%B0%8F%E5%AD%A6%E6%95%99%E5%AE%A4%E8%B9%AD%E9%9F%B3%E4%B9%90%E8%AF%BE&Refer=top) 60129
 1. [长歌行](https://s.weibo.com/weibo?q=%E9%95%BF%E6%AD%8C%E8%A1%8C&Refer=top) 49622
 1. [印度](https://s.weibo.com/weibo?q=%E5%8D%B0%E5%BA%A6&Refer=top) 36821
+1. [印度单日新增确诊或超50万例](https://s.weibo.com/weibo?q=%23%E5%8D%B0%E5%BA%A6%E5%8D%95%E6%97%A5%E6%96%B0%E5%A2%9E%E7%A1%AE%E8%AF%8A%E6%88%96%E8%B6%8550%E4%B8%87%E4%BE%8B%23&Refer=top) 29601
 1. [长歌行预告](https://s.weibo.com/weibo?q=%E9%95%BF%E6%AD%8C%E8%A1%8C%E9%A2%84%E5%91%8A&Refer=top) 22637
-1. [印度单日新增确诊或超50万例](https://s.weibo.com/weibo?q=%23%E5%8D%B0%E5%BA%A6%E5%8D%95%E6%97%A5%E6%96%B0%E5%A2%9E%E7%A1%AE%E8%AF%8A%E6%88%96%E8%B6%8550%E4%B8%87%E4%BE%8B%23&Refer=top) 18747
 <!-- Rank End -->
 
 历史归档 [./archives](./archives)
