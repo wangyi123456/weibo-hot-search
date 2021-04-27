@@ -14,7 +14,7 @@
 
 <!-- Rank Begin -->
 
-最后更新时间 2021-04-28 00:20:43
+最后更新时间 2021-04-28 01:40:33
 
 1. [印度男子杀害感染新冠妻子后跳楼自尽](https://s.weibo.com/weibo?q=%23%E5%8D%B0%E5%BA%A6%E7%94%B7%E5%AD%90%E6%9D%80%E5%AE%B3%E6%84%9F%E6%9F%93%E6%96%B0%E5%86%A0%E5%A6%BB%E5%AD%90%E5%90%8E%E8%B7%B3%E6%A5%BC%E8%87%AA%E5%B0%BD%23&Refer=top) 1823535
 1. [美国解除中国学生赴美限制](https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E8%A7%A3%E9%99%A4%E4%B8%AD%E5%9B%BD%E5%AD%A6%E7%94%9F%E8%B5%B4%E7%BE%8E%E9%99%90%E5%88%B6%23&Refer=top) 1345809
@@ -26,12 +26,12 @@
 1. [王毅重申愿随时根据印度需要提供帮助](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%AF%85%E9%87%8D%E7%94%B3%E6%84%BF%E9%9A%8F%E6%97%B6%E6%A0%B9%E6%8D%AE%E5%8D%B0%E5%BA%A6%E9%9C%80%E8%A6%81%E6%8F%90%E4%BE%9B%E5%B8%AE%E5%8A%A9%23&Refer=top) 475145
 1. [加州外海发现逾2万桶有毒废弃物](https://s.weibo.com/weibo?q=%E5%8A%A0%E5%B7%9E%E5%A4%96%E6%B5%B7%E5%8F%91%E7%8E%B0%E9%80%BE2%E4%B8%87%E6%A1%B6%E6%9C%89%E6%AF%92%E5%BA%9F%E5%BC%83%E7%89%A9&Refer=top) 471217
 1. [迪丽热巴吴磊同框](https://s.weibo.com/weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E5%90%B4%E7%A3%8A%E5%90%8C%E6%A1%86%23&Refer=top) 452851
+1. [刘诗诗教育儿子的方式](https://s.weibo.com/weibo?q=%23%E5%88%98%E8%AF%97%E8%AF%97%E6%95%99%E8%82%B2%E5%84%BF%E5%AD%90%E7%9A%84%E6%96%B9%E5%BC%8F%23&Refer=top) 452706
 1. [印度医院里两三个病人挤一张床](https://s.weibo.com/weibo?q=%23%E5%8D%B0%E5%BA%A6%E5%8C%BB%E9%99%A2%E9%87%8C%E4%B8%A4%E4%B8%89%E4%B8%AA%E7%97%85%E4%BA%BA%E6%8C%A4%E4%B8%80%E5%BC%A0%E5%BA%8A%23&Refer=top) 418264
 1. [李易峰以为秦岚王鹤棣在一起了](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E6%98%93%E5%B3%B0%E4%BB%A5%E4%B8%BA%E7%A7%A6%E5%B2%9A%E7%8E%8B%E9%B9%A4%E6%A3%A3%E5%9C%A8%E4%B8%80%E8%B5%B7%E4%BA%86%23&Refer=top) 417482
 1. [世卫专家称印度病例数被严重低估](https://s.weibo.com/weibo?q=%23%E4%B8%96%E5%8D%AB%E4%B8%93%E5%AE%B6%E7%A7%B0%E5%8D%B0%E5%BA%A6%E7%97%85%E4%BE%8B%E6%95%B0%E8%A2%AB%E4%B8%A5%E9%87%8D%E4%BD%8E%E4%BC%B0%23&Refer=top) 413708
 1. [杨鸣战术](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E9%B8%A3%E6%88%98%E6%9C%AF%23&Refer=top) 410744
 1. [上海一幼儿园为家长上性教育课](https://s.weibo.com/weibo?q=%E4%B8%8A%E6%B5%B7%E4%B8%80%E5%B9%BC%E5%84%BF%E5%9B%AD%E4%B8%BA%E5%AE%B6%E9%95%BF%E4%B8%8A%E6%80%A7%E6%95%99%E8%82%B2%E8%AF%BE&Refer=top) 407578
-1. [刘诗诗教育儿子的方式](https://s.weibo.com/weibo?q=%23%E5%88%98%E8%AF%97%E8%AF%97%E6%95%99%E8%82%B2%E5%84%BF%E5%AD%90%E7%9A%84%E6%96%B9%E5%BC%8F%23&Refer=top) 403886
 1. [殷晨希发歌diss刘彰](https://s.weibo.com/weibo?q=%23%E6%AE%B7%E6%99%A8%E5%B8%8C%E5%8F%91%E6%AD%8Cdiss%E5%88%98%E5%BD%B0%23&Refer=top) 399401
 1. [吴磊看迪丽热巴眼神](https://s.weibo.com/weibo?q=%23%E5%90%B4%E7%A3%8A%E7%9C%8B%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E7%9C%BC%E7%A5%9E%23&Refer=top) 398526
 1. [杭电宿舍着火](https://s.weibo.com/weibo?q=%23%E6%9D%AD%E7%94%B5%E5%AE%BF%E8%88%8D%E7%9D%80%E7%81%AB%23&Refer=top) 393267
@@ -61,10 +61,14 @@
 1. [顾川 谁敢质疑我的美貌](https://s.weibo.com/weibo?q=%E9%A1%BE%E5%B7%9D%20%E8%B0%81%E6%95%A2%E8%B4%A8%E7%96%91%E6%88%91%E7%9A%84%E7%BE%8E%E8%B2%8C&Refer=top) 161692
 1. [日本推出铁味冰淇淋](https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E6%8E%A8%E5%87%BA%E9%93%81%E5%91%B3%E5%86%B0%E6%B7%87%E6%B7%8B%23&Refer=top) 156634
 1. [毛晓彤杨玏再合作](https://s.weibo.com/weibo?q=%23%E6%AF%9B%E6%99%93%E5%BD%A4%E6%9D%A8%E7%8E%8F%E5%86%8D%E5%90%88%E4%BD%9C%23&Refer=top) 155109
+1. [泰国杀妻骗保案原告律师团队回应](https://s.weibo.com/weibo?q=%23%E6%B3%B0%E5%9B%BD%E6%9D%80%E5%A6%BB%E9%AA%97%E4%BF%9D%E6%A1%88%E5%8E%9F%E5%91%8A%E5%BE%8B%E5%B8%88%E5%9B%A2%E9%98%9F%E5%9B%9E%E5%BA%94%23&Refer=top) 132034
+1. [周鹏对广东有多重要](https://s.weibo.com/weibo?q=%E5%91%A8%E9%B9%8F%E5%AF%B9%E5%B9%BF%E4%B8%9C%E6%9C%89%E5%A4%9A%E9%87%8D%E8%A6%81&Refer=top) 130012
+1. [孩子喜欢打扮家长应该制止吗](https://s.weibo.com/weibo?q=%23%E5%AD%A9%E5%AD%90%E5%96%9C%E6%AC%A2%E6%89%93%E6%89%AE%E5%AE%B6%E9%95%BF%E5%BA%94%E8%AF%A5%E5%88%B6%E6%AD%A2%E5%90%97%23&Refer=top) 129920
 1. [幼儿园更换地板后儿童干咳发烧](https://s.weibo.com/weibo?q=%23%E5%B9%BC%E5%84%BF%E5%9B%AD%E6%9B%B4%E6%8D%A2%E5%9C%B0%E6%9D%BF%E5%90%8E%E5%84%BF%E7%AB%A5%E5%B9%B2%E5%92%B3%E5%8F%91%E7%83%A7%23&Refer=top) 122979
 1. [玉昭令第一季大结局](https://s.weibo.com/weibo?q=%E7%8E%89%E6%98%AD%E4%BB%A4%E7%AC%AC%E4%B8%80%E5%AD%A3%E5%A4%A7%E7%BB%93%E5%B1%80&Refer=top) 122222
 1. [辽粤大战](https://s.weibo.com/weibo?q=%23%E8%BE%BD%E7%B2%A4%E5%A4%A7%E6%88%98%23&Refer=top) 116018
 1. [法律专家解读熟蛋返生论文事件](https://s.weibo.com/weibo?q=%23%E6%B3%95%E5%BE%8B%E4%B8%93%E5%AE%B6%E8%A7%A3%E8%AF%BB%E7%86%9F%E8%9B%8B%E8%BF%94%E7%94%9F%E8%AE%BA%E6%96%87%E4%BA%8B%E4%BB%B6%23&Refer=top) 115580
+1. [谢兴阳模仿井胧唱丢了你](https://s.weibo.com/weibo?q=%E8%B0%A2%E5%85%B4%E9%98%B3%E6%A8%A1%E4%BB%BF%E4%BA%95%E8%83%A7%E5%94%B1%E4%B8%A2%E4%BA%86%E4%BD%A0&Refer=top) 81817
 <!-- Rank End -->
 
 历史归档 [./archives](./archives)
