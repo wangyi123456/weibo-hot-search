@@ -14,7 +14,7 @@
 
 <!-- Rank Begin -->
 
-最后更新时间 2021-04-28 03:17:04
+最后更新时间 2021-04-28 04:12:31
 
 1. [印度男子杀害感染新冠妻子后跳楼自尽](https://s.weibo.com/weibo?q=%23%E5%8D%B0%E5%BA%A6%E7%94%B7%E5%AD%90%E6%9D%80%E5%AE%B3%E6%84%9F%E6%9F%93%E6%96%B0%E5%86%A0%E5%A6%BB%E5%AD%90%E5%90%8E%E8%B7%B3%E6%A5%BC%E8%87%AA%E5%B0%BD%23&Refer=top) 1823535
 1. [美国解除中国学生赴美限制](https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E8%A7%A3%E9%99%A4%E4%B8%AD%E5%9B%BD%E5%AD%A6%E7%94%9F%E8%B5%B4%E7%BE%8E%E9%99%90%E5%88%B6%23&Refer=top) 1345809
