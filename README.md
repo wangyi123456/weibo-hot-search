@@ -14,7 +14,7 @@
 
 <!-- Rank Begin -->
 
-最后更新时间 2021-04-28 04:12:31
+最后更新时间 2021-04-28 05:10:54
 
 1. [印度男子杀害感染新冠妻子后跳楼自尽](https://s.weibo.com/weibo?q=%23%E5%8D%B0%E5%BA%A6%E7%94%B7%E5%AD%90%E6%9D%80%E5%AE%B3%E6%84%9F%E6%9F%93%E6%96%B0%E5%86%A0%E5%A6%BB%E5%AD%90%E5%90%8E%E8%B7%B3%E6%A5%BC%E8%87%AA%E5%B0%BD%23&Refer=top) 1823535
 1. [美国解除中国学生赴美限制](https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E8%A7%A3%E9%99%A4%E4%B8%AD%E5%9B%BD%E5%AD%A6%E7%94%9F%E8%B5%B4%E7%BE%8E%E9%99%90%E5%88%B6%23&Refer=top) 1345809
@@ -71,6 +71,7 @@
 1. [谢兴阳模仿井胧唱丢了你](https://s.weibo.com/weibo?q=%E8%B0%A2%E5%85%B4%E9%98%B3%E6%A8%A1%E4%BB%BF%E4%BA%95%E8%83%A7%E5%94%B1%E4%B8%A2%E4%BA%86%E4%BD%A0&Refer=top) 102284
 1. [实拍超级月亮破云而出瞬间](https://s.weibo.com/weibo?q=%23%E5%AE%9E%E6%8B%8D%E8%B6%85%E7%BA%A7%E6%9C%88%E4%BA%AE%E7%A0%B4%E4%BA%91%E8%80%8C%E5%87%BA%E7%9E%AC%E9%97%B4%23&Refer=top) 55084
 1. [过三爽被砸鸡蛋](https://s.weibo.com/weibo?q=%E8%BF%87%E4%B8%89%E7%88%BD%E8%A2%AB%E7%A0%B8%E9%B8%A1%E8%9B%8B&Refer=top) 54482
+1. [印度疫情](https://s.weibo.com/weibo?q=%E5%8D%B0%E5%BA%A6%E7%96%AB%E6%83%85&Refer=top) 22027
 1. [长歌行](https://s.weibo.com/weibo?q=%E9%95%BF%E6%AD%8C%E8%A1%8C&Refer=top) 18615
 <!-- Rank End -->
 
