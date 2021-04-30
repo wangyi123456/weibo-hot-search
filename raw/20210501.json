@@ -214,5 +214,13 @@
   "你的婚礼": {
     "href": "https://s.weibo.com/weibo?q=%E4%BD%A0%E7%9A%84%E5%A9%9A%E7%A4%BC&Refer=top",
     "hot": 79246
+  },
+  "南通大风": {
+    "href": "https://s.weibo.com/weibo?q=%23%E5%8D%97%E9%80%9A%E5%A4%A7%E9%A3%8E%23&Refer=top",
+    "hot": 46273
+  },
+  "谁是宝藏歌手": {
+    "href": "https://s.weibo.com/weibo?q=%E8%B0%81%E6%98%AF%E5%AE%9D%E8%97%8F%E6%AD%8C%E6%89%8B&Refer=top",
+    "hot": 39869
   }
 }
