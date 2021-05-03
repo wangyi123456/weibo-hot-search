@@ -14,7 +14,7 @@
 
 <!-- Rank Begin -->
 
-最后更新时间 2021-05-04 03:12:05
+最后更新时间 2021-05-04 04:09:01
 
 1. [华晨宇发色](https://s.weibo.com/weibo?q=%23%E5%8D%8E%E6%99%A8%E5%AE%87%E5%8F%91%E8%89%B2%23&Refer=top) 2342084
 1. [95后00后成红色旅游出游主力](https://s.weibo.com/weibo?q=%2395%E5%90%8E00%E5%90%8E%E6%88%90%E7%BA%A2%E8%89%B2%E6%97%85%E6%B8%B8%E5%87%BA%E6%B8%B8%E4%B8%BB%E5%8A%9B%23&Refer=top) 1350981
@@ -69,8 +69,9 @@
 1. [少林寺内竹林被上百游客刻字](https://s.weibo.com/weibo?q=%E5%B0%91%E6%9E%97%E5%AF%BA%E5%86%85%E7%AB%B9%E6%9E%97%E8%A2%AB%E4%B8%8A%E7%99%BE%E6%B8%B8%E5%AE%A2%E5%88%BB%E5%AD%97&Refer=top) 116168
 1. [NBA球队老板力顶狗狗币](https://s.weibo.com/weibo?q=NBA%E7%90%83%E9%98%9F%E8%80%81%E6%9D%BF%E5%8A%9B%E9%A1%B6%E7%8B%97%E7%8B%97%E5%B8%81&Refer=top) 115362
 1. [戍边卫士和国旗护卫队共唱一首歌](https://s.weibo.com/weibo?q=%E6%88%8D%E8%BE%B9%E5%8D%AB%E5%A3%AB%E5%92%8C%E5%9B%BD%E6%97%97%E6%8A%A4%E5%8D%AB%E9%98%9F%E5%85%B1%E5%94%B1%E4%B8%80%E9%A6%96%E6%AD%8C&Refer=top) 114657
-1. [澳大利亚总理回应禁止在印度国民回国](https://s.weibo.com/weibo?q=%E6%BE%B3%E5%A4%A7%E5%88%A9%E4%BA%9A%E6%80%BB%E7%90%86%E5%9B%9E%E5%BA%94%E7%A6%81%E6%AD%A2%E5%9C%A8%E5%8D%B0%E5%BA%A6%E5%9B%BD%E6%B0%91%E5%9B%9E%E5%9B%BD&Refer=top) 29294
+1. [澳大利亚总理回应禁止在印度国民回国](https://s.weibo.com/weibo?q=%E6%BE%B3%E5%A4%A7%E5%88%A9%E4%BA%9A%E6%80%BB%E7%90%86%E5%9B%9E%E5%BA%94%E7%A6%81%E6%AD%A2%E5%9C%A8%E5%8D%B0%E5%BA%A6%E5%9B%BD%E6%B0%91%E5%9B%9E%E5%9B%BD&Refer=top) 29638
 1. [小舍得](https://s.weibo.com/weibo?q=%E5%B0%8F%E8%88%8D%E5%BE%97&Refer=top) 25552
+1. [巨型龙卷风扑岸而来游客逃散](https://s.weibo.com/weibo?q=%E5%B7%A8%E5%9E%8B%E9%BE%99%E5%8D%B7%E9%A3%8E%E6%89%91%E5%B2%B8%E8%80%8C%E6%9D%A5%E6%B8%B8%E5%AE%A2%E9%80%83%E6%95%A3&Refer=top) 18140
 <!-- Rank End -->
 
 历史归档 [./archives](./archives)
