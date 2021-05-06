@@ -214,5 +214,9 @@
   "MSI": {
     "href": "https://s.weibo.com/weibo?q=MSI&Refer=top",
     "hot": 29276
+  },
+  "2021MSI": {
+    "href": "https://s.weibo.com/weibo?q=%232021MSI%23&Refer=top",
+    "hot": 19886
   }
 }
