@@ -209,6 +209,10 @@
   },
   "武汉暴雨": {
     "href": "https://s.weibo.com/weibo?q=%E6%AD%A6%E6%B1%89%E6%9A%B4%E9%9B%A8&Refer=top",
-    "hot": 53548
+    "hot": 59781
+  },
+  "武汉队 北京国安": {
+    "href": "https://s.weibo.com/weibo?q=%E6%AD%A6%E6%B1%89%E9%98%9F%20%E5%8C%97%E4%BA%AC%E5%9B%BD%E5%AE%89&Refer=top",
+    "hot": 33640
   }
 }
