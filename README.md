@@ -14,7 +14,7 @@
 
 <!-- Rank Begin -->
 
-最后更新时间 2021-05-12 04:07:53
+最后更新时间 2021-05-12 05:06:12
 
 1. [警方通报成都四十九中学生坠亡](https://s.weibo.com/weibo?q=%23%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E6%88%90%E9%83%BD%E5%9B%9B%E5%8D%81%E4%B9%9D%E4%B8%AD%E5%AD%A6%E7%94%9F%E5%9D%A0%E4%BA%A1%23&Refer=top) 4840679
 1. [重庆涪陵](https://s.weibo.com/weibo?q=%E9%87%8D%E5%BA%86%E6%B6%AA%E9%99%B5&Refer=top) 1615393
