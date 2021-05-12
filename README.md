@@ -14,7 +14,7 @@
 
 <!-- Rank Begin -->
 
-最后更新时间 2021-05-13 04:09:40
+最后更新时间 2021-05-13 05:08:07
 
 1. [阿迪达斯被罚](https://s.weibo.com/weibo?q=%E9%98%BF%E8%BF%AA%E8%BE%BE%E6%96%AF%E8%A2%AB%E7%BD%9A&Refer=top) 1795307
 1. [印度变异毒株已传至40多国和地区](https://s.weibo.com/weibo?q=%23%E5%8D%B0%E5%BA%A6%E5%8F%98%E5%BC%82%E6%AF%92%E6%A0%AA%E5%B7%B2%E4%BC%A0%E8%87%B340%E5%A4%9A%E5%9B%BD%E5%92%8C%E5%9C%B0%E5%8C%BA%23&Refer=top) 1382934
@@ -71,6 +71,7 @@
 1. [美国海关在印度乘客行李发现牛粪饼](https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E6%B5%B7%E5%85%B3%E5%9C%A8%E5%8D%B0%E5%BA%A6%E4%B9%98%E5%AE%A2%E8%A1%8C%E6%9D%8E%E5%8F%91%E7%8E%B0%E7%89%9B%E7%B2%AA%E9%A5%BC%23&Refer=top) 61203
 1. [日本推降温口罩](https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E6%8E%A8%E9%99%8D%E6%B8%A9%E5%8F%A3%E7%BD%A9%23&Refer=top) 49451
 1. [消防员70米烟囱救下男子手抖不停](https://s.weibo.com/weibo?q=%23%E6%B6%88%E9%98%B2%E5%91%9870%E7%B1%B3%E7%83%9F%E5%9B%B1%E6%95%91%E4%B8%8B%E7%94%B7%E5%AD%90%E6%89%8B%E6%8A%96%E4%B8%8D%E5%81%9C%23&Refer=top) 29369
+1. [警方通报成都四十九中学生坠亡](https://s.weibo.com/weibo?q=%23%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E6%88%90%E9%83%BD%E5%9B%9B%E5%8D%81%E4%B9%9D%E4%B8%AD%E5%AD%A6%E7%94%9F%E5%9D%A0%E4%BA%A1%23&Refer=top) 24582
 <!-- Rank End -->
 
 历史归档 [./archives](./archives)
