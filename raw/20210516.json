@@ -151,6 +151,14 @@
     "href": "https://s.weibo.com/weibo?q=%23%E9%BE%9A%E4%BF%8A%E5%90%A6%E8%AE%A4%E6%98%AF%E6%BC%8F%E6%96%97%23&Refer=top",
     "hot": 210402
   },
+  "金曲青春": {
+    "href": "https://s.weibo.com/weibo?q=%23%E9%87%91%E6%9B%B2%E9%9D%92%E6%98%A5%23&Refer=top",
+    "hot": 203057
+  },
+  "严屹宽自毁颜值式演技": {
+    "href": "https://s.weibo.com/weibo?q=%23%E4%B8%A5%E5%B1%B9%E5%AE%BD%E8%87%AA%E6%AF%81%E9%A2%9C%E5%80%BC%E5%BC%8F%E6%BC%94%E6%8A%80%23&Refer=top",
+    "hot": 201494
+  },
   "9岁男孩多动还梦游竟是铅中毒": {
     "href": "https://s.weibo.com/weibo?q=%239%E5%B2%81%E7%94%B7%E5%AD%A9%E5%A4%9A%E5%8A%A8%E8%BF%98%E6%A2%A6%E6%B8%B8%E7%AB%9F%E6%98%AF%E9%93%85%E4%B8%AD%E6%AF%92%23&Refer=top",
     "hot": 194619
@@ -198,5 +206,9 @@
   "天问一号": {
     "href": "https://s.weibo.com/weibo?q=%23%E5%A4%A9%E9%97%AE%E4%B8%80%E5%8F%B7%23&Refer=top",
     "hot": 122726
+  },
+  "硬糖少女改编版平凡之路": {
+    "href": "https://s.weibo.com/weibo?q=%23%E7%A1%AC%E7%B3%96%E5%B0%91%E5%A5%B3%E6%94%B9%E7%BC%96%E7%89%88%E5%B9%B3%E5%87%A1%E4%B9%8B%E8%B7%AF%23&Refer=top",
+    "hot": 85505
   }
 }
