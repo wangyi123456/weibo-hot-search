@@ -14,7 +14,7 @@
 
 <!-- Rank Begin -->
 
-最后更新时间 2021-05-19 04:09:55
+最后更新时间 2021-05-19 05:07:56
 
 1. [只需打1针的新冠疫苗](https://s.weibo.com/weibo?q=%23%E5%8F%AA%E9%9C%80%E6%89%931%E9%92%88%E7%9A%84%E6%96%B0%E5%86%A0%E7%96%AB%E8%8B%97%23&Refer=top) 1083038
 1. [白敬亭给倪妮写的祝福](https://s.weibo.com/weibo?q=%23%E7%99%BD%E6%95%AC%E4%BA%AD%E7%BB%99%E5%80%AA%E5%A6%AE%E5%86%99%E7%9A%84%E7%A5%9D%E7%A6%8F%23&Refer=top) 811344
@@ -75,6 +75,7 @@
 1. [遇龙](https://s.weibo.com/weibo?q=%E9%81%87%E9%BE%99&Refer=top) 30844
 1. [22岁辅警被拖行1600多米牺牲](https://s.weibo.com/weibo?q=%2322%E5%B2%81%E8%BE%85%E8%AD%A6%E8%A2%AB%E6%8B%96%E8%A1%8C1600%E5%A4%9A%E7%B1%B3%E7%89%BA%E7%89%B2%23&Refer=top) 26421
 1. [RNG战胜DK](https://s.weibo.com/weibo?q=%23RNG%E6%88%98%E8%83%9CDK%23&Refer=top) 21130
+1. [台州遭特斯拉撞击交警1人牺牲](https://s.weibo.com/weibo?q=%23%E5%8F%B0%E5%B7%9E%E9%81%AD%E7%89%B9%E6%96%AF%E6%8B%89%E6%92%9E%E5%87%BB%E4%BA%A4%E8%AD%A61%E4%BA%BA%E7%89%BA%E7%89%B2%23&Refer=top) 20635
 <!-- Rank End -->
 
 历史归档 [./archives](./archives)
