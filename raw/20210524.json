@@ -15,6 +15,10 @@
     "href": "https://s.weibo.com/weibo?q=%23%E5%A4%96%E5%AA%92%E9%9B%86%E4%BD%93%E4%B8%BA%E8%A2%81%E9%9A%86%E5%B9%B3%E5%88%B7%E5%B1%8F%23&Refer=top",
     "hot": 1085417
   },
+  "ShowMaker泣不成声": {
+    "href": "https://s.weibo.com/weibo?q=ShowMaker%E6%B3%A3%E4%B8%8D%E6%88%90%E5%A3%B0&Refer=top",
+    "hot": 856251
+  },
   "袁花花再也无法陪袁隆平听汇报了": {
     "href": "https://s.weibo.com/weibo?q=%23%E8%A2%81%E8%8A%B1%E8%8A%B1%E5%86%8D%E4%B9%9F%E6%97%A0%E6%B3%95%E9%99%AA%E8%A2%81%E9%9A%86%E5%B9%B3%E5%90%AC%E6%B1%87%E6%8A%A5%E4%BA%86%23&Refer=top",
     "hot": 836127
@@ -22,6 +26,10 @@
   "法国发现极为罕见变异新冠病毒": {
     "href": "https://s.weibo.com/weibo?q=%23%E6%B3%95%E5%9B%BD%E5%8F%91%E7%8E%B0%E6%9E%81%E4%B8%BA%E7%BD%95%E8%A7%81%E5%8F%98%E5%BC%82%E6%96%B0%E5%86%A0%E7%97%85%E6%AF%92%23&Refer=top",
     "hot": 659277
+  },
+  "4AM夺冠": {
+    "href": "https://s.weibo.com/weibo?q=4AM%E5%A4%BA%E5%86%A0&Refer=top",
+    "hot": 637806
   },
   "长沙的鲜花外卖单": {
     "href": "https://s.weibo.com/weibo?q=%23%E9%95%BF%E6%B2%99%E7%9A%84%E9%B2%9C%E8%8A%B1%E5%A4%96%E5%8D%96%E5%8D%95%23&Refer=top",
@@ -58,10 +66,6 @@
   "深圳福田通报赛格大厦实时监测情况": {
     "href": "https://s.weibo.com/weibo?q=%23%E6%B7%B1%E5%9C%B3%E7%A6%8F%E7%94%B0%E9%80%9A%E6%8A%A5%E8%B5%9B%E6%A0%BC%E5%A4%A7%E5%8E%A6%E5%AE%9E%E6%97%B6%E7%9B%91%E6%B5%8B%E6%83%85%E5%86%B5%23&Refer=top",
     "hot": 465200
-  },
-  "4AM夺冠": {
-    "href": "https://s.weibo.com/weibo?q=4AM%E5%A4%BA%E5%86%A0&Refer=top",
-    "hot": 462831
   },
   "苏芒说一天650伙食费不够": {
     "href": "https://s.weibo.com/weibo?q=%23%E8%8B%8F%E8%8A%92%E8%AF%B4%E4%B8%80%E5%A4%A9650%E4%BC%99%E9%A3%9F%E8%B4%B9%E4%B8%8D%E5%A4%9F%23&Refer=top",
@@ -126,6 +130,10 @@
   "哈里斯和文在寅握手后在裤子上擦手": {
     "href": "https://s.weibo.com/weibo?q=%23%E5%93%88%E9%87%8C%E6%96%AF%E5%92%8C%E6%96%87%E5%9C%A8%E5%AF%85%E6%8F%A1%E6%89%8B%E5%90%8E%E5%9C%A8%E8%A3%A4%E5%AD%90%E4%B8%8A%E6%93%A6%E6%89%8B%23&Refer=top",
     "hot": 373870
+  },
+  "Gala FMVP": {
+    "href": "https://s.weibo.com/weibo?q=Gala%20FMVP&Refer=top",
+    "hot": 349953
   },
   "CUBA全国大赛": {
     "href": "https://s.weibo.com/weibo?q=%23CUBA%E5%85%A8%E5%9B%BD%E5%A4%A7%E8%B5%9B%23&Refer=top",
@@ -207,8 +215,28 @@
     "href": "https://s.weibo.com/weibo?q=%E5%86%9B%E9%98%9F%E6%96%87%E8%81%8C%E8%80%83%E8%AF%95&Refer=top",
     "hot": 142632
   },
+  "全球最大铜生产商近40%产量面临风险": {
+    "href": "https://s.weibo.com/weibo?q=%23%E5%85%A8%E7%90%83%E6%9C%80%E5%A4%A7%E9%93%9C%E7%94%9F%E4%BA%A7%E5%95%86%E8%BF%9140%25%E4%BA%A7%E9%87%8F%E9%9D%A2%E4%B8%B4%E9%A3%8E%E9%99%A9%23&Refer=top",
+    "hot": 105674
+  },
+  "英超": {
+    "href": "https://s.weibo.com/weibo?q=%E8%8B%B1%E8%B6%85&Refer=top",
+    "hot": 104130
+  },
+  "小虎的酒桶": {
+    "href": "https://s.weibo.com/weibo?q=%E5%B0%8F%E8%99%8E%E7%9A%84%E9%85%92%E6%A1%B6&Refer=top",
+    "hot": 103640
+  },
   "绿色的雨": {
     "href": "https://s.weibo.com/weibo?q=%E7%BB%BF%E8%89%B2%E7%9A%84%E9%9B%A8&Refer=top",
-    "hot": 89042
+    "hot": 91307
+  },
+  "欢迎回到被RNG统治的时代": {
+    "href": "https://s.weibo.com/weibo?q=%23%E6%AC%A2%E8%BF%8E%E5%9B%9E%E5%88%B0%E8%A2%ABRNG%E7%BB%9F%E6%B2%BB%E7%9A%84%E6%97%B6%E4%BB%A3%23&Refer=top",
+    "hot": 58183
+  },
+  "骊歌行大结局": {
+    "href": "https://s.weibo.com/weibo?q=%23%E9%AA%8A%E6%AD%8C%E8%A1%8C%E5%A4%A7%E7%BB%93%E5%B1%80%23&Refer=top",
+    "hot": 39373
   }
 }
