@@ -14,7 +14,7 @@
 
 <!-- Rank Begin -->
 
-最后更新时间 2021-05-25 00:25:41
+最后更新时间 2021-05-25 01:49:14
 
 1. [618预售](https://s.weibo.com/weibo?q=%23618%E9%A2%84%E5%94%AE%23&Refer=top) 1624094
 1. [外交部哀悼日本第一代白毛女喜儿扮演者](https://s.weibo.com/weibo?q=%23%E5%A4%96%E4%BA%A4%E9%83%A8%E5%93%80%E6%82%BC%E6%97%A5%E6%9C%AC%E7%AC%AC%E4%B8%80%E4%BB%A3%E7%99%BD%E6%AF%9B%E5%A5%B3%E5%96%9C%E5%84%BF%E6%89%AE%E6%BC%94%E8%80%85%23&Refer=top) 783235
@@ -66,6 +66,7 @@
 1. [河北一中学发生砍人事件](https://s.weibo.com/weibo?q=%23%E6%B2%B3%E5%8C%97%E4%B8%80%E4%B8%AD%E5%AD%A6%E5%8F%91%E7%94%9F%E7%A0%8D%E4%BA%BA%E4%BA%8B%E4%BB%B6%23&Refer=top) 97144
 1. [00后新兵穿上军装的样子](https://s.weibo.com/weibo?q=%2300%E5%90%8E%E6%96%B0%E5%85%B5%E7%A9%BF%E4%B8%8A%E5%86%9B%E8%A3%85%E7%9A%84%E6%A0%B7%E5%AD%90%23&Refer=top) 96716
 1. [袁隆平遗体送别仪式](https://s.weibo.com/weibo?q=%23%E8%A2%81%E9%9A%86%E5%B9%B3%E9%81%97%E4%BD%93%E9%80%81%E5%88%AB%E4%BB%AA%E5%BC%8F%23&Refer=top) 92795
+1. [生活家大结局](https://s.weibo.com/weibo?q=%23%E7%94%9F%E6%B4%BB%E5%AE%B6%E5%A4%A7%E7%BB%93%E5%B1%80%23&Refer=top) 35612
 <!-- Rank End -->
 
 历史归档 [./archives](./archives)
