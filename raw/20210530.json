@@ -163,6 +163,10 @@
     "href": "https://s.weibo.com/weibo?q=%23%E9%AA%82%E4%B9%A6%E8%AE%B0%E8%8D%89%E5%8C%85%E4%BA%8B%E4%BB%B6%E5%A4%84%E7%90%86%E5%90%8E%E5%A5%B3%E5%AD%90%E5%8F%91%E5%A3%B0%23&Refer=top",
     "hot": 227479
   },
+  "欧冠决赛": {
+    "href": "https://s.weibo.com/weibo?q=%23%E6%AC%A7%E5%86%A0%E5%86%B3%E8%B5%9B%23&Refer=top",
+    "hot": 221956
+  },
   "寂静之地2": {
     "href": "https://s.weibo.com/weibo?q=%23%E5%AF%82%E9%9D%99%E4%B9%8B%E5%9C%B02%23&Refer=top",
     "hot": 210835
@@ -226,5 +230,13 @@
   "高考的遗憾可以释怀吗": {
     "href": "https://s.weibo.com/weibo?q=%23%E9%AB%98%E8%80%83%E7%9A%84%E9%81%97%E6%86%BE%E5%8F%AF%E4%BB%A5%E9%87%8A%E6%80%80%E5%90%97%23&Refer=top",
     "hot": 97046
+  },
+  "INTO1快本打码打了个寂寞": {
+    "href": "https://s.weibo.com/weibo?q=%23INTO1%E5%BF%AB%E6%9C%AC%E6%89%93%E7%A0%81%E6%89%93%E4%BA%86%E4%B8%AA%E5%AF%82%E5%AF%9E%23&Refer=top",
+    "hot": 71663
+  },
+  "御赐小仵作": {
+    "href": "https://s.weibo.com/weibo?q=%E5%BE%A1%E8%B5%90%E5%B0%8F%E4%BB%B5%E4%BD%9C&Refer=top",
+    "hot": 17747
   }
 }
