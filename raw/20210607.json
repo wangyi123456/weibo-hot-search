@@ -215,6 +215,10 @@
     "href": "https://s.weibo.com/weibo?q=%E6%B7%B1%E5%9C%B3%E7%96%AB%E6%83%85&Refer=top",
     "hot": 93445
   },
+  "为店铺刷好评被明确定性为黑灰产": {
+    "href": "https://s.weibo.com/weibo?q=%E4%B8%BA%E5%BA%97%E9%93%BA%E5%88%B7%E5%A5%BD%E8%AF%84%E8%A2%AB%E6%98%8E%E7%A1%AE%E5%AE%9A%E6%80%A7%E4%B8%BA%E9%BB%91%E7%81%B0%E4%BA%A7&Refer=top",
+    "hot": 93182
+  },
   "你喜欢的人也喜欢你是什么感觉": {
     "href": "https://s.weibo.com/weibo?q=%23%E4%BD%A0%E5%96%9C%E6%AC%A2%E7%9A%84%E4%BA%BA%E4%B9%9F%E5%96%9C%E6%AC%A2%E4%BD%A0%E6%98%AF%E4%BB%80%E4%B9%88%E6%84%9F%E8%A7%89%23&Refer=top",
     "hot": 58097
@@ -229,6 +233,6 @@
   },
   "高考前最后一课图鉴": {
     "href": "https://s.weibo.com/weibo?q=%23%E9%AB%98%E8%80%83%E5%89%8D%E6%9C%80%E5%90%8E%E4%B8%80%E8%AF%BE%E5%9B%BE%E9%89%B4%23&Refer=top",
-    "hot": 22693
+    "hot": 23551
   }
 }
