@@ -14,7 +14,7 @@
 
 <!-- Rank Begin -->
 
-最后更新时间 2021-06-09 03:32:34
+最后更新时间 2021-06-09 04:13:54
 
 1. [武汉作弊考生同考场学生发声](https://s.weibo.com/weibo?q=%23%E6%AD%A6%E6%B1%89%E4%BD%9C%E5%BC%8A%E8%80%83%E7%94%9F%E5%90%8C%E8%80%83%E5%9C%BA%E5%AD%A6%E7%94%9F%E5%8F%91%E5%A3%B0%23&Refer=top) 3240918
 1. [猿辅导回应高考生拍照上传细节](https://s.weibo.com/weibo?q=%23%E7%8C%BF%E8%BE%85%E5%AF%BC%E5%9B%9E%E5%BA%94%E9%AB%98%E8%80%83%E7%94%9F%E6%8B%8D%E7%85%A7%E4%B8%8A%E4%BC%A0%E7%BB%86%E8%8A%82%23&Refer=top) 1381749
@@ -75,6 +75,8 @@
 1. [五月的青春大结局](https://s.weibo.com/weibo?q=%E4%BA%94%E6%9C%88%E7%9A%84%E9%9D%92%E6%98%A5%E5%A4%A7%E7%BB%93%E5%B1%80&Refer=top) 60750
 1. [爱上特种兵](https://s.weibo.com/weibo?q=%E7%88%B1%E4%B8%8A%E7%89%B9%E7%A7%8D%E5%85%B5&Refer=top) 44177
 1. [大师铁头劈砖后头破血流](https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%B8%88%E9%93%81%E5%A4%B4%E5%8A%88%E7%A0%96%E5%90%8E%E5%A4%B4%E7%A0%B4%E8%A1%80%E6%B5%81%23&Refer=top) 20597
+1. [叛逆者](https://s.weibo.com/weibo?q=%E5%8F%9B%E9%80%86%E8%80%85&Refer=top) 18950
+1. [高考英语作文](https://s.weibo.com/weibo?q=%E9%AB%98%E8%80%83%E8%8B%B1%E8%AF%AD%E4%BD%9C%E6%96%87&Refer=top) 17925
 <!-- Rank End -->
 
 历史归档 [./archives](./archives)
