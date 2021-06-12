@@ -271,6 +271,10 @@
     "href": "https://s.weibo.com/weibo?q=%E7%B2%BD%E5%AD%90&Refer=top",
     "hot": 64356
   },
+  "比利时3比0俄罗斯": {
+    "href": "https://s.weibo.com/weibo?q=%E6%AF%94%E5%88%A9%E6%97%B63%E6%AF%940%E4%BF%84%E7%BD%97%E6%96%AF&Refer=top",
+    "hot": 57217
+  },
   "埃里克森情况稳定": {
     "href": "https://s.weibo.com/weibo?q=%E5%9F%83%E9%87%8C%E5%85%8B%E6%A3%AE%E6%83%85%E5%86%B5%E7%A8%B3%E5%AE%9A&Refer=top",
     "hot": 50650
@@ -291,6 +295,10 @@
     "href": "https://s.weibo.com/weibo?q=%23%E4%BA%91%E5%8D%97%E5%BE%B7%E5%AE%8F%E5%B7%9E%E5%9C%B0%E9%9C%87%E6%8F%90%E5%89%8D24%E7%A7%92%E9%A2%84%E8%AD%A6%23&Refer=top",
     "hot": 40154
   },
+  "官方通报7人河边喝酒4人溺亡": {
+    "href": "https://s.weibo.com/weibo?q=%23%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A57%E4%BA%BA%E6%B2%B3%E8%BE%B9%E5%96%9D%E9%85%924%E4%BA%BA%E6%BA%BA%E4%BA%A1%23&Refer=top",
+    "hot": 38484
+  },
   "球场急救有多重要": {
     "href": "https://s.weibo.com/weibo?q=%23%E7%90%83%E5%9C%BA%E6%80%A5%E6%95%91%E6%9C%89%E5%A4%9A%E9%87%8D%E8%A6%81%23&Refer=top",
     "hot": 32027
@@ -302,5 +310,9 @@
   "威尔士 瑞士": {
     "href": "https://s.weibo.com/weibo?q=%E5%A8%81%E5%B0%94%E5%A3%AB%20%E7%91%9E%E5%A3%AB&Refer=top",
     "hot": 25388
+  },
+  "卢卡库梅开二度": {
+    "href": "https://s.weibo.com/weibo?q=%E5%8D%A2%E5%8D%A1%E5%BA%93%E6%A2%85%E5%BC%80%E4%BA%8C%E5%BA%A6&Refer=top",
+    "hot": 19490
   }
 }
