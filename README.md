@@ -14,7 +14,7 @@
 
 <!-- Rank Begin -->
 
-最后更新时间 2021-06-19 04:08:12
+最后更新时间 2021-06-19 05:06:50
 
 1. [救护车闯红灯出车祸负全责](https://s.weibo.com/weibo?q=%23%E6%95%91%E6%8A%A4%E8%BD%A6%E9%97%AF%E7%BA%A2%E7%81%AF%E5%87%BA%E8%BD%A6%E7%A5%B8%E8%B4%9F%E5%85%A8%E8%B4%A3%23&Refer=top) 492689
 1. [深圳新增2例本土确诊](https://s.weibo.com/weibo?q=%23%E6%B7%B1%E5%9C%B3%E6%96%B0%E5%A2%9E2%E4%BE%8B%E6%9C%AC%E5%9C%9F%E7%A1%AE%E8%AF%8A%23&Refer=top) 295550
@@ -22,6 +22,7 @@
 1. [男朋友玩梗让我叫他爸爸](https://s.weibo.com/weibo?q=%23%E7%94%B7%E6%9C%8B%E5%8F%8B%E7%8E%A9%E6%A2%97%E8%AE%A9%E6%88%91%E5%8F%AB%E4%BB%96%E7%88%B8%E7%88%B8%23&Refer=top) 258129
 1. [董明珠称将按成本价卖房给员工](https://s.weibo.com/weibo?q=%23%E8%91%A3%E6%98%8E%E7%8F%A0%E7%A7%B0%E5%B0%86%E6%8C%89%E6%88%90%E6%9C%AC%E4%BB%B7%E5%8D%96%E6%88%BF%E7%BB%99%E5%91%98%E5%B7%A5%23&Refer=top) 258016
 1. [中国女排5连胜](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%A5%B3%E6%8E%925%E8%BF%9E%E8%83%9C%23&Refer=top) 202902
+1. [英格兰 苏格兰](https://s.weibo.com/weibo?q=%E8%8B%B1%E6%A0%BC%E5%85%B0%20%E8%8B%8F%E6%A0%BC%E5%85%B0&Refer=top) 197387
 1. [克罗地亚 捷克](https://s.weibo.com/weibo?q=%E5%85%8B%E7%BD%97%E5%9C%B0%E4%BA%9A%20%E6%8D%B7%E5%85%8B&Refer=top) 196297
 1. [周洁琼蜘蛛精扮相还原度](https://s.weibo.com/weibo?q=%23%E5%91%A8%E6%B4%81%E7%90%BC%E8%9C%98%E8%9B%9B%E7%B2%BE%E6%89%AE%E7%9B%B8%E8%BF%98%E5%8E%9F%E5%BA%A6%23&Refer=top) 189422
 1. [打疫苗时该死的仪式感](https://s.weibo.com/weibo?q=%23%E6%89%93%E7%96%AB%E8%8B%97%E6%97%B6%E8%AF%A5%E6%AD%BB%E7%9A%84%E4%BB%AA%E5%BC%8F%E6%84%9F%23&Refer=top) 165367
@@ -49,7 +50,6 @@
 1. [赵立坚说英方应当认真检视自身人权劣迹](https://s.weibo.com/weibo?q=%23%E8%B5%B5%E7%AB%8B%E5%9D%9A%E8%AF%B4%E8%8B%B1%E6%96%B9%E5%BA%94%E5%BD%93%E8%AE%A4%E7%9C%9F%E6%A3%80%E8%A7%86%E8%87%AA%E8%BA%AB%E4%BA%BA%E6%9D%83%E5%8A%A3%E8%BF%B9%23&Refer=top) 112580
 1. [向往的生活](https://s.weibo.com/weibo?q=%E5%90%91%E5%BE%80%E7%9A%84%E7%94%9F%E6%B4%BB&Refer=top) 111767
 1. [他参加红军的八个儿子全部牺牲](https://s.weibo.com/weibo?q=%23%E4%BB%96%E5%8F%82%E5%8A%A0%E7%BA%A2%E5%86%9B%E7%9A%84%E5%85%AB%E4%B8%AA%E5%84%BF%E5%AD%90%E5%85%A8%E9%83%A8%E7%89%BA%E7%89%B2%23&Refer=top) 108222
-1. [英格兰 苏格兰](https://s.weibo.com/weibo?q=%E8%8B%B1%E6%A0%BC%E5%85%B0%20%E8%8B%8F%E6%A0%BC%E5%85%B0&Refer=top) 106398
 1. [程序员改行做服务员是人才浪费吗](https://s.weibo.com/weibo?q=%23%E7%A8%8B%E5%BA%8F%E5%91%98%E6%94%B9%E8%A1%8C%E5%81%9A%E6%9C%8D%E5%8A%A1%E5%91%98%E6%98%AF%E4%BA%BA%E6%89%8D%E6%B5%AA%E8%B4%B9%E5%90%97%23&Refer=top) 105813
 1. [丁禹兮用乐高拼和初礼的家](https://s.weibo.com/weibo?q=%23%E4%B8%81%E7%A6%B9%E5%85%AE%E7%94%A8%E4%B9%90%E9%AB%98%E6%8B%BC%E5%92%8C%E5%88%9D%E7%A4%BC%E7%9A%84%E5%AE%B6%23&Refer=top) 101995
 1. [赵立坚回应美呼吁释放苹果日报被捕人员](https://s.weibo.com/weibo?q=%23%E8%B5%B5%E7%AB%8B%E5%9D%9A%E5%9B%9E%E5%BA%94%E7%BE%8E%E5%91%BC%E5%90%81%E9%87%8A%E6%94%BE%E8%8B%B9%E6%9E%9C%E6%97%A5%E6%8A%A5%E8%A2%AB%E6%8D%95%E4%BA%BA%E5%91%98%23&Refer=top) 97417
@@ -68,11 +68,14 @@
 1. [张歆艺cos白骨精](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%AD%86%E8%89%BAcos%E7%99%BD%E9%AA%A8%E7%B2%BE%23&Refer=top) 62578
 1. [2头离群小象江中嬉戏玩耍](https://s.weibo.com/weibo?q=%232%E5%A4%B4%E7%A6%BB%E7%BE%A4%E5%B0%8F%E8%B1%A1%E6%B1%9F%E4%B8%AD%E5%AC%89%E6%88%8F%E7%8E%A9%E8%80%8D%23&Refer=top) 58807
 1. [萌探探探案](https://s.weibo.com/weibo?q=%E8%90%8C%E6%8E%A2%E6%8E%A2%E6%8E%A2%E6%A1%88&Refer=top) 57192
+1. [英格兰0比0苏格兰](https://s.weibo.com/weibo?q=%E8%8B%B1%E6%A0%BC%E5%85%B00%E6%AF%940%E8%8B%8F%E6%A0%BC%E5%85%B0&Refer=top) 57133
 1. [超奶警犬被抱着排队吃药](https://s.weibo.com/weibo?q=%23%E8%B6%85%E5%A5%B6%E8%AD%A6%E7%8A%AC%E8%A2%AB%E6%8A%B1%E7%9D%80%E6%8E%92%E9%98%9F%E5%90%83%E8%8D%AF%23&Refer=top) 56978
 1. [聂海胜出征前染黑了白发](https://s.weibo.com/weibo?q=%23%E8%81%82%E6%B5%B7%E8%83%9C%E5%87%BA%E5%BE%81%E5%89%8D%E6%9F%93%E9%BB%91%E4%BA%86%E7%99%BD%E5%8F%91%23&Refer=top) 56972
-1. [张小斐 最受传媒关注女主角](https://s.weibo.com/weibo?q=%E5%BC%A0%E5%B0%8F%E6%96%90%20%E6%9C%80%E5%8F%97%E4%BC%A0%E5%AA%92%E5%85%B3%E6%B3%A8%E5%A5%B3%E4%B8%BB%E8%A7%92&Refer=top) 47554
+1. [张小斐 最受传媒关注女主角](https://s.weibo.com/weibo?q=%E5%BC%A0%E5%B0%8F%E6%96%90%20%E6%9C%80%E5%8F%97%E4%BC%A0%E5%AA%92%E5%85%B3%E6%B3%A8%E5%A5%B3%E4%B8%BB%E8%A7%92&Refer=top) 51825
+1. [锤娜丽莎Rap回击身材歧视](https://s.weibo.com/weibo?q=%23%E9%94%A4%E5%A8%9C%E4%B8%BD%E8%8E%8ERap%E5%9B%9E%E5%87%BB%E8%BA%AB%E6%9D%90%E6%AD%A7%E8%A7%86%23&Refer=top) 49081
+1. [贝克汉姆观看比赛](https://s.weibo.com/weibo?q=%E8%B4%9D%E5%85%8B%E6%B1%89%E5%A7%86%E8%A7%82%E7%9C%8B%E6%AF%94%E8%B5%9B&Refer=top) 44513
 1. [叛逆者](https://s.weibo.com/weibo?q=%E5%8F%9B%E9%80%86%E8%80%85&Refer=top) 41721
-1. [贝克汉姆观看比赛](https://s.weibo.com/weibo?q=%E8%B4%9D%E5%85%8B%E6%B1%89%E5%A7%86%E8%A7%82%E7%9C%8B%E6%AF%94%E8%B5%9B&Refer=top) 26294
+1. [顶楼3](https://s.weibo.com/weibo?q=%23%E9%A1%B6%E6%A5%BC3%23&Refer=top) 26993
 1. [皮克福德神扑救](https://s.weibo.com/weibo?q=%23%E7%9A%AE%E5%85%8B%E7%A6%8F%E5%BE%B7%E7%A5%9E%E6%89%91%E6%95%91%23&Refer=top) 25674
 <!-- Rank End -->
 
