@@ -14,7 +14,7 @@
 
 <!-- Rank Begin -->
 
-最后更新时间 2021-06-23 00:14:19
+最后更新时间 2021-06-23 01:22:57
 
 1. [孙杨8年禁赛减为4年3个月](https://s.weibo.com/weibo?q=%23%E5%AD%99%E6%9D%A88%E5%B9%B4%E7%A6%81%E8%B5%9B%E5%87%8F%E4%B8%BA4%E5%B9%B43%E4%B8%AA%E6%9C%88%23&Refer=top) 3407511
 1. [睡觉时充电器爆炸险失明](https://s.weibo.com/weibo?q=%23%E7%9D%A1%E8%A7%89%E6%97%B6%E5%85%85%E7%94%B5%E5%99%A8%E7%88%86%E7%82%B8%E9%99%A9%E5%A4%B1%E6%98%8E%23&Refer=top) 1327132
@@ -59,6 +59,7 @@
 1. [关晓彤张一山状态 大爷遛弯](https://s.weibo.com/weibo?q=%E5%85%B3%E6%99%93%E5%BD%A4%E5%BC%A0%E4%B8%80%E5%B1%B1%E7%8A%B6%E6%80%81%20%E5%A4%A7%E7%88%B7%E9%81%9B%E5%BC%AF&Refer=top) 222265
 1. [日本天马航空公司推出皮卡丘客机](https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E5%A4%A9%E9%A9%AC%E8%88%AA%E7%A9%BA%E5%85%AC%E5%8F%B8%E6%8E%A8%E5%87%BA%E7%9A%AE%E5%8D%A1%E4%B8%98%E5%AE%A2%E6%9C%BA%23&Refer=top) 203841
 1. [赵奕欢帮助理减了47斤](https://s.weibo.com/weibo?q=%23%E8%B5%B5%E5%A5%95%E6%AC%A2%E5%B8%AE%E5%8A%A9%E7%90%86%E5%87%8F%E4%BA%8647%E6%96%A4%23&Refer=top) 200652
+1. [吴磊的冰箱好像表情包](https://s.weibo.com/weibo?q=%23%E5%90%B4%E7%A3%8A%E7%9A%84%E5%86%B0%E7%AE%B1%E5%A5%BD%E5%83%8F%E8%A1%A8%E6%83%85%E5%8C%85%23&Refer=top) 194993
 1. [98岁功夫奶奶亮相乡村武林大会](https://s.weibo.com/weibo?q=%2398%E5%B2%81%E5%8A%9F%E5%A4%AB%E5%A5%B6%E5%A5%B6%E4%BA%AE%E7%9B%B8%E4%B9%A1%E6%9D%91%E6%AD%A6%E6%9E%97%E5%A4%A7%E4%BC%9A%23&Refer=top) 194960
 1. [海南省长称不让海南成为避税天堂](https://s.weibo.com/weibo?q=%23%E6%B5%B7%E5%8D%97%E7%9C%81%E9%95%BF%E7%A7%B0%E4%B8%8D%E8%AE%A9%E6%B5%B7%E5%8D%97%E6%88%90%E4%B8%BA%E9%81%BF%E7%A8%8E%E5%A4%A9%E5%A0%82%23&Refer=top) 190984
 1. [河北科技厅回应教授推翻相对论](https://s.weibo.com/weibo?q=%23%E6%B2%B3%E5%8C%97%E7%A7%91%E6%8A%80%E5%8E%85%E5%9B%9E%E5%BA%94%E6%95%99%E6%8E%88%E6%8E%A8%E7%BF%BB%E7%9B%B8%E5%AF%B9%E8%AE%BA%23&Refer=top) 183997
