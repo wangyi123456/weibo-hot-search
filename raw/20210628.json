@@ -43,6 +43,10 @@
     "href": "https://s.weibo.com/weibo?q=%23%E5%8D%83%E5%8F%A4%E7%8E%A6%E5%B0%98%E8%B1%86%E7%93%A3%E8%AF%84%E5%88%86%23&Refer=top",
     "hot": 425607
   },
+  "比利时 葡萄牙": {
+    "href": "https://s.weibo.com/weibo?q=%E6%AF%94%E5%88%A9%E6%97%B6%20%E8%91%A1%E8%90%84%E7%89%99&Refer=top",
+    "hot": 408317
+  },
   "张颂文演的李大钊": {
     "href": "https://s.weibo.com/weibo?q=%23%E5%BC%A0%E9%A2%82%E6%96%87%E6%BC%94%E7%9A%84%E6%9D%8E%E5%A4%A7%E9%92%8A%23&Refer=top",
     "hot": 364921
@@ -102,10 +106,6 @@
   "陆思诚童谣好甜": {
     "href": "https://s.weibo.com/weibo?q=%23%E9%99%86%E6%80%9D%E8%AF%9A%E7%AB%A5%E8%B0%A3%E5%A5%BD%E7%94%9C%23&Refer=top",
     "hot": 281190
-  },
-  "比利时 葡萄牙": {
-    "href": "https://s.weibo.com/weibo?q=%E6%AF%94%E5%88%A9%E6%97%B6%20%E8%91%A1%E8%90%84%E7%89%99&Refer=top",
-    "hot": 278514
   },
   "杨迪 我不看了": {
     "href": "https://s.weibo.com/weibo?q=%E6%9D%A8%E8%BF%AA%20%E6%88%91%E4%B8%8D%E7%9C%8B%E4%BA%86&Refer=top",
@@ -259,9 +259,21 @@
     "href": "https://s.weibo.com/weibo?q=1921&Refer=top",
     "hot": 46054
   },
+  "佩佩卢卡库冲突": {
+    "href": "https://s.weibo.com/weibo?q=%E4%BD%A9%E4%BD%A9%E5%8D%A2%E5%8D%A1%E5%BA%93%E5%86%B2%E7%AA%81&Refer=top",
+    "hot": 44303
+  },
   "洗碗机内部是如何工作的": {
     "href": "https://s.weibo.com/weibo?q=%E6%B4%97%E7%A2%97%E6%9C%BA%E5%86%85%E9%83%A8%E6%98%AF%E5%A6%82%E4%BD%95%E5%B7%A5%E4%BD%9C%E7%9A%84&Refer=top",
     "hot": 43757
+  },
+  "比利时1比0葡萄牙": {
+    "href": "https://s.weibo.com/weibo?q=%E6%AF%94%E5%88%A9%E6%97%B61%E6%AF%940%E8%91%A1%E8%90%84%E7%89%99&Refer=top",
+    "hot": 41813
+  },
+  "德布劳内受伤": {
+    "href": "https://s.weibo.com/weibo?q=%E5%BE%B7%E5%B8%83%E5%8A%B3%E5%86%85%E5%8F%97%E4%BC%A4&Refer=top",
+    "hot": 41138
   },
   "捷克晋级八强": {
     "href": "https://s.weibo.com/weibo?q=%E6%8D%B7%E5%85%8B%E6%99%8B%E7%BA%A7%E5%85%AB%E5%BC%BA&Refer=top",
@@ -274,5 +286,17 @@
   "杨利伟的太空一日": {
     "href": "https://s.weibo.com/weibo?q=%23%E6%9D%A8%E5%88%A9%E4%BC%9F%E7%9A%84%E5%A4%AA%E7%A9%BA%E4%B8%80%E6%97%A5%23&Refer=top",
     "hot": 22249
+  },
+  "比利时晋级八强": {
+    "href": "https://s.weibo.com/weibo?q=%E6%AF%94%E5%88%A9%E6%97%B6%E6%99%8B%E7%BA%A7%E5%85%AB%E5%BC%BA&Refer=top",
+    "hot": 21106
+  },
+  "若塔错失良机": {
+    "href": "https://s.weibo.com/weibo?q=%E8%8B%A5%E5%A1%94%E9%94%99%E5%A4%B1%E8%89%AF%E6%9C%BA&Refer=top",
+    "hot": 21104
+  },
+  "阿扎尔受伤": {
+    "href": "https://s.weibo.com/weibo?q=%E9%98%BF%E6%89%8E%E5%B0%94%E5%8F%97%E4%BC%A4&Refer=top",
+    "hot": 19779
   }
 }
