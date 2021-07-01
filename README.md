@@ -14,7 +14,7 @@
 
 <!-- Rank Begin -->
 
-最后更新时间 2021-07-01 21:14:27
+最后更新时间 2021-07-01 22:07:12
 
 1. [谁妄想欺负中国必将碰得头破血流](https://s.weibo.com/weibo?q=%23%E8%B0%81%E5%A6%84%E6%83%B3%E6%AC%BA%E8%B4%9F%E4%B8%AD%E5%9B%BD%E5%BF%85%E5%B0%86%E7%A2%B0%E5%BE%97%E5%A4%B4%E7%A0%B4%E8%A1%80%E6%B5%81%23&Refer=top) 17026816
 1. [中国共产党成立100周年](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%85%B1%E4%BA%A7%E5%85%9A%E6%88%90%E7%AB%8B100%E5%91%A8%E5%B9%B4%23&Refer=top) 11559201
@@ -27,22 +27,25 @@
 1. [嘉兴女孩庆祝大会致献词](https://s.weibo.com/weibo?q=%23%E5%98%89%E5%85%B4%E5%A5%B3%E5%AD%A9%E5%BA%86%E7%A5%9D%E5%A4%A7%E4%BC%9A%E8%87%B4%E7%8C%AE%E8%AF%8D%23&Refer=top) 3556614
 1. [张桂梅登上天安门城楼](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%A1%82%E6%A2%85%E7%99%BB%E4%B8%8A%E5%A4%A9%E5%AE%89%E9%97%A8%E5%9F%8E%E6%A5%BC%23&Refer=top) 3508993
 1. [礼兵队伍俯拍太震撼了](https://s.weibo.com/weibo?q=%23%E7%A4%BC%E5%85%B5%E9%98%9F%E4%BC%8D%E4%BF%AF%E6%8B%8D%E5%A4%AA%E9%9C%87%E6%92%BC%E4%BA%86%23&Refer=top) 3478598
+1. [南陈北李破防了](https://s.weibo.com/weibo?q=%23%E5%8D%97%E9%99%88%E5%8C%97%E6%9D%8E%E7%A0%B4%E9%98%B2%E4%BA%86%23&Refer=top) 3361185
 1. [我们的飞机再不用飞两遍了](https://s.weibo.com/weibo?q=%23%E6%88%91%E4%BB%AC%E7%9A%84%E9%A3%9E%E6%9C%BA%E5%86%8D%E4%B8%8D%E7%94%A8%E9%A3%9E%E4%B8%A4%E9%81%8D%E4%BA%86%23&Refer=top) 3176726
+1. [鸟巢文艺演出伟大征程](https://s.weibo.com/weibo?q=%23%E9%B8%9F%E5%B7%A2%E6%96%87%E8%89%BA%E6%BC%94%E5%87%BA%E4%BC%9F%E5%A4%A7%E5%BE%81%E7%A8%8B%23&Refer=top) 3011267
 1. [庆祝建党百年文艺演出开场烟花](https://s.weibo.com/weibo?q=%23%E5%BA%86%E7%A5%9D%E5%BB%BA%E5%85%9A%E7%99%BE%E5%B9%B4%E6%96%87%E8%89%BA%E6%BC%94%E5%87%BA%E5%BC%80%E5%9C%BA%E7%83%9F%E8%8A%B1%23&Refer=top) 2924686
 1. [中传回应本校学生被选为领诵员](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E4%BC%A0%E5%9B%9E%E5%BA%94%E6%9C%AC%E6%A0%A1%E5%AD%A6%E7%94%9F%E8%A2%AB%E9%80%89%E4%B8%BA%E9%A2%86%E8%AF%B5%E5%91%98%23&Refer=top) 2920100
 1. [张桂梅把头靠在江姐扮演者肩上](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%A1%82%E6%A2%85%E6%8A%8A%E5%A4%B4%E9%9D%A0%E5%9C%A8%E6%B1%9F%E5%A7%90%E6%89%AE%E6%BC%94%E8%80%85%E8%82%A9%E4%B8%8A%23&Refer=top) 2791791
 1. [多想让您看看今天盛世之中国](https://s.weibo.com/weibo?q=%23%E5%A4%9A%E6%83%B3%E8%AE%A9%E6%82%A8%E7%9C%8B%E7%9C%8B%E4%BB%8A%E5%A4%A9%E7%9B%9B%E4%B8%96%E4%B9%8B%E4%B8%AD%E5%9B%BD%23&Refer=top) 2606962
-1. [南陈北李破防了](https://s.weibo.com/weibo?q=%23%E5%8D%97%E9%99%88%E5%8C%97%E6%9D%8E%E7%A0%B4%E9%98%B2%E4%BA%86%23&Refer=top) 2538359
 1. [祝福党的百年华诞](https://s.weibo.com/weibo?q=%23%E7%A5%9D%E7%A6%8F%E5%85%9A%E7%9A%84%E7%99%BE%E5%B9%B4%E5%8D%8E%E8%AF%9E%23&Refer=top) 2467183
 1. [中国向世界的4个庄严宣告](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%90%91%E4%B8%96%E7%95%8C%E7%9A%844%E4%B8%AA%E5%BA%84%E4%B8%A5%E5%AE%A3%E5%91%8A%23&Refer=top) 2371595
+1. [他看见了](https://s.weibo.com/weibo?q=%23%E4%BB%96%E7%9C%8B%E8%A7%81%E4%BA%86%23&Refer=top) 2114470
 1. [四名领诵员是如何被选上的](https://s.weibo.com/weibo?q=%23%E5%9B%9B%E5%90%8D%E9%A2%86%E8%AF%B5%E5%91%98%E6%98%AF%E5%A6%82%E4%BD%95%E8%A2%AB%E9%80%89%E4%B8%8A%E7%9A%84%23&Refer=top) 2083344
+1. [毛爷爷的声音加彩色的开国大典](https://s.weibo.com/weibo?q=%23%E6%AF%9B%E7%88%B7%E7%88%B7%E7%9A%84%E5%A3%B0%E9%9F%B3%E5%8A%A0%E5%BD%A9%E8%89%B2%E7%9A%84%E5%BC%80%E5%9B%BD%E5%A4%A7%E5%85%B8%23&Refer=top) 2031115
 1. [河南卫视台标变红了](https://s.weibo.com/weibo?q=%23%E6%B2%B3%E5%8D%97%E5%8D%AB%E8%A7%86%E5%8F%B0%E6%A0%87%E5%8F%98%E7%BA%A2%E4%BA%86%23&Refer=top) 1915797
 1. [长沙烟花](https://s.weibo.com/weibo?q=%23%E9%95%BF%E6%B2%99%E7%83%9F%E8%8A%B1%23&Refer=top) 1865378
 1. [今天的延乔路](https://s.weibo.com/weibo?q=%23%E4%BB%8A%E5%A4%A9%E7%9A%84%E5%BB%B6%E4%B9%94%E8%B7%AF%23&Refer=top) 1793719
 1. [观礼席上的布袋都装了些啥](https://s.weibo.com/weibo?q=%23%E8%A7%82%E7%A4%BC%E5%B8%AD%E4%B8%8A%E7%9A%84%E5%B8%83%E8%A2%8B%E9%83%BD%E8%A3%85%E4%BA%86%E4%BA%9B%E5%95%A5%23&Refer=top) 1778233
 1. [在天安门广场看日出东方](https://s.weibo.com/weibo?q=%23%E5%9C%A8%E5%A4%A9%E5%AE%89%E9%97%A8%E5%B9%BF%E5%9C%BA%E7%9C%8B%E6%97%A5%E5%87%BA%E4%B8%9C%E6%96%B9%23&Refer=top) 1763030
-1. [鸟巢文艺演出伟大征程](https://s.weibo.com/weibo?q=%23%E9%B8%9F%E5%B7%A2%E6%96%87%E8%89%BA%E6%BC%94%E5%87%BA%E4%BC%9F%E5%A4%A7%E5%BE%81%E7%A8%8B%23&Refer=top) 1694920
 1. [上海灯光秀](https://s.weibo.com/weibo?q=%23%E4%B8%8A%E6%B5%B7%E7%81%AF%E5%85%89%E7%A7%80%23&Refer=top) 1604717
+1. [建党百年文艺演出](https://s.weibo.com/weibo?q=%23%E5%BB%BA%E5%85%9A%E7%99%BE%E5%B9%B4%E6%96%87%E8%89%BA%E6%BC%94%E5%87%BA%23&Refer=top) 1572900
 1. [今天的微博点赞会有烟花特效](https://s.weibo.com/weibo?q=%23%E4%BB%8A%E5%A4%A9%E7%9A%84%E5%BE%AE%E5%8D%9A%E7%82%B9%E8%B5%9E%E4%BC%9A%E6%9C%89%E7%83%9F%E8%8A%B1%E7%89%B9%E6%95%88%23&Refer=top) 1537712
 1. [6名未能上场的预备领诵员](https://s.weibo.com/weibo?q=%236%E5%90%8D%E6%9C%AA%E8%83%BD%E4%B8%8A%E5%9C%BA%E7%9A%84%E9%A2%84%E5%A4%87%E9%A2%86%E8%AF%B5%E5%91%98%23&Refer=top) 1537628
 1. [希望她那一刻真能看到她崇拜的女英雄](https://s.weibo.com/weibo?q=%23%E5%B8%8C%E6%9C%9B%E5%A5%B9%E9%82%A3%E4%B8%80%E5%88%BB%E7%9C%9F%E8%83%BD%E7%9C%8B%E5%88%B0%E5%A5%B9%E5%B4%87%E6%8B%9C%E7%9A%84%E5%A5%B3%E8%8B%B1%E9%9B%84%23&Refer=top) 1466029
@@ -52,7 +55,6 @@
 1. [粤港歌手联唱演绎大湾区百年巨变](https://s.weibo.com/weibo?q=%23%E7%B2%A4%E6%B8%AF%E6%AD%8C%E6%89%8B%E8%81%94%E5%94%B1%E6%BC%94%E7%BB%8E%E5%A4%A7%E6%B9%BE%E5%8C%BA%E7%99%BE%E5%B9%B4%E5%B7%A8%E5%8F%98%23&Refer=top) 1307527
 1. [鸟巢烟花打出100字样](https://s.weibo.com/weibo?q=%23%E9%B8%9F%E5%B7%A2%E7%83%9F%E8%8A%B1%E6%89%93%E5%87%BA100%E5%AD%97%E6%A0%B7%23&Refer=top) 1199712
 1. [这里存着100年的记忆](https://s.weibo.com/weibo?q=%23%E8%BF%99%E9%87%8C%E5%AD%98%E7%9D%80100%E5%B9%B4%E7%9A%84%E8%AE%B0%E5%BF%86%23&Refer=top) 1197650
-1. [建党百年文艺演出](https://s.weibo.com/weibo?q=%23%E5%BB%BA%E5%85%9A%E7%99%BE%E5%B9%B4%E6%96%87%E8%89%BA%E6%BC%94%E5%87%BA%23&Refer=top) 1193383
 1. [遵义95后女孩用辣椒摆出党旗](https://s.weibo.com/weibo?q=%E9%81%B5%E4%B9%8995%E5%90%8E%E5%A5%B3%E5%AD%A9%E7%94%A8%E8%BE%A3%E6%A4%92%E6%91%86%E5%87%BA%E5%85%9A%E6%97%97&Refer=top) 1176874
 1. [我的党龄](https://s.weibo.com/weibo?q=%23%E6%88%91%E7%9A%84%E5%85%9A%E9%BE%84%23&Refer=top) 1173969
 1. [第一位女共产党员缪伯英的故事](https://s.weibo.com/weibo?q=%23%E7%AC%AC%E4%B8%80%E4%BD%8D%E5%A5%B3%E5%85%B1%E4%BA%A7%E5%85%9A%E5%91%98%E7%BC%AA%E4%BC%AF%E8%8B%B1%E7%9A%84%E6%95%85%E4%BA%8B%23&Refer=top) 1171763
@@ -77,9 +79,12 @@
 1. [建党百年华诞你有哪些祝福](https://s.weibo.com/weibo?q=%23%E5%BB%BA%E5%85%9A%E7%99%BE%E5%B9%B4%E5%8D%8E%E8%AF%9E%E4%BD%A0%E6%9C%89%E5%93%AA%E4%BA%9B%E7%A5%9D%E7%A6%8F%23&Refer=top) 867169
 1. [隔着屏幕都能感受得到的现场欢呼](https://s.weibo.com/weibo?q=%23%E9%9A%94%E7%9D%80%E5%B1%8F%E5%B9%95%E9%83%BD%E8%83%BD%E6%84%9F%E5%8F%97%E5%BE%97%E5%88%B0%E7%9A%84%E7%8E%B0%E5%9C%BA%E6%AC%A2%E5%91%BC%23&Refer=top) 864113
 1. [四川一名百岁老人的入党申请书](https://s.weibo.com/weibo?q=%23%E5%9B%9B%E5%B7%9D%E4%B8%80%E5%90%8D%E7%99%BE%E5%B2%81%E8%80%81%E4%BA%BA%E7%9A%84%E5%85%A5%E5%85%9A%E7%94%B3%E8%AF%B7%E4%B9%A6%23&Refer=top) 861042
+1. [天安门广场的志愿者凌晨3点就到现场](https://s.weibo.com/weibo?q=%23%E5%A4%A9%E5%AE%89%E9%97%A8%E5%B9%BF%E5%9C%BA%E7%9A%84%E5%BF%97%E6%84%BF%E8%80%85%E5%87%8C%E6%99%A83%E7%82%B9%E5%B0%B1%E5%88%B0%E7%8E%B0%E5%9C%BA%23&Refer=top) 792936
 1. [天安门广场鸣放的100响礼炮零污染](https://s.weibo.com/weibo?q=%23%E5%A4%A9%E5%AE%89%E9%97%A8%E5%B9%BF%E5%9C%BA%E9%B8%A3%E6%94%BE%E7%9A%84100%E5%93%8D%E7%A4%BC%E7%82%AE%E9%9B%B6%E6%B1%A1%E6%9F%93%23&Refer=top) 788910
 1. [武契奇祝贺中国共产党百年华诞](https://s.weibo.com/weibo?q=%23%E6%AD%A6%E5%A5%91%E5%A5%87%E7%A5%9D%E8%B4%BA%E4%B8%AD%E5%9B%BD%E5%85%B1%E4%BA%A7%E5%85%9A%E7%99%BE%E5%B9%B4%E5%8D%8E%E8%AF%9E%23&Refer=top) 774079
 1. [失去双臂的她靠欢呼表达激动](https://s.weibo.com/weibo?q=%23%E5%A4%B1%E5%8E%BB%E5%8F%8C%E8%87%82%E7%9A%84%E5%A5%B9%E9%9D%A0%E6%AC%A2%E5%91%BC%E8%A1%A8%E8%BE%BE%E6%BF%80%E5%8A%A8%23&Refer=top) 771425
+1. [鸟巢里首次架起180米超大屏幕](https://s.weibo.com/weibo?q=%23%E9%B8%9F%E5%B7%A2%E9%87%8C%E9%A6%96%E6%AC%A1%E6%9E%B6%E8%B5%B7180%E7%B1%B3%E8%B6%85%E5%A4%A7%E5%B1%8F%E5%B9%95%23&Refer=top) 749674
+1. [鸟巢重现香港澳门回归时刻](https://s.weibo.com/weibo?q=%23%E9%B8%9F%E5%B7%A2%E9%87%8D%E7%8E%B0%E9%A6%99%E6%B8%AF%E6%BE%B3%E9%97%A8%E5%9B%9E%E5%BD%92%E6%97%B6%E5%88%BB%23&Refer=top) 734349
 1. [中国共产党自述我的理想](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%85%B1%E4%BA%A7%E5%85%9A%E8%87%AA%E8%BF%B0%E6%88%91%E7%9A%84%E7%90%86%E6%83%B3%23&Refer=top) 725447
 1. [总导演谈庆祝中国共产党成立100周年大会](https://s.weibo.com/weibo?q=%23%E6%80%BB%E5%AF%BC%E6%BC%94%E8%B0%88%E5%BA%86%E7%A5%9D%E4%B8%AD%E5%9B%BD%E5%85%B1%E4%BA%A7%E5%85%9A%E6%88%90%E7%AB%8B100%E5%91%A8%E5%B9%B4%E5%A4%A7%E4%BC%9A%23&Refer=top) 714257
 1. [红色的巨人](https://s.weibo.com/weibo?q=%23%E7%BA%A2%E8%89%B2%E7%9A%84%E5%B7%A8%E4%BA%BA%23&Refer=top) 697502
@@ -110,6 +115,7 @@
 1. [青少年集体高呼请党放心强国有我](https://s.weibo.com/weibo?q=%23%E9%9D%92%E5%B0%91%E5%B9%B4%E9%9B%86%E4%BD%93%E9%AB%98%E5%91%BC%E8%AF%B7%E5%85%9A%E6%94%BE%E5%BF%83%E5%BC%BA%E5%9B%BD%E6%9C%89%E6%88%91%23&Refer=top) 518410
 1. [这些熟悉的面孔都在庆祝大会现场](https://s.weibo.com/weibo?q=%23%E8%BF%99%E4%BA%9B%E7%86%9F%E6%82%89%E7%9A%84%E9%9D%A2%E5%AD%94%E9%83%BD%E5%9C%A8%E5%BA%86%E7%A5%9D%E5%A4%A7%E4%BC%9A%E7%8E%B0%E5%9C%BA%23&Refer=top) 508101
 1. [四川男子两次肝移植去世后捐器官救6人](https://s.weibo.com/weibo?q=%23%E5%9B%9B%E5%B7%9D%E7%94%B7%E5%AD%90%E4%B8%A4%E6%AC%A1%E8%82%9D%E7%A7%BB%E6%A4%8D%E5%8E%BB%E4%B8%96%E5%90%8E%E6%8D%90%E5%99%A8%E5%AE%98%E6%95%916%E4%BA%BA%23&Refer=top) 507585
+1. [10万只气球放飞背后的秘密](https://s.weibo.com/weibo?q=10%E4%B8%87%E5%8F%AA%E6%B0%94%E7%90%83%E6%94%BE%E9%A3%9E%E8%83%8C%E5%90%8E%E7%9A%84%E7%A7%98%E5%AF%86&Refer=top) 499739
 1. [七一天安门广场升旗仪式](https://s.weibo.com/weibo?q=%23%E4%B8%83%E4%B8%80%E5%A4%A9%E5%AE%89%E9%97%A8%E5%B9%BF%E5%9C%BA%E5%8D%87%E6%97%97%E4%BB%AA%E5%BC%8F%23&Refer=top) 491372
 1. [谭松韵演的王会悟](https://s.weibo.com/weibo?q=%23%E8%B0%AD%E6%9D%BE%E9%9F%B5%E6%BC%94%E7%9A%84%E7%8E%8B%E4%BC%9A%E6%82%9F%23&Refer=top) 489539
 1. [近距离看飞行编队战机](https://s.weibo.com/weibo?q=%E8%BF%91%E8%B7%9D%E7%A6%BB%E7%9C%8B%E9%A3%9E%E8%A1%8C%E7%BC%96%E9%98%9F%E6%88%98%E6%9C%BA&Refer=top) 487458
@@ -119,6 +125,7 @@
 1. [中国共产党根基在人民](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%85%B1%E4%BA%A7%E5%85%9A%E6%A0%B9%E5%9F%BA%E5%9C%A8%E4%BA%BA%E6%B0%91%23&Refer=top) 465468
 1. [餐馆老板为抗战老兵免单](https://s.weibo.com/weibo?q=%23%E9%A4%90%E9%A6%86%E8%80%81%E6%9D%BF%E4%B8%BA%E6%8A%97%E6%88%98%E8%80%81%E5%85%B5%E5%85%8D%E5%8D%95%23&Refer=top) 461808
 1. [香港的街头满天红旗](https://s.weibo.com/weibo?q=%23%E9%A6%99%E6%B8%AF%E7%9A%84%E8%A1%97%E5%A4%B4%E6%BB%A1%E5%A4%A9%E7%BA%A2%E6%97%97%23&Refer=top) 460295
+1. [这是今天响彻中华大地的声音](https://s.weibo.com/weibo?q=%23%E8%BF%99%E6%98%AF%E4%BB%8A%E5%A4%A9%E5%93%8D%E5%BD%BB%E4%B8%AD%E5%8D%8E%E5%A4%A7%E5%9C%B0%E7%9A%84%E5%A3%B0%E9%9F%B3%23&Refer=top) 454875
 1. [我仰望你看过的星空 脚下大地已换了时空](https://s.weibo.com/weibo?q=%E6%88%91%E4%BB%B0%E6%9C%9B%E4%BD%A0%E7%9C%8B%E8%BF%87%E7%9A%84%E6%98%9F%E7%A9%BA%20%E8%84%9A%E4%B8%8B%E5%A4%A7%E5%9C%B0%E5%B7%B2%E6%8D%A2%E4%BA%86%E6%97%B6%E7%A9%BA&Refer=top) 453418
 1. [为什么中国榫卯积木能在海外爆火](https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E4%B8%AD%E5%9B%BD%E6%A6%AB%E5%8D%AF%E7%A7%AF%E6%9C%A8%E8%83%BD%E5%9C%A8%E6%B5%B7%E5%A4%96%E7%88%86%E7%81%AB%23&Refer=top) 449162
 1. [历史和人民选择了中国共产党](https://s.weibo.com/weibo?q=%23%E5%8E%86%E5%8F%B2%E5%92%8C%E4%BA%BA%E6%B0%91%E9%80%89%E6%8B%A9%E4%BA%86%E4%B8%AD%E5%9B%BD%E5%85%B1%E4%BA%A7%E5%85%9A%23&Refer=top) 443514
@@ -130,7 +137,6 @@
 1. [航拍今日天安门广场](https://s.weibo.com/weibo?q=%23%E8%88%AA%E6%8B%8D%E4%BB%8A%E6%97%A5%E5%A4%A9%E5%AE%89%E9%97%A8%E5%B9%BF%E5%9C%BA%23&Refer=top) 429232
 1. [张哲瀚向百年风华致敬](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%93%B2%E7%80%9A%E5%90%91%E7%99%BE%E5%B9%B4%E9%A3%8E%E5%8D%8E%E8%87%B4%E6%95%AC%23&Refer=top) 427017
 1. [穿越百年不变的理想](https://s.weibo.com/weibo?q=%23%E7%A9%BF%E8%B6%8A%E7%99%BE%E5%B9%B4%E4%B8%8D%E5%8F%98%E7%9A%84%E7%90%86%E6%83%B3%23&Refer=top) 426509
-1. [10万只气球放飞背后的秘密](https://s.weibo.com/weibo?q=10%E4%B8%87%E5%8F%AA%E6%B0%94%E7%90%83%E6%94%BE%E9%A3%9E%E8%83%8C%E5%90%8E%E7%9A%84%E7%A7%98%E5%AF%86&Refer=top) 422100
 1. [庆祝大会这些瞬间激动人心](https://s.weibo.com/weibo?q=%23%E5%BA%86%E7%A5%9D%E5%A4%A7%E4%BC%9A%E8%BF%99%E4%BA%9B%E7%9E%AC%E9%97%B4%E6%BF%80%E5%8A%A8%E4%BA%BA%E5%BF%83%23&Refer=top) 417074
 1. [杨紫革命者接力朗读](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E7%B4%AB%E9%9D%A9%E5%91%BD%E8%80%85%E6%8E%A5%E5%8A%9B%E6%9C%97%E8%AF%BB%23&Refer=top) 416295
 1. [我们的生活就是觉醒年代的续集](https://s.weibo.com/weibo?q=%23%E6%88%91%E4%BB%AC%E7%9A%84%E7%94%9F%E6%B4%BB%E5%B0%B1%E6%98%AF%E8%A7%89%E9%86%92%E5%B9%B4%E4%BB%A3%E7%9A%84%E7%BB%AD%E9%9B%86%23&Refer=top) 412050
@@ -139,7 +145,6 @@
 1. [买房契税9月1日上涨是谣言](https://s.weibo.com/weibo?q=%23%E4%B9%B0%E6%88%BF%E5%A5%91%E7%A8%8E9%E6%9C%881%E6%97%A5%E4%B8%8A%E6%B6%A8%E6%98%AF%E8%B0%A3%E8%A8%80%23&Refer=top) 408564
 1. [香港回归祖国24周年](https://s.weibo.com/weibo?q=%23%E9%A6%99%E6%B8%AF%E5%9B%9E%E5%BD%92%E7%A5%96%E5%9B%BD24%E5%91%A8%E5%B9%B4%23&Refer=top) 403255
 1. [我对党的100种花式表白](https://s.weibo.com/weibo?q=%23%E6%88%91%E5%AF%B9%E5%85%9A%E7%9A%84100%E7%A7%8D%E8%8A%B1%E5%BC%8F%E8%A1%A8%E7%99%BD%23&Refer=top) 380971
-1. [毛爷爷的声音加彩色的开国大典](https://s.weibo.com/weibo?q=%23%E6%AF%9B%E7%88%B7%E7%88%B7%E7%9A%84%E5%A3%B0%E9%9F%B3%E5%8A%A0%E5%BD%A9%E8%89%B2%E7%9A%84%E5%BC%80%E5%9B%BD%E5%A4%A7%E5%85%B8%23&Refer=top) 373894
 1. [老党员寄语年轻人](https://s.weibo.com/weibo?q=%23%E8%80%81%E5%85%9A%E5%91%98%E5%AF%84%E8%AF%AD%E5%B9%B4%E8%BD%BB%E4%BA%BA%23&Refer=top) 373655
 1. [AI修复让李大钊陈延年们露出微笑](https://s.weibo.com/weibo?q=%23AI%E4%BF%AE%E5%A4%8D%E8%AE%A9%E6%9D%8E%E5%A4%A7%E9%92%8A%E9%99%88%E5%BB%B6%E5%B9%B4%E4%BB%AC%E9%9C%B2%E5%87%BA%E5%BE%AE%E7%AC%91%23&Refer=top) 371533
 1. [他们曾席地而坐看烟火绽放](https://s.weibo.com/weibo?q=%23%E4%BB%96%E4%BB%AC%E6%9B%BE%E5%B8%AD%E5%9C%B0%E8%80%8C%E5%9D%90%E7%9C%8B%E7%83%9F%E7%81%AB%E7%BB%BD%E6%94%BE%23&Refer=top) 368255
@@ -153,17 +158,15 @@
 1. [谢霆锋陈伟霆合唱建党百年金曲](https://s.weibo.com/weibo?q=%23%E8%B0%A2%E9%9C%86%E9%94%8B%E9%99%88%E4%BC%9F%E9%9C%86%E5%90%88%E5%94%B1%E5%BB%BA%E5%85%9A%E7%99%BE%E5%B9%B4%E9%87%91%E6%9B%B2%23&Refer=top) 350989
 1. [橘子洲头 看万山红遍](https://s.weibo.com/weibo?q=%E6%A9%98%E5%AD%90%E6%B4%B2%E5%A4%B4%20%E7%9C%8B%E4%B8%87%E5%B1%B1%E7%BA%A2%E9%81%8D&Refer=top) 350181
 1. [环卫工人连夜清理红毯积水](https://s.weibo.com/weibo?q=%E7%8E%AF%E5%8D%AB%E5%B7%A5%E4%BA%BA%E8%BF%9E%E5%A4%9C%E6%B8%85%E7%90%86%E7%BA%A2%E6%AF%AF%E7%A7%AF%E6%B0%B4&Refer=top) 348476
+1. [舞台再现李大钊陈独秀对话](https://s.weibo.com/weibo?q=%23%E8%88%9E%E5%8F%B0%E5%86%8D%E7%8E%B0%E6%9D%8E%E5%A4%A7%E9%92%8A%E9%99%88%E7%8B%AC%E7%A7%80%E5%AF%B9%E8%AF%9D%23&Refer=top) 347858
 1. [建党一百周年](https://s.weibo.com/weibo?q=%23%E5%BB%BA%E5%85%9A%E4%B8%80%E7%99%BE%E5%91%A8%E5%B9%B4%23&Refer=top) 345438
 1. [7月1日镜头里的中国](https://s.weibo.com/weibo?q=%237%E6%9C%881%E6%97%A5%E9%95%9C%E5%A4%B4%E9%87%8C%E7%9A%84%E4%B8%AD%E5%9B%BD%23&Refer=top) 345129
 1. [香港回归24年中式步操首次护旗](https://s.weibo.com/weibo?q=%23%E9%A6%99%E6%B8%AF%E5%9B%9E%E5%BD%9224%E5%B9%B4%E4%B8%AD%E5%BC%8F%E6%AD%A5%E6%93%8D%E9%A6%96%E6%AC%A1%E6%8A%A4%E6%97%97%23&Refer=top) 340480
 1. [这幅手书彰显中国共产党的奋斗精神](https://s.weibo.com/weibo?q=%23%E8%BF%99%E5%B9%85%E6%89%8B%E4%B9%A6%E5%BD%B0%E6%98%BE%E4%B8%AD%E5%9B%BD%E5%85%B1%E4%BA%A7%E5%85%9A%E7%9A%84%E5%A5%8B%E6%96%97%E7%B2%BE%E7%A5%9E%23&Refer=top) 340280
-1. [舞台再现李大钊陈独秀对话](https://s.weibo.com/weibo?q=%23%E8%88%9E%E5%8F%B0%E5%86%8D%E7%8E%B0%E6%9D%8E%E5%A4%A7%E9%92%8A%E9%99%88%E7%8B%AC%E7%A7%80%E5%AF%B9%E8%AF%9D%23&Refer=top) 337164
 1. [我心中最闪耀的红星](https://s.weibo.com/weibo?q=%23%E6%88%91%E5%BF%83%E4%B8%AD%E6%9C%80%E9%97%AA%E8%80%80%E7%9A%84%E7%BA%A2%E6%98%9F%23&Refer=top) 336984
 1. [长沙人看烟花能有多积极](https://s.weibo.com/weibo?q=%23%E9%95%BF%E6%B2%99%E4%BA%BA%E7%9C%8B%E7%83%9F%E8%8A%B1%E8%83%BD%E6%9C%89%E5%A4%9A%E7%A7%AF%E6%9E%81%23&Refer=top) 336453
-1. [天安门广场的志愿者凌晨3点就到现场](https://s.weibo.com/weibo?q=%23%E5%A4%A9%E5%AE%89%E9%97%A8%E5%B9%BF%E5%9C%BA%E7%9A%84%E5%BF%97%E6%84%BF%E8%80%85%E5%87%8C%E6%99%A83%E7%82%B9%E5%B0%B1%E5%88%B0%E7%8E%B0%E5%9C%BA%23&Refer=top) 325287
-1. [男子停车礼让小朋友赢得无数声感谢](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E5%81%9C%E8%BD%A6%E7%A4%BC%E8%AE%A9%E5%B0%8F%E6%9C%8B%E5%8F%8B%E8%B5%A2%E5%BE%97%E6%97%A0%E6%95%B0%E5%A3%B0%E6%84%9F%E8%B0%A2%23&Refer=top) 324669
+1. [男子停车礼让小朋友赢得无数声感谢](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E5%81%9C%E8%BD%A6%E7%A4%BC%E8%AE%A9%E5%B0%8F%E6%9C%8B%E5%8F%8B%E8%B5%A2%E5%BE%97%E6%97%A0%E6%95%B0%E5%A3%B0%E6%84%9F%E8%B0%A2%23&Refer=top) 333051
 1. [广州烟火气回来了](https://s.weibo.com/weibo?q=%23%E5%B9%BF%E5%B7%9E%E7%83%9F%E7%81%AB%E6%B0%94%E5%9B%9E%E6%9D%A5%E4%BA%86%23&Refer=top) 323712
-1. [这是今天响彻中华大地的声音](https://s.weibo.com/weibo?q=%23%E8%BF%99%E6%98%AF%E4%BB%8A%E5%A4%A9%E5%93%8D%E5%BD%BB%E4%B8%AD%E5%8D%8E%E5%A4%A7%E5%9C%B0%E7%9A%84%E5%A3%B0%E9%9F%B3%23&Refer=top) 323212
 1. [中国共产党的精神之源](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%85%B1%E4%BA%A7%E5%85%9A%E7%9A%84%E7%B2%BE%E7%A5%9E%E4%B9%8B%E6%BA%90%23&Refer=top) 321086
 1. [庆子替我看看](https://s.weibo.com/weibo?q=%23%E5%BA%86%E5%AD%90%E6%9B%BF%E6%88%91%E7%9C%8B%E7%9C%8B%23&Refer=top) 318798
 1. [建党100周年庆祝大会哪一幕令你印象深刻](https://s.weibo.com/weibo?q=%23%E5%BB%BA%E5%85%9A100%E5%91%A8%E5%B9%B4%E5%BA%86%E7%A5%9D%E5%A4%A7%E4%BC%9A%E5%93%AA%E4%B8%80%E5%B9%95%E4%BB%A4%E4%BD%A0%E5%8D%B0%E8%B1%A1%E6%B7%B1%E5%88%BB%23&Refer=top) 302784
@@ -174,19 +177,23 @@
 1. [空中护旗梯队上悬挂的4句巨幅标语](https://s.weibo.com/weibo?q=%23%E7%A9%BA%E4%B8%AD%E6%8A%A4%E6%97%97%E6%A2%AF%E9%98%9F%E4%B8%8A%E6%82%AC%E6%8C%82%E7%9A%844%E5%8F%A5%E5%B7%A8%E5%B9%85%E6%A0%87%E8%AF%AD%23&Refer=top) 294744
 1. [1921上映](https://s.weibo.com/weibo?q=%231921%E4%B8%8A%E6%98%A0%23&Refer=top) 294722
 1. [张彬彬 生在中国太幸福了](https://s.weibo.com/weibo?q=%E5%BC%A0%E5%BD%AC%E5%BD%AC%20%E7%94%9F%E5%9C%A8%E4%B8%AD%E5%9B%BD%E5%A4%AA%E5%B9%B8%E7%A6%8F%E4%BA%86&Refer=top) 293236
+1. [王一博王俊凯王源合唱](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%B8%80%E5%8D%9A%E7%8E%8B%E4%BF%8A%E5%87%AF%E7%8E%8B%E6%BA%90%E5%90%88%E5%94%B1%23&Refer=top) 291023
 1. [90后大学英语老师自编上千页教材](https://s.weibo.com/weibo?q=%2390%E5%90%8E%E5%A4%A7%E5%AD%A6%E8%8B%B1%E8%AF%AD%E8%80%81%E5%B8%88%E8%87%AA%E7%BC%96%E4%B8%8A%E5%8D%83%E9%A1%B5%E6%95%99%E6%9D%90%23&Refer=top) 280199
 1. [15架歼20编队飞行到底有多难](https://s.weibo.com/weibo?q=%2315%E6%9E%B6%E6%AD%BC20%E7%BC%96%E9%98%9F%E9%A3%9E%E8%A1%8C%E5%88%B0%E5%BA%95%E6%9C%89%E5%A4%9A%E9%9A%BE%23&Refer=top) 277462
 1. [百岁党员医生在岗为党庆生](https://s.weibo.com/weibo?q=%23%E7%99%BE%E5%B2%81%E5%85%9A%E5%91%98%E5%8C%BB%E7%94%9F%E5%9C%A8%E5%B2%97%E4%B8%BA%E5%85%9A%E5%BA%86%E7%94%9F%23&Refer=top) 275173
 1. [人民日报七一社论](https://s.weibo.com/weibo?q=%23%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5%E4%B8%83%E4%B8%80%E7%A4%BE%E8%AE%BA%23&Refer=top) 274662
+1. [鸟巢齐唱保卫黄河太震撼了](https://s.weibo.com/weibo?q=%23%E9%B8%9F%E5%B7%A2%E9%BD%90%E5%94%B1%E4%BF%9D%E5%8D%AB%E9%BB%84%E6%B2%B3%E5%A4%AA%E9%9C%87%E6%92%BC%E4%BA%86%23&Refer=top) 273405
 1. [中国共产党百年华诞](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%85%B1%E4%BA%A7%E5%85%9A%E7%99%BE%E5%B9%B4%E5%8D%8E%E8%AF%9E%23&Refer=top) 268820
 1. [深圳大鹏近海有鲸鱼出没](https://s.weibo.com/weibo?q=%23%E6%B7%B1%E5%9C%B3%E5%A4%A7%E9%B9%8F%E8%BF%91%E6%B5%B7%E6%9C%89%E9%B2%B8%E9%B1%BC%E5%87%BA%E6%B2%A1%23&Refer=top) 268321
 1. [满分视角看长沙橘洲烟花秀](https://s.weibo.com/weibo?q=%23%E6%BB%A1%E5%88%86%E8%A7%86%E8%A7%92%E7%9C%8B%E9%95%BF%E6%B2%99%E6%A9%98%E6%B4%B2%E7%83%9F%E8%8A%B1%E7%A7%80%23&Refer=top) 258666
 1. [革命者看哭了](https://s.weibo.com/weibo?q=%23%E9%9D%A9%E5%91%BD%E8%80%85%E7%9C%8B%E5%93%AD%E4%BA%86%23&Refer=top) 255386
 1. [永不消逝电波的收报人公布](https://s.weibo.com/weibo?q=%23%E6%B0%B8%E4%B8%8D%E6%B6%88%E9%80%9D%E7%94%B5%E6%B3%A2%E7%9A%84%E6%94%B6%E6%8A%A5%E4%BA%BA%E5%85%AC%E5%B8%83%23&Refer=top) 249757
+1. [建党百年文艺演出再现觉醒年代](https://s.weibo.com/weibo?q=%23%E5%BB%BA%E5%85%9A%E7%99%BE%E5%B9%B4%E6%96%87%E8%89%BA%E6%BC%94%E5%87%BA%E5%86%8D%E7%8E%B0%E8%A7%89%E9%86%92%E5%B9%B4%E4%BB%A3%23&Refer=top) 248699
 1. [因为1921所以2021](https://s.weibo.com/weibo?q=%23%E5%9B%A0%E4%B8%BA1921%E6%89%80%E4%BB%A52021%23&Refer=top) 245269
 1. [庆祝大会现场唱支山歌给党听](https://s.weibo.com/weibo?q=%23%E5%BA%86%E7%A5%9D%E5%A4%A7%E4%BC%9A%E7%8E%B0%E5%9C%BA%E5%94%B1%E6%94%AF%E5%B1%B1%E6%AD%8C%E7%BB%99%E5%85%9A%E5%90%AC%23&Refer=top) 241696
 1. [空中梯队飞越天安门阵型](https://s.weibo.com/weibo?q=%23%E7%A9%BA%E4%B8%AD%E6%A2%AF%E9%98%9F%E9%A3%9E%E8%B6%8A%E5%A4%A9%E5%AE%89%E9%97%A8%E9%98%B5%E5%9E%8B%23&Refer=top) 238695
 1. [一百秒看党的一百年](https://s.weibo.com/weibo?q=%23%E4%B8%80%E7%99%BE%E7%A7%92%E7%9C%8B%E5%85%9A%E7%9A%84%E4%B8%80%E7%99%BE%E5%B9%B4%23&Refer=top) 238583
+1. [鸟巢再次唱起我和你](https://s.weibo.com/weibo?q=%23%E9%B8%9F%E5%B7%A2%E5%86%8D%E6%AC%A1%E5%94%B1%E8%B5%B7%E6%88%91%E5%92%8C%E4%BD%A0%23&Refer=top) 238087
 1. [小伙奋不顾身跳下站台救跌落老人](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E4%BC%99%E5%A5%8B%E4%B8%8D%E9%A1%BE%E8%BA%AB%E8%B7%B3%E4%B8%8B%E7%AB%99%E5%8F%B0%E6%95%91%E8%B7%8C%E8%90%BD%E8%80%81%E4%BA%BA%23&Refer=top) 236376
 1. [20多位公交司机买下瓜农2000斤西瓜](https://s.weibo.com/weibo?q=%2320%E5%A4%9A%E4%BD%8D%E5%85%AC%E4%BA%A4%E5%8F%B8%E6%9C%BA%E4%B9%B0%E4%B8%8B%E7%93%9C%E5%86%9C2000%E6%96%A4%E8%A5%BF%E7%93%9C%23&Refer=top) 228383
 1. [100秒看建党百年庆祝大会难忘瞬间](https://s.weibo.com/weibo?q=%23100%E7%A7%92%E7%9C%8B%E5%BB%BA%E5%85%9A%E7%99%BE%E5%B9%B4%E5%BA%86%E7%A5%9D%E5%A4%A7%E4%BC%9A%E9%9A%BE%E5%BF%98%E7%9E%AC%E9%97%B4%23&Refer=top) 227821
@@ -196,24 +203,25 @@
 1. [新冠疫苗接种率达77.6%意味什么](https://s.weibo.com/weibo?q=%23%E6%96%B0%E5%86%A0%E7%96%AB%E8%8B%97%E6%8E%A5%E7%A7%8D%E7%8E%87%E8%BE%BE77.6%25%E6%84%8F%E5%91%B3%E4%BB%80%E4%B9%88%23&Refer=top) 222883
 1. [英雄城市用中国红致敬建党百年](https://s.weibo.com/weibo?q=%23%E8%8B%B1%E9%9B%84%E5%9F%8E%E5%B8%82%E7%94%A8%E4%B8%AD%E5%9B%BD%E7%BA%A2%E8%87%B4%E6%95%AC%E5%BB%BA%E5%85%9A%E7%99%BE%E5%B9%B4%23&Refer=top) 219577
 1. [苏州灯光秀](https://s.weibo.com/weibo?q=%E8%8B%8F%E5%B7%9E%E7%81%AF%E5%85%89%E7%A7%80&Refer=top) 218460
+1. [建党百年庆祝大会完整版视频](https://s.weibo.com/weibo?q=%23%E5%BB%BA%E5%85%9A%E7%99%BE%E5%B9%B4%E5%BA%86%E7%A5%9D%E5%A4%A7%E4%BC%9A%E5%AE%8C%E6%95%B4%E7%89%88%E8%A7%86%E9%A2%91%23&Refer=top) 216616
+1. [揭秘天安门起飞的10万只和平鸽](https://s.weibo.com/weibo?q=%23%E6%8F%AD%E7%A7%98%E5%A4%A9%E5%AE%89%E9%97%A8%E8%B5%B7%E9%A3%9E%E7%9A%8410%E4%B8%87%E5%8F%AA%E5%92%8C%E5%B9%B3%E9%B8%BD%23&Refer=top) 212920
 1. [对实际种粮农民发放一次性补贴200亿元](https://s.weibo.com/weibo?q=%E5%AF%B9%E5%AE%9E%E9%99%85%E7%A7%8D%E7%B2%AE%E5%86%9C%E6%B0%91%E5%8F%91%E6%94%BE%E4%B8%80%E6%AC%A1%E6%80%A7%E8%A1%A5%E8%B4%B4200%E4%BA%BF%E5%85%83&Refer=top) 211388
 1. [这才是最美中国红](https://s.weibo.com/weibo?q=%23%E8%BF%99%E6%89%8D%E6%98%AF%E6%9C%80%E7%BE%8E%E4%B8%AD%E5%9B%BD%E7%BA%A2%23&Refer=top) 211135
 1. [看祖国江山如画](https://s.weibo.com/weibo?q=%23%E7%9C%8B%E7%A5%96%E5%9B%BD%E6%B1%9F%E5%B1%B1%E5%A6%82%E7%94%BB%23&Refer=top) 210629
 1. [八一飞行表演队首飞数字71队形](https://s.weibo.com/weibo?q=%23%E5%85%AB%E4%B8%80%E9%A3%9E%E8%A1%8C%E8%A1%A8%E6%BC%94%E9%98%9F%E9%A6%96%E9%A3%9E%E6%95%B0%E5%AD%9771%E9%98%9F%E5%BD%A2%23&Refer=top) 210093
 1. [百岁老人瞿独伊记忆最深处的歌](https://s.weibo.com/weibo?q=%23%E7%99%BE%E5%B2%81%E8%80%81%E4%BA%BA%E7%9E%BF%E7%8B%AC%E4%BC%8A%E8%AE%B0%E5%BF%86%E6%9C%80%E6%B7%B1%E5%A4%84%E7%9A%84%E6%AD%8C%23&Refer=top) 209983
 1. [黄轩1921预告](https://s.weibo.com/weibo?q=%23%E9%BB%84%E8%BD%A91921%E9%A2%84%E5%91%8A%23&Refer=top) 209821
-1. [建党百年文艺演出再现觉醒年代](https://s.weibo.com/weibo?q=%23%E5%BB%BA%E5%85%9A%E7%99%BE%E5%B9%B4%E6%96%87%E8%89%BA%E6%BC%94%E5%87%BA%E5%86%8D%E7%8E%B0%E8%A7%89%E9%86%92%E5%B9%B4%E4%BB%A3%23&Refer=top) 204988
+1. [五星烟花配合开国大典绽放](https://s.weibo.com/weibo?q=%23%E4%BA%94%E6%98%9F%E7%83%9F%E8%8A%B1%E9%85%8D%E5%90%88%E5%BC%80%E5%9B%BD%E5%A4%A7%E5%85%B8%E7%BB%BD%E6%94%BE%23&Refer=top) 204639
 1. [直播日出东方](https://s.weibo.com/weibo?q=%23%E7%9B%B4%E6%92%AD%E6%97%A5%E5%87%BA%E4%B8%9C%E6%96%B9%23&Refer=top) 192894
 1. [网友花式献礼建党百年](https://s.weibo.com/weibo?q=%23%E7%BD%91%E5%8F%8B%E8%8A%B1%E5%BC%8F%E7%8C%AE%E7%A4%BC%E5%BB%BA%E5%85%9A%E7%99%BE%E5%B9%B4%23&Refer=top) 188113
-1. [建党百年庆祝大会完整版视频](https://s.weibo.com/weibo?q=%23%E5%BB%BA%E5%85%9A%E7%99%BE%E5%B9%B4%E5%BA%86%E7%A5%9D%E5%A4%A7%E4%BC%9A%E5%AE%8C%E6%95%B4%E7%89%88%E8%A7%86%E9%A2%91%23&Refer=top) 185102
+1. [鸟巢重现飞天点火](https://s.weibo.com/weibo?q=%23%E9%B8%9F%E5%B7%A2%E9%87%8D%E7%8E%B0%E9%A3%9E%E5%A4%A9%E7%82%B9%E7%81%AB%23&Refer=top) 186565
 1. [这就是伟大建党精神](https://s.weibo.com/weibo?q=%23%E8%BF%99%E5%B0%B1%E6%98%AF%E4%BC%9F%E5%A4%A7%E5%BB%BA%E5%85%9A%E7%B2%BE%E7%A5%9E%23&Refer=top) 184902
+1. [揭秘建党百年庆祝大会10万只气球](https://s.weibo.com/weibo?q=%23%E6%8F%AD%E7%A7%98%E5%BB%BA%E5%85%9A%E7%99%BE%E5%B9%B4%E5%BA%86%E7%A5%9D%E5%A4%A7%E4%BC%9A10%E4%B8%87%E5%8F%AA%E6%B0%94%E7%90%83%23&Refer=top) 184692
 1. [扬州大一学生被聘为实训助教](https://s.weibo.com/weibo?q=%23%E6%89%AC%E5%B7%9E%E5%A4%A7%E4%B8%80%E5%AD%A6%E7%94%9F%E8%A2%AB%E8%81%98%E4%B8%BA%E5%AE%9E%E8%AE%AD%E5%8A%A9%E6%95%99%23&Refer=top) 183932
 1. [建党百年庆典合唱团成员在现场排练](https://s.weibo.com/weibo?q=%23%E5%BB%BA%E5%85%9A%E7%99%BE%E5%B9%B4%E5%BA%86%E5%85%B8%E5%90%88%E5%94%B1%E5%9B%A2%E6%88%90%E5%91%98%E5%9C%A8%E7%8E%B0%E5%9C%BA%E6%8E%92%E7%BB%83%23&Refer=top) 181612
 1. [10道彩烟辉映长空庆祝建党百年](https://s.weibo.com/weibo?q=%2310%E9%81%93%E5%BD%A9%E7%83%9F%E8%BE%89%E6%98%A0%E9%95%BF%E7%A9%BA%E5%BA%86%E7%A5%9D%E5%BB%BA%E5%85%9A%E7%99%BE%E5%B9%B4%23&Refer=top) 181171
 1. [志愿者义务辅导三胞胎6年均过一本线](https://s.weibo.com/weibo?q=%E5%BF%97%E6%84%BF%E8%80%85%E4%B9%89%E5%8A%A1%E8%BE%85%E5%AF%BC%E4%B8%89%E8%83%9E%E8%83%8E6%E5%B9%B4%E5%9D%87%E8%BF%87%E4%B8%80%E6%9C%AC%E7%BA%BF&Refer=top) 181158
 1. [拉彩烟的红鹰飞行表演队](https://s.weibo.com/weibo?q=%23%E6%8B%89%E5%BD%A9%E7%83%9F%E7%9A%84%E7%BA%A2%E9%B9%B0%E9%A3%9E%E8%A1%8C%E8%A1%A8%E6%BC%94%E9%98%9F%23&Refer=top) 177166
-1. [五星烟花配合开国大典绽放](https://s.weibo.com/weibo?q=%23%E4%BA%94%E6%98%9F%E7%83%9F%E8%8A%B1%E9%85%8D%E5%90%88%E5%BC%80%E5%9B%BD%E5%A4%A7%E5%85%B8%E7%BB%BD%E6%94%BE%23&Refer=top) 172643
-1. [鸟巢齐唱保卫黄河太震撼了](https://s.weibo.com/weibo?q=%23%E9%B8%9F%E5%B7%A2%E9%BD%90%E5%94%B1%E4%BF%9D%E5%8D%AB%E9%BB%84%E6%B2%B3%E5%A4%AA%E9%9C%87%E6%92%BC%E4%BA%86%23&Refer=top) 167775
 1. [大连女骑警飒爽英姿](https://s.weibo.com/weibo?q=%23%E5%A4%A7%E8%BF%9E%E5%A5%B3%E9%AA%91%E8%AD%A6%E9%A3%92%E7%88%BD%E8%8B%B1%E5%A7%BF%23&Refer=top) 165929
 1. [安徽脑瘫少年高考603分](https://s.weibo.com/weibo?q=%23%E5%AE%89%E5%BE%BD%E8%84%91%E7%98%AB%E5%B0%91%E5%B9%B4%E9%AB%98%E8%80%83603%E5%88%86%23&Refer=top) 163699
 1. [建党百年庆祝大会中的平凡英雄](https://s.weibo.com/weibo?q=%23%E5%BB%BA%E5%85%9A%E7%99%BE%E5%B9%B4%E5%BA%86%E7%A5%9D%E5%A4%A7%E4%BC%9A%E4%B8%AD%E7%9A%84%E5%B9%B3%E5%87%A1%E8%8B%B1%E9%9B%84%23&Refer=top) 163330
