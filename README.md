@@ -14,7 +14,7 @@
 
 <!-- Rank Begin -->
 
-最后更新时间 2021-07-02 17:08:08
+最后更新时间 2021-07-02 18:08:05
 
 1. [他看见了](https://s.weibo.com/weibo?q=%23%E4%BB%96%E7%9C%8B%E8%A7%81%E4%BA%86%23&Refer=top) 10961539
 1. [建党百年文艺演出](https://s.weibo.com/weibo?q=%23%E5%BB%BA%E5%85%9A%E7%99%BE%E5%B9%B4%E6%96%87%E8%89%BA%E6%BC%94%E5%87%BA%23&Refer=top) 3098359
@@ -41,8 +41,10 @@
 1. [鸟巢万人高唱没有共产党就没有新中国](https://s.weibo.com/weibo?q=%23%E9%B8%9F%E5%B7%A2%E4%B8%87%E4%BA%BA%E9%AB%98%E5%94%B1%E6%B2%A1%E6%9C%89%E5%85%B1%E4%BA%A7%E5%85%9A%E5%B0%B1%E6%B2%A1%E6%9C%89%E6%96%B0%E4%B8%AD%E5%9B%BD%23&Refer=top) 931112
 1. [长沙灯光秀又上央视了](https://s.weibo.com/weibo?q=%23%E9%95%BF%E6%B2%99%E7%81%AF%E5%85%89%E7%A7%80%E5%8F%88%E4%B8%8A%E5%A4%AE%E8%A7%86%E4%BA%86%23&Refer=top) 886676
 1. [武汉新冠病毒疫苗第二剂次接种超780万人](https://s.weibo.com/weibo?q=%23%E6%AD%A6%E6%B1%89%E6%96%B0%E5%86%A0%E7%97%85%E6%AF%92%E7%96%AB%E8%8B%97%E7%AC%AC%E4%BA%8C%E5%89%82%E6%AC%A1%E6%8E%A5%E7%A7%8D%E8%B6%85780%E4%B8%87%E4%BA%BA%23&Refer=top) 862442
+1. [小伙吹一夜空调得面瘫](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E4%BC%99%E5%90%B9%E4%B8%80%E5%A4%9C%E7%A9%BA%E8%B0%83%E5%BE%97%E9%9D%A2%E7%98%AB%23&Refer=top) 795589
 1. [庆祝大会为何用这首歌开场](https://s.weibo.com/weibo?q=%23%E5%BA%86%E7%A5%9D%E5%A4%A7%E4%BC%9A%E4%B8%BA%E4%BD%95%E7%94%A8%E8%BF%99%E9%A6%96%E6%AD%8C%E5%BC%80%E5%9C%BA%23&Refer=top) 780426
 1. [强军战歌太燃了](https://s.weibo.com/weibo?q=%23%E5%BC%BA%E5%86%9B%E6%88%98%E6%AD%8C%E5%A4%AA%E7%87%83%E4%BA%86%23&Refer=top) 753342
+1. [爷爷带6岁孙子学习入党誓词](https://s.weibo.com/weibo?q=%E7%88%B7%E7%88%B7%E5%B8%A66%E5%B2%81%E5%AD%99%E5%AD%90%E5%AD%A6%E4%B9%A0%E5%85%A5%E5%85%9A%E8%AA%93%E8%AF%8D&Refer=top) 740401
 1. [新疆万亩薰衣草田铺2000平米党旗](https://s.weibo.com/weibo?q=%23%E6%96%B0%E7%96%86%E4%B8%87%E4%BA%A9%E8%96%B0%E8%A1%A3%E8%8D%89%E7%94%B0%E9%93%BA2000%E5%B9%B3%E7%B1%B3%E5%85%9A%E6%97%97%23&Refer=top) 726758
 1. [总书记建党百年庆祝大会讲话全文](https://s.weibo.com/weibo?q=%23%E6%80%BB%E4%B9%A6%E8%AE%B0%E5%BB%BA%E5%85%9A%E7%99%BE%E5%B9%B4%E5%BA%86%E7%A5%9D%E5%A4%A7%E4%BC%9A%E8%AE%B2%E8%AF%9D%E5%85%A8%E6%96%87%23&Refer=top) 718970
 1. [领诵员冯琳为酝酿情感曾去参观红船](https://s.weibo.com/weibo?q=%23%E9%A2%86%E8%AF%B5%E5%91%98%E5%86%AF%E7%90%B3%E4%B8%BA%E9%85%9D%E9%85%BF%E6%83%85%E6%84%9F%E6%9B%BE%E5%8E%BB%E5%8F%82%E8%A7%82%E7%BA%A2%E8%88%B9%23&Refer=top) 657320
@@ -53,6 +55,7 @@
 1. [北大学生镜头里的庆祝大会合唱团幕后](https://s.weibo.com/weibo?q=%23%E5%8C%97%E5%A4%A7%E5%AD%A6%E7%94%9F%E9%95%9C%E5%A4%B4%E9%87%8C%E7%9A%84%E5%BA%86%E7%A5%9D%E5%A4%A7%E4%BC%9A%E5%90%88%E5%94%B1%E5%9B%A2%E5%B9%95%E5%90%8E%23&Refer=top) 575847
 1. [几百小时训练让朗诵做到千人一面](https://s.weibo.com/weibo?q=%23%E5%87%A0%E7%99%BE%E5%B0%8F%E6%97%B6%E8%AE%AD%E7%BB%83%E8%AE%A9%E6%9C%97%E8%AF%B5%E5%81%9A%E5%88%B0%E5%8D%83%E4%BA%BA%E4%B8%80%E9%9D%A2%23&Refer=top) 571211
 1. [100秒独家视角看百响礼炮轰鸣](https://s.weibo.com/weibo?q=%23100%E7%A7%92%E7%8B%AC%E5%AE%B6%E8%A7%86%E8%A7%92%E7%9C%8B%E7%99%BE%E5%93%8D%E7%A4%BC%E7%82%AE%E8%BD%B0%E9%B8%A3%23&Refer=top) 529504
+1. [苹果公司将试点混合办公模式](https://s.weibo.com/weibo?q=%23%E8%8B%B9%E6%9E%9C%E5%85%AC%E5%8F%B8%E5%B0%86%E8%AF%95%E7%82%B9%E6%B7%B7%E5%90%88%E5%8A%9E%E5%85%AC%E6%A8%A1%E5%BC%8F%23&Refer=top) 528515
 1. [24岁女生当村支书在家乡做墙绘](https://s.weibo.com/weibo?q=%2324%E5%B2%81%E5%A5%B3%E7%94%9F%E5%BD%93%E6%9D%91%E6%94%AF%E4%B9%A6%E5%9C%A8%E5%AE%B6%E4%B9%A1%E5%81%9A%E5%A2%99%E7%BB%98%23&Refer=top) 525182
 1. [宇航员从太空发来祝福](https://s.weibo.com/weibo?q=%23%E5%AE%87%E8%88%AA%E5%91%98%E4%BB%8E%E5%A4%AA%E7%A9%BA%E5%8F%91%E6%9D%A5%E7%A5%9D%E7%A6%8F%23&Refer=top) 519382
 1. [鸟巢演出再现山海情脱贫故事](https://s.weibo.com/weibo?q=%23%E9%B8%9F%E5%B7%A2%E6%BC%94%E5%87%BA%E5%86%8D%E7%8E%B0%E5%B1%B1%E6%B5%B7%E6%83%85%E8%84%B1%E8%B4%AB%E6%95%85%E4%BA%8B%23&Refer=top) 501342
@@ -67,6 +70,7 @@
 1. [建党百年文艺演出再现觉醒年代](https://s.weibo.com/weibo?q=%23%E5%BB%BA%E5%85%9A%E7%99%BE%E5%B9%B4%E6%96%87%E8%89%BA%E6%BC%94%E5%87%BA%E5%86%8D%E7%8E%B0%E8%A7%89%E9%86%92%E5%B9%B4%E4%BB%A3%23&Refer=top) 414454
 1. [广东对7种轻微交通违法行为不处罚](https://s.weibo.com/weibo?q=%23%E5%B9%BF%E4%B8%9C%E5%AF%B97%E7%A7%8D%E8%BD%BB%E5%BE%AE%E4%BA%A4%E9%80%9A%E8%BF%9D%E6%B3%95%E8%A1%8C%E4%B8%BA%E4%B8%8D%E5%A4%84%E7%BD%9A%23&Refer=top) 409604
 1. [国旗护卫队脸上晒出黑白分隔线](https://s.weibo.com/weibo?q=%23%E5%9B%BD%E6%97%97%E6%8A%A4%E5%8D%AB%E9%98%9F%E8%84%B8%E4%B8%8A%E6%99%92%E5%87%BA%E9%BB%91%E7%99%BD%E5%88%86%E9%9A%94%E7%BA%BF%23&Refer=top) 399943
+1. [广州爷爷用19阶魔方拼出建党百年图案](https://s.weibo.com/weibo?q=%23%E5%B9%BF%E5%B7%9E%E7%88%B7%E7%88%B7%E7%94%A819%E9%98%B6%E9%AD%94%E6%96%B9%E6%8B%BC%E5%87%BA%E5%BB%BA%E5%85%9A%E7%99%BE%E5%B9%B4%E5%9B%BE%E6%A1%88%23&Refer=top) 398147
 1. [五星烟花配合开国大典绽放](https://s.weibo.com/weibo?q=%23%E4%BA%94%E6%98%9F%E7%83%9F%E8%8A%B1%E9%85%8D%E5%90%88%E5%BC%80%E5%9B%BD%E5%A4%A7%E5%85%B8%E7%BB%BD%E6%94%BE%23&Refer=top) 395259
 1. [小学生摆pose拍创意毕业照](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E5%AD%A6%E7%94%9F%E6%91%86pose%E6%8B%8D%E5%88%9B%E6%84%8F%E6%AF%95%E4%B8%9A%E7%85%A7%23&Refer=top) 380086
 1. [以青春之我耀信仰之光](https://s.weibo.com/weibo?q=%23%E4%BB%A5%E9%9D%92%E6%98%A5%E4%B9%8B%E6%88%91%E8%80%80%E4%BF%A1%E4%BB%B0%E4%B9%8B%E5%85%89%23&Refer=top) 372354
@@ -80,12 +84,13 @@
 1. [2021成都中考分数线](https://s.weibo.com/weibo?q=2021%E6%88%90%E9%83%BD%E4%B8%AD%E8%80%83%E5%88%86%E6%95%B0%E7%BA%BF&Refer=top) 345081
 1. [我使馆回应英国政客涉港言论](https://s.weibo.com/weibo?q=%23%E6%88%91%E4%BD%BF%E9%A6%86%E5%9B%9E%E5%BA%94%E8%8B%B1%E5%9B%BD%E6%94%BF%E5%AE%A2%E6%B6%89%E6%B8%AF%E8%A8%80%E8%AE%BA%23&Refer=top) 339836
 1. [总书记这些话让现场掌声雷动](https://s.weibo.com/weibo?q=%23%E6%80%BB%E4%B9%A6%E8%AE%B0%E8%BF%99%E4%BA%9B%E8%AF%9D%E8%AE%A9%E7%8E%B0%E5%9C%BA%E6%8E%8C%E5%A3%B0%E9%9B%B7%E5%8A%A8%23&Refer=top) 339328
+1. [庆祝大会国旗护卫队都是90后00后](https://s.weibo.com/weibo?q=%23%E5%BA%86%E7%A5%9D%E5%A4%A7%E4%BC%9A%E5%9B%BD%E6%97%97%E6%8A%A4%E5%8D%AB%E9%98%9F%E9%83%BD%E6%98%AF90%E5%90%8E00%E5%90%8E%23&Refer=top) 334804
+1. [猪肉降价商贩1天灌2000多斤香肠](https://s.weibo.com/weibo?q=%23%E7%8C%AA%E8%82%89%E9%99%8D%E4%BB%B7%E5%95%86%E8%B4%A91%E5%A4%A9%E7%81%8C2000%E5%A4%9A%E6%96%A4%E9%A6%99%E8%82%A0%23&Refer=top) 334217
 1. [鸟巢烟花打出100字样](https://s.weibo.com/weibo?q=%23%E9%B8%9F%E5%B7%A2%E7%83%9F%E8%8A%B1%E6%89%93%E5%87%BA100%E5%AD%97%E6%A0%B7%23&Refer=top) 327633
 1. [1921至2021绽放在鸟巢上空](https://s.weibo.com/weibo?q=%231921%E8%87%B32021%E7%BB%BD%E6%94%BE%E5%9C%A8%E9%B8%9F%E5%B7%A2%E4%B8%8A%E7%A9%BA%23&Refer=top) 324109
+1. [中国男篮首次无缘奥运会](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E7%94%B7%E7%AF%AE%E9%A6%96%E6%AC%A1%E6%97%A0%E7%BC%98%E5%A5%A5%E8%BF%90%E4%BC%9A%23&Refer=top) 324037
 1. [韩美林的作品全部捐给国家](https://s.weibo.com/weibo?q=%23%E9%9F%A9%E7%BE%8E%E6%9E%97%E7%9A%84%E4%BD%9C%E5%93%81%E5%85%A8%E9%83%A8%E6%8D%90%E7%BB%99%E5%9B%BD%E5%AE%B6%23&Refer=top) 308469
-1. [庆祝大会国旗护卫队都是90后00后](https://s.weibo.com/weibo?q=%23%E5%BA%86%E7%A5%9D%E5%A4%A7%E4%BC%9A%E5%9B%BD%E6%97%97%E6%8A%A4%E5%8D%AB%E9%98%9F%E9%83%BD%E6%98%AF90%E5%90%8E00%E5%90%8E%23&Refer=top) 305493
 1. [鸟巢重现飞天点火](https://s.weibo.com/weibo?q=%23%E9%B8%9F%E5%B7%A2%E9%87%8D%E7%8E%B0%E9%A3%9E%E5%A4%A9%E7%82%B9%E7%81%AB%23&Refer=top) 299524
-1. [猪肉降价商贩1天灌2000多斤香肠](https://s.weibo.com/weibo?q=%23%E7%8C%AA%E8%82%89%E9%99%8D%E4%BB%B7%E5%95%86%E8%B4%A91%E5%A4%A9%E7%81%8C2000%E5%A4%9A%E6%96%A4%E9%A6%99%E8%82%A0%23&Refer=top) 297772
 1. [95后砌墙工说感谢崇尚工匠精神的时代](https://s.weibo.com/weibo?q=%2395%E5%90%8E%E7%A0%8C%E5%A2%99%E5%B7%A5%E8%AF%B4%E6%84%9F%E8%B0%A2%E5%B4%87%E5%B0%9A%E5%B7%A5%E5%8C%A0%E7%B2%BE%E7%A5%9E%E7%9A%84%E6%97%B6%E4%BB%A3%23&Refer=top) 289003
 1. [中国医生终极预告](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%8C%BB%E7%94%9F%E7%BB%88%E6%9E%81%E9%A2%84%E5%91%8A%23&Refer=top) 276380
 1. [天安门广场的志愿者凌晨3点就到现场](https://s.weibo.com/weibo?q=%23%E5%A4%A9%E5%AE%89%E9%97%A8%E5%B9%BF%E5%9C%BA%E7%9A%84%E5%BF%97%E6%84%BF%E8%80%85%E5%87%8C%E6%99%A83%E7%82%B9%E5%B0%B1%E5%88%B0%E7%8E%B0%E5%9C%BA%23&Refer=top) 269921
@@ -98,6 +103,7 @@
 1. [这些熟悉的面孔都在庆祝大会现场](https://s.weibo.com/weibo?q=%23%E8%BF%99%E4%BA%9B%E7%86%9F%E6%82%89%E7%9A%84%E9%9D%A2%E5%AD%94%E9%83%BD%E5%9C%A8%E5%BA%86%E7%A5%9D%E5%A4%A7%E4%BC%9A%E7%8E%B0%E5%9C%BA%23&Refer=top) 254090
 1. [全国多地上演璀璨灯光秀](https://s.weibo.com/weibo?q=%23%E5%85%A8%E5%9B%BD%E5%A4%9A%E5%9C%B0%E4%B8%8A%E6%BC%94%E7%92%80%E7%92%A8%E7%81%AF%E5%85%89%E7%A7%80%23&Refer=top) 251618
 1. [觉醒年代](https://s.weibo.com/weibo?q=%E8%A7%89%E9%86%92%E5%B9%B4%E4%BB%A3&Refer=top) 250946
+1. [这就是现场观礼的感觉](https://s.weibo.com/weibo?q=%23%E8%BF%99%E5%B0%B1%E6%98%AF%E7%8E%B0%E5%9C%BA%E8%A7%82%E7%A4%BC%E7%9A%84%E6%84%9F%E8%A7%89%23&Refer=top) 247917
 1. [中国全面建成小康社会是怎样的壮举](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%85%A8%E9%9D%A2%E5%BB%BA%E6%88%90%E5%B0%8F%E5%BA%B7%E7%A4%BE%E4%BC%9A%E6%98%AF%E6%80%8E%E6%A0%B7%E7%9A%84%E5%A3%AE%E4%B8%BE%23&Refer=top) 246633
 1. [Henri Bureau镜头下的周恩来](https://s.weibo.com/weibo?q=Henri%20Bureau%E9%95%9C%E5%A4%B4%E4%B8%8B%E7%9A%84%E5%91%A8%E6%81%A9%E6%9D%A5&Refer=top) 244941
 1. [张学友新歌为中国奥运健儿加油](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%AD%A6%E5%8F%8B%E6%96%B0%E6%AD%8C%E4%B8%BA%E4%B8%AD%E5%9B%BD%E5%A5%A5%E8%BF%90%E5%81%A5%E5%84%BF%E5%8A%A0%E6%B2%B9%23&Refer=top) 244877
@@ -117,12 +123,15 @@
 1. [男子停车礼让小朋友赢得无数声感谢](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E5%81%9C%E8%BD%A6%E7%A4%BC%E8%AE%A9%E5%B0%8F%E6%9C%8B%E5%8F%8B%E8%B5%A2%E5%BE%97%E6%97%A0%E6%95%B0%E5%A3%B0%E6%84%9F%E8%B0%A2%23&Refer=top) 214756
 1. [大叔每天巡山40公里守林14年](https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%8F%94%E6%AF%8F%E5%A4%A9%E5%B7%A1%E5%B1%B140%E5%85%AC%E9%87%8C%E5%AE%88%E6%9E%9714%E5%B9%B4%23&Refer=top) 211897
 1. [张桂梅把头靠在江姐扮演者肩上](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%A1%82%E6%A2%85%E6%8A%8A%E5%A4%B4%E9%9D%A0%E5%9C%A8%E6%B1%9F%E5%A7%90%E6%89%AE%E6%BC%94%E8%80%85%E8%82%A9%E4%B8%8A%23&Refer=top) 207659
+1. [香奈儿因以次充好被罚21万](https://s.weibo.com/weibo?q=%23%E9%A6%99%E5%A5%88%E5%84%BF%E5%9B%A0%E4%BB%A5%E6%AC%A1%E5%85%85%E5%A5%BD%E8%A2%AB%E7%BD%9A21%E4%B8%87%23&Refer=top) 206476
 1. [揭秘天安门起飞的10万只和平鸽](https://s.weibo.com/weibo?q=%23%E6%8F%AD%E7%A7%98%E5%A4%A9%E5%AE%89%E9%97%A8%E8%B5%B7%E9%A3%9E%E7%9A%8410%E4%B8%87%E5%8F%AA%E5%92%8C%E5%B9%B3%E9%B8%BD%23&Refer=top) 203979
+1. [中国男子三大球均无缘奥运会](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E7%94%B7%E5%AD%90%E4%B8%89%E5%A4%A7%E7%90%83%E5%9D%87%E6%97%A0%E7%BC%98%E5%A5%A5%E8%BF%90%E4%BC%9A%23&Refer=top) 203270
 1. [新闻联播](https://s.weibo.com/weibo?q=%E6%96%B0%E9%97%BB%E8%81%94%E6%92%AD&Refer=top) 203012
+1. [账户突然多出50万男子吓得报警](https://s.weibo.com/weibo?q=%23%E8%B4%A6%E6%88%B7%E7%AA%81%E7%84%B6%E5%A4%9A%E5%87%BA50%E4%B8%87%E7%94%B7%E5%AD%90%E5%90%93%E5%BE%97%E6%8A%A5%E8%AD%A6%23&Refer=top) 199885
+1. [你会聘请整理收纳师吗](https://s.weibo.com/weibo?q=%23%E4%BD%A0%E4%BC%9A%E8%81%98%E8%AF%B7%E6%95%B4%E7%90%86%E6%94%B6%E7%BA%B3%E5%B8%88%E5%90%97%23&Refer=top) 197597
+1. [中国疫苗足迹遍布全球五大洲](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E7%96%AB%E8%8B%97%E8%B6%B3%E8%BF%B9%E9%81%8D%E5%B8%83%E5%85%A8%E7%90%83%E4%BA%94%E5%A4%A7%E6%B4%B2%23&Refer=top) 195372
 1. [伟大征程将被拍成电影](https://s.weibo.com/weibo?q=%23%E4%BC%9F%E5%A4%A7%E5%BE%81%E7%A8%8B%E5%B0%86%E8%A2%AB%E6%8B%8D%E6%88%90%E7%94%B5%E5%BD%B1%23&Refer=top) 192830
-1. [账户突然多出50万男子吓得报警](https://s.weibo.com/weibo?q=%23%E8%B4%A6%E6%88%B7%E7%AA%81%E7%84%B6%E5%A4%9A%E5%87%BA50%E4%B8%87%E7%94%B7%E5%AD%90%E5%90%93%E5%BE%97%E6%8A%A5%E8%AD%A6%23&Refer=top) 191589
 1. [中国心愿正一步步实现](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%BF%83%E6%84%BF%E6%AD%A3%E4%B8%80%E6%AD%A5%E6%AD%A5%E5%AE%9E%E7%8E%B0%23&Refer=top) 191299
-1. [你会聘请整理收纳师吗](https://s.weibo.com/weibo?q=%23%E4%BD%A0%E4%BC%9A%E8%81%98%E8%AF%B7%E6%95%B4%E7%90%86%E6%94%B6%E7%BA%B3%E5%B8%88%E5%90%97%23&Refer=top) 189284
 1. [希望她那一刻真能看到她崇拜的女英雄](https://s.weibo.com/weibo?q=%23%E5%B8%8C%E6%9C%9B%E5%A5%B9%E9%82%A3%E4%B8%80%E5%88%BB%E7%9C%9F%E8%83%BD%E7%9C%8B%E5%88%B0%E5%A5%B9%E5%B4%87%E6%8B%9C%E7%9A%84%E5%A5%B3%E8%8B%B1%E9%9B%84%23&Refer=top) 188936
 1. [福岛核电站548个集装箱腐蚀或凹陷](https://s.weibo.com/weibo?q=%23%E7%A6%8F%E5%B2%9B%E6%A0%B8%E7%94%B5%E7%AB%99548%E4%B8%AA%E9%9B%86%E8%A3%85%E7%AE%B1%E8%85%90%E8%9A%80%E6%88%96%E5%87%B9%E9%99%B7%23&Refer=top) 184661
 1. [环卫工人连夜清理红毯积水](https://s.weibo.com/weibo?q=%23%E7%8E%AF%E5%8D%AB%E5%B7%A5%E4%BA%BA%E8%BF%9E%E5%A4%9C%E6%B8%85%E7%90%86%E7%BA%A2%E6%AF%AF%E7%A7%AF%E6%B0%B4%23&Refer=top) 182654
@@ -150,8 +159,8 @@
 1. [庆祝中国共产党成立100周年粤语MV](https://s.weibo.com/weibo?q=%23%E5%BA%86%E7%A5%9D%E4%B8%AD%E5%9B%BD%E5%85%B1%E4%BA%A7%E5%85%9A%E6%88%90%E7%AB%8B100%E5%91%A8%E5%B9%B4%E7%B2%A4%E8%AF%ADMV%23&Refer=top) 136739
 1. [鸟巢齐唱保卫黄河太震撼了](https://s.weibo.com/weibo?q=%23%E9%B8%9F%E5%B7%A2%E9%BD%90%E5%94%B1%E4%BF%9D%E5%8D%AB%E9%BB%84%E6%B2%B3%E5%A4%AA%E9%9C%87%E6%92%BC%E4%BA%86%23&Refer=top) 135470
 1. [香港回归24年中式步操首次护旗](https://s.weibo.com/weibo?q=%23%E9%A6%99%E6%B8%AF%E5%9B%9E%E5%BD%9224%E5%B9%B4%E4%B8%AD%E5%BC%8F%E6%AD%A5%E6%93%8D%E9%A6%96%E6%AC%A1%E6%8A%A4%E6%97%97%23&Refer=top) 134300
+1. [3岁萌娃看庆祝大会自觉敬礼](https://s.weibo.com/weibo?q=%233%E5%B2%81%E8%90%8C%E5%A8%83%E7%9C%8B%E5%BA%86%E7%A5%9D%E5%A4%A7%E4%BC%9A%E8%87%AA%E8%A7%89%E6%95%AC%E7%A4%BC%23&Refer=top) 131064
 1. [从1921燃到今天的火种](https://s.weibo.com/weibo?q=%23%E4%BB%8E1921%E7%87%83%E5%88%B0%E4%BB%8A%E5%A4%A9%E7%9A%84%E7%81%AB%E7%A7%8D%23&Refer=top) 128942
-1. [爷爷带6岁孙子学习入党誓词](https://s.weibo.com/weibo?q=%E7%88%B7%E7%88%B7%E5%B8%A66%E5%B2%81%E5%AD%99%E5%AD%90%E5%AD%A6%E4%B9%A0%E5%85%A5%E5%85%9A%E8%AA%93%E8%AF%8D&Refer=top) 127715
 1. [今天的延乔路](https://s.weibo.com/weibo?q=%23%E4%BB%8A%E5%A4%A9%E7%9A%84%E5%BB%B6%E4%B9%94%E8%B7%AF%23&Refer=top) 125154
 1. [警医民地铁联手接生宝宝](https://s.weibo.com/weibo?q=%23%E8%AD%A6%E5%8C%BB%E6%B0%91%E5%9C%B0%E9%93%81%E8%81%94%E6%89%8B%E6%8E%A5%E7%94%9F%E5%AE%9D%E5%AE%9D%23&Refer=top) 124494
 1. [革命者](https://s.weibo.com/weibo?q=%E9%9D%A9%E5%91%BD%E8%80%85&Refer=top) 123675
@@ -160,13 +169,20 @@
 1. [2021下半年加油](https://s.weibo.com/weibo?q=%232021%E4%B8%8B%E5%8D%8A%E5%B9%B4%E5%8A%A0%E6%B2%B9%23&Refer=top) 120476
 1. [戍边民警用小篆书百米长卷庆建党百年](https://s.weibo.com/weibo?q=%23%E6%88%8D%E8%BE%B9%E6%B0%91%E8%AD%A6%E7%94%A8%E5%B0%8F%E7%AF%86%E4%B9%A6%E7%99%BE%E7%B1%B3%E9%95%BF%E5%8D%B7%E5%BA%86%E5%BB%BA%E5%85%9A%E7%99%BE%E5%B9%B4%23&Refer=top) 119688
 1. [鸟巢演出合唱走进新时代](https://s.weibo.com/weibo?q=%23%E9%B8%9F%E5%B7%A2%E6%BC%94%E5%87%BA%E5%90%88%E5%94%B1%E8%B5%B0%E8%BF%9B%E6%96%B0%E6%97%B6%E4%BB%A3%23&Refer=top) 111901
+1. [游戏行业值得选么](https://s.weibo.com/weibo?q=%23%E6%B8%B8%E6%88%8F%E8%A1%8C%E4%B8%9A%E5%80%BC%E5%BE%97%E9%80%89%E4%B9%88%23&Refer=top) 111893
+1. [两桶油上半年净赚1000亿](https://s.weibo.com/weibo?q=%23%E4%B8%A4%E6%A1%B6%E6%B2%B9%E4%B8%8A%E5%8D%8A%E5%B9%B4%E5%87%80%E8%B5%9A1000%E4%BA%BF%23&Refer=top) 111122
+1. [飞行汽车首次跨城市飞行](https://s.weibo.com/weibo?q=%23%E9%A3%9E%E8%A1%8C%E6%B1%BD%E8%BD%A6%E9%A6%96%E6%AC%A1%E8%B7%A8%E5%9F%8E%E5%B8%82%E9%A3%9E%E8%A1%8C%23&Refer=top) 109851
+1. [快闪唱支山歌给党听](https://s.weibo.com/weibo?q=%23%E5%BF%AB%E9%97%AA%E5%94%B1%E6%94%AF%E5%B1%B1%E6%AD%8C%E7%BB%99%E5%85%9A%E5%90%AC%23&Refer=top) 109664
+1. [超过100个国家批准使用中国疫苗](https://s.weibo.com/weibo?q=%23%E8%B6%85%E8%BF%87100%E4%B8%AA%E5%9B%BD%E5%AE%B6%E6%89%B9%E5%87%86%E4%BD%BF%E7%94%A8%E4%B8%AD%E5%9B%BD%E7%96%AB%E8%8B%97%23&Refer=top) 108621
+1. [288秒绚烂焰火的背后深意](https://s.weibo.com/weibo?q=%23288%E7%A7%92%E7%BB%9A%E7%83%82%E7%84%B0%E7%81%AB%E7%9A%84%E8%83%8C%E5%90%8E%E6%B7%B1%E6%84%8F%23&Refer=top) 107664
 1. [维珍创始人计划7月11日飞往太空](https://s.weibo.com/weibo?q=%23%E7%BB%B4%E7%8F%8D%E5%88%9B%E5%A7%8B%E4%BA%BA%E8%AE%A1%E5%88%927%E6%9C%8811%E6%97%A5%E9%A3%9E%E5%BE%80%E5%A4%AA%E7%A9%BA%23&Refer=top) 106969
+1. [南京中考成绩](https://s.weibo.com/weibo?q=%E5%8D%97%E4%BA%AC%E4%B8%AD%E8%80%83%E6%88%90%E7%BB%A9&Refer=top) 106170
+1. [钢铁洪流进行曲作者又有新作品](https://s.weibo.com/weibo?q=%23%E9%92%A2%E9%93%81%E6%B4%AA%E6%B5%81%E8%BF%9B%E8%A1%8C%E6%9B%B2%E4%BD%9C%E8%80%85%E5%8F%88%E6%9C%89%E6%96%B0%E4%BD%9C%E5%93%81%23&Refer=top) 105300
 1. [七一广场献词团共训练526个小时](https://s.weibo.com/weibo?q=%23%E4%B8%83%E4%B8%80%E5%B9%BF%E5%9C%BA%E7%8C%AE%E8%AF%8D%E5%9B%A2%E5%85%B1%E8%AE%AD%E7%BB%83526%E4%B8%AA%E5%B0%8F%E6%97%B6%23&Refer=top) 103593
 1. [国旗护卫队为保持一致刀鞘挂水壶](https://s.weibo.com/weibo?q=%23%E5%9B%BD%E6%97%97%E6%8A%A4%E5%8D%AB%E9%98%9F%E4%B8%BA%E4%BF%9D%E6%8C%81%E4%B8%80%E8%87%B4%E5%88%80%E9%9E%98%E6%8C%82%E6%B0%B4%E5%A3%B6%23&Refer=top) 101449
 1. [建党百年大会那些你没看过的角度](https://s.weibo.com/weibo?q=%23%E5%BB%BA%E5%85%9A%E7%99%BE%E5%B9%B4%E5%A4%A7%E4%BC%9A%E9%82%A3%E4%BA%9B%E4%BD%A0%E6%B2%A1%E7%9C%8B%E8%BF%87%E7%9A%84%E8%A7%92%E5%BA%A6%23&Refer=top) 100251
 1. [献词团合唱团耳机里的秘密](https://s.weibo.com/weibo?q=%23%E7%8C%AE%E8%AF%8D%E5%9B%A2%E5%90%88%E5%94%B1%E5%9B%A2%E8%80%B3%E6%9C%BA%E9%87%8C%E7%9A%84%E7%A7%98%E5%AF%86%23&Refer=top) 98342
 1. [鸟巢上空绚烂焰火超清图片](https://s.weibo.com/weibo?q=%23%E9%B8%9F%E5%B7%A2%E4%B8%8A%E7%A9%BA%E7%BB%9A%E7%83%82%E7%84%B0%E7%81%AB%E8%B6%85%E6%B8%85%E5%9B%BE%E7%89%87%23&Refer=top) 92784
-1. [钢铁洪流进行曲作者又有新作品](https://s.weibo.com/weibo?q=%23%E9%92%A2%E9%93%81%E6%B4%AA%E6%B5%81%E8%BF%9B%E8%A1%8C%E6%9B%B2%E4%BD%9C%E8%80%85%E5%8F%88%E6%9C%89%E6%96%B0%E4%BD%9C%E5%93%81%23&Refer=top) 90047
 1. [庆祝建党百年文艺演出绝美烟花](https://s.weibo.com/weibo?q=%23%E5%BA%86%E7%A5%9D%E5%BB%BA%E5%85%9A%E7%99%BE%E5%B9%B4%E6%96%87%E8%89%BA%E6%BC%94%E5%87%BA%E7%BB%9D%E7%BE%8E%E7%83%9F%E8%8A%B1%23&Refer=top) 89806
 1. [礼炮阵地官兵单膝跪地装递炮弹](https://s.weibo.com/weibo?q=%23%E7%A4%BC%E7%82%AE%E9%98%B5%E5%9C%B0%E5%AE%98%E5%85%B5%E5%8D%95%E8%86%9D%E8%B7%AA%E5%9C%B0%E8%A3%85%E9%80%92%E7%82%AE%E5%BC%B9%23&Refer=top) 84535
 1. [校园奏国歌小学生原地止步庄严敬礼](https://s.weibo.com/weibo?q=%23%E6%A0%A1%E5%9B%AD%E5%A5%8F%E5%9B%BD%E6%AD%8C%E5%B0%8F%E5%AD%A6%E7%94%9F%E5%8E%9F%E5%9C%B0%E6%AD%A2%E6%AD%A5%E5%BA%84%E4%B8%A5%E6%95%AC%E7%A4%BC%23&Refer=top) 84218
