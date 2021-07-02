@@ -35,6 +35,10 @@
     "href": "https://s.weibo.com/weibo?q=%23%E5%BF%83%E5%8A%A8%E7%9A%84%E4%BF%A1%E5%8F%B74%23&Refer=top",
     "hot": 635911
   },
+  "瑞士 西班牙": {
+    "href": "https://s.weibo.com/weibo?q=%E7%91%9E%E5%A3%AB%20%E8%A5%BF%E7%8F%AD%E7%89%99&Refer=top",
+    "hot": 582759
+  },
   "女子讲述吃菌中毒离奇幻觉": {
     "href": "https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E8%AE%B2%E8%BF%B0%E5%90%83%E8%8F%8C%E4%B8%AD%E6%AF%92%E7%A6%BB%E5%A5%87%E5%B9%BB%E8%A7%89%23&Refer=top",
     "hot": 578945
@@ -139,10 +143,6 @@
     "href": "https://s.weibo.com/weibo?q=%23%E9%BE%9A%E4%BF%8A%E6%9C%80%E5%BC%BA%E5%A4%A7%E8%84%91%E8%B7%AF%E9%80%8F%23&Refer=top",
     "hot": 302691
   },
-  "瑞士 西班牙": {
-    "href": "https://s.weibo.com/weibo?q=%E7%91%9E%E5%A3%AB%20%E8%A5%BF%E7%8F%AD%E7%89%99&Refer=top",
-    "hot": 287857
-  },
   "宿舍的空调有多给力": {
     "href": "https://s.weibo.com/weibo?q=%23%E5%AE%BF%E8%88%8D%E7%9A%84%E7%A9%BA%E8%B0%83%E6%9C%89%E5%A4%9A%E7%BB%99%E5%8A%9B%23&Refer=top",
     "hot": 268592
@@ -179,6 +179,10 @@
     "href": "https://s.weibo.com/weibo?q=%23%E4%B9%9D%E6%97%AC%E8%80%81%E5%85%B5%E6%8C%82%E6%BB%A1%E5%8B%8B%E7%AB%A0%E5%9D%90%E5%9C%B0%E9%93%81%E8%A2%AB%E5%9B%B4%E8%A7%82%23&Refer=top",
     "hot": 200360
   },
+  "瑞士西班牙点球大战": {
+    "href": "https://s.weibo.com/weibo?q=%E7%91%9E%E5%A3%AB%E8%A5%BF%E7%8F%AD%E7%89%99%E7%82%B9%E7%90%83%E5%A4%A7%E6%88%98&Refer=top",
+    "hot": 197760
+  },
   "萧亚轩 我不喜欢我的样子": {
     "href": "https://s.weibo.com/weibo?q=%E8%90%A7%E4%BA%9A%E8%BD%A9%20%E6%88%91%E4%B8%8D%E5%96%9C%E6%AC%A2%E6%88%91%E7%9A%84%E6%A0%B7%E5%AD%90&Refer=top",
     "hot": 195779
@@ -203,9 +207,17 @@
     "href": "https://s.weibo.com/weibo?q=%E5%8D%83%E5%8F%A4%E7%8E%A6%E5%B0%98&Refer=top",
     "hot": 193666
   },
+  "西班牙队晋级四强": {
+    "href": "https://s.weibo.com/weibo?q=%23%E8%A5%BF%E7%8F%AD%E7%89%99%E9%98%9F%E6%99%8B%E7%BA%A7%E5%9B%9B%E5%BC%BA%23&Refer=top",
+    "hot": 191555
+  },
   "瑞士乌龙球": {
     "href": "https://s.weibo.com/weibo?q=%E7%91%9E%E5%A3%AB%E4%B9%8C%E9%BE%99%E7%90%83&Refer=top",
     "hot": 158094
+  },
+  "瑞士门将神扑": {
+    "href": "https://s.weibo.com/weibo?q=%E7%91%9E%E5%A3%AB%E9%97%A8%E5%B0%86%E7%A5%9E%E6%89%91&Refer=top",
+    "hot": 150014
   },
   "小鬼巡演先导片": {
     "href": "https://s.weibo.com/weibo?q=%23%E5%B0%8F%E9%AC%BC%E5%B7%A1%E6%BC%94%E5%85%88%E5%AF%BC%E7%89%87%23&Refer=top",
@@ -229,6 +241,22 @@
   },
   "100岁老党员唱支山歌给党听": {
     "href": "https://s.weibo.com/weibo?q=%23100%E5%B2%81%E8%80%81%E5%85%9A%E5%91%98%E5%94%B1%E6%94%AF%E5%B1%B1%E6%AD%8C%E7%BB%99%E5%85%9A%E5%90%AC%23&Refer=top",
-    "hot": 79191
+    "hot": 80622
+  },
+  "西班牙点球战胜瑞士": {
+    "href": "https://s.weibo.com/weibo?q=%23%E8%A5%BF%E7%8F%AD%E7%89%99%E7%82%B9%E7%90%83%E6%88%98%E8%83%9C%E7%91%9E%E5%A3%AB%23&Refer=top",
+    "hot": 63596
+  },
+  "意大利 比利时": {
+    "href": "https://s.weibo.com/weibo?q=%E6%84%8F%E5%A4%A7%E5%88%A9%20%E6%AF%94%E5%88%A9%E6%97%B6&Refer=top",
+    "hot": 60062
+  },
+  "索默单场10次扑救": {
+    "href": "https://s.weibo.com/weibo?q=%E7%B4%A2%E9%BB%98%E5%8D%95%E5%9C%BA10%E6%AC%A1%E6%89%91%E6%95%91&Refer=top",
+    "hot": 46902
+  },
+  "军乐团58岁老兵不舍哽咽": {
+    "href": "https://s.weibo.com/weibo?q=%23%E5%86%9B%E4%B9%90%E5%9B%A258%E5%B2%81%E8%80%81%E5%85%B5%E4%B8%8D%E8%88%8D%E5%93%BD%E5%92%BD%23&Refer=top",
+    "hot": 38308
   }
 }
