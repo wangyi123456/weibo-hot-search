@@ -14,11 +14,12 @@
 
 <!-- Rank Begin -->
 
-最后更新时间 2021-07-19 22:07:26
+最后更新时间 2021-07-19 23:08:36
 
 1. [都美竹 站出来吧像个男人](https://s.weibo.com/weibo?q=%E9%83%BD%E7%BE%8E%E7%AB%B9%20%E7%AB%99%E5%87%BA%E6%9D%A5%E5%90%A7%E5%83%8F%E4%B8%AA%E7%94%B7%E4%BA%BA&Refer=top) 18018592
 1. [小G娜事件](https://s.weibo.com/weibo?q=%23%E5%B0%8FG%E5%A8%9C%E4%BA%8B%E4%BB%B6%23&Refer=top) 15630047
 1. [girls help girls](https://s.weibo.com/weibo?q=girls%20help%20girls&Refer=top) 15191052
+1. [张陶被批捕](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E9%99%B6%E8%A2%AB%E6%89%B9%E6%8D%95%23&Refer=top) 14686386
 1. [用法律决战才能终结吃瓜大战](https://s.weibo.com/weibo?q=%23%E7%94%A8%E6%B3%95%E5%BE%8B%E5%86%B3%E6%88%98%E6%89%8D%E8%83%BD%E7%BB%88%E7%BB%93%E5%90%83%E7%93%9C%E5%A4%A7%E6%88%98%23&Refer=top) 12873653
 1. [2021第200天](https://s.weibo.com/weibo?q=%232021%E7%AC%AC200%E5%A4%A9%23&Refer=top) 9803469
 1. [杭州烧伤女孩被下两次病危通知](https://s.weibo.com/weibo?q=%23%E6%9D%AD%E5%B7%9E%E7%83%A7%E4%BC%A4%E5%A5%B3%E5%AD%A9%E8%A2%AB%E4%B8%8B%E4%B8%A4%E6%AC%A1%E7%97%85%E5%8D%B1%E9%80%9A%E7%9F%A5%23&Refer=top) 8089248
@@ -26,7 +27,6 @@
 1. [朴灿烈私生活虚假传闻发帖人移送检方](https://s.weibo.com/weibo?q=%23%E6%9C%B4%E7%81%BF%E7%83%88%E7%A7%81%E7%94%9F%E6%B4%BB%E8%99%9A%E5%81%87%E4%BC%A0%E9%97%BB%E5%8F%91%E5%B8%96%E4%BA%BA%E7%A7%BB%E9%80%81%E6%A3%80%E6%96%B9%23&Refer=top) 7022748
 1. [林更新与美女一同出游](https://s.weibo.com/weibo?q=%23%E6%9E%97%E6%9B%B4%E6%96%B0%E4%B8%8E%E7%BE%8E%E5%A5%B3%E4%B8%80%E5%90%8C%E5%87%BA%E6%B8%B8%23&Refer=top) 6831571
 1. [云听终止与吴亦凡一切合作](https://s.weibo.com/weibo?q=%23%E4%BA%91%E5%90%AC%E7%BB%88%E6%AD%A2%E4%B8%8E%E5%90%B4%E4%BA%A6%E5%87%A1%E4%B8%80%E5%88%87%E5%90%88%E4%BD%9C%23&Refer=top) 6587628
-1. [张陶被批捕](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E9%99%B6%E8%A2%AB%E6%89%B9%E6%8D%95%23&Refer=top) 5599334
 1. [法律是道德的最低标准](https://s.weibo.com/weibo?q=%E6%B3%95%E5%BE%8B%E6%98%AF%E9%81%93%E5%BE%B7%E7%9A%84%E6%9C%80%E4%BD%8E%E6%A0%87%E5%87%86&Refer=top) 5508260
 1. [李佳琦直播](https://s.weibo.com/weibo?q=%E6%9D%8E%E4%BD%B3%E7%90%A6%E7%9B%B4%E6%92%AD&Refer=top) 5306385
 1. [男孩开冰可乐被炸伤缝38针](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%A9%E5%BC%80%E5%86%B0%E5%8F%AF%E4%B9%90%E8%A2%AB%E7%82%B8%E4%BC%A4%E7%BC%9D38%E9%92%88%23&Refer=top) 5085414
@@ -41,6 +41,8 @@
 1. [小怡同学清空社交平台](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E6%80%A1%E5%90%8C%E5%AD%A6%E6%B8%85%E7%A9%BA%E7%A4%BE%E4%BA%A4%E5%B9%B3%E5%8F%B0%23&Refer=top) 3932397
 1. [南京夫子庙女子穿和服](https://s.weibo.com/weibo?q=%E5%8D%97%E4%BA%AC%E5%A4%AB%E5%AD%90%E5%BA%99%E5%A5%B3%E5%AD%90%E7%A9%BF%E5%92%8C%E6%9C%8D&Refer=top) 3657448
 1. [中国演出行业协会发声](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E6%BC%94%E5%87%BA%E8%A1%8C%E4%B8%9A%E5%8D%8F%E4%BC%9A%E5%8F%91%E5%A3%B0%23&Refer=top) 3554811
+1. [杭州烧伤父亲醒来第一件事是找女儿](https://s.weibo.com/weibo?q=%23%E6%9D%AD%E5%B7%9E%E7%83%A7%E4%BC%A4%E7%88%B6%E4%BA%B2%E9%86%92%E6%9D%A5%E7%AC%AC%E4%B8%80%E4%BB%B6%E4%BA%8B%E6%98%AF%E6%89%BE%E5%A5%B3%E5%84%BF%23&Refer=top) 3116780
+1. [吴亦凡工作室发澄清](https://s.weibo.com/weibo?q=%E5%90%B4%E4%BA%A6%E5%87%A1%E5%B7%A5%E4%BD%9C%E5%AE%A4%E5%8F%91%E6%BE%84%E6%B8%85&Refer=top) 3105062
 1. [建议全国女厕所和女更衣室学习](https://s.weibo.com/weibo?q=%23%E5%BB%BA%E8%AE%AE%E5%85%A8%E5%9B%BD%E5%A5%B3%E5%8E%95%E6%89%80%E5%92%8C%E5%A5%B3%E6%9B%B4%E8%A1%A3%E5%AE%A4%E5%AD%A6%E4%B9%A0%23&Refer=top) 2963381
 1. [吴亦凡回应](https://s.weibo.com/weibo?q=%23%E5%90%B4%E4%BA%A6%E5%87%A1%E5%9B%9E%E5%BA%94%23&Refer=top) 2881354
 1. [魏雨欣吴亦凡 聊天记录](https://s.weibo.com/weibo?q=%E9%AD%8F%E9%9B%A8%E6%AC%A3%E5%90%B4%E4%BA%A6%E5%87%A1%20%E8%81%8A%E5%A4%A9%E8%AE%B0%E5%BD%95&Refer=top) 2824016
@@ -70,22 +72,23 @@
 1. [为什么印度的食物大多是糊糊](https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E5%8D%B0%E5%BA%A6%E7%9A%84%E9%A3%9F%E7%89%A9%E5%A4%A7%E5%A4%9A%E6%98%AF%E7%B3%8A%E7%B3%8A%23&Refer=top) 1577346
 1. [北辙南辕](https://s.weibo.com/weibo?q=%E5%8C%97%E8%BE%99%E5%8D%97%E8%BE%95&Refer=top) 1558920
 1. [汇源果汁被申请破产重整](https://s.weibo.com/weibo?q=%23%E6%B1%87%E6%BA%90%E6%9E%9C%E6%B1%81%E8%A2%AB%E7%94%B3%E8%AF%B7%E7%A0%B4%E4%BA%A7%E9%87%8D%E6%95%B4%23&Refer=top) 1494651
+1. [加拿大寄宿学校幸存者回忆受虐经历](https://s.weibo.com/weibo?q=%23%E5%8A%A0%E6%8B%BF%E5%A4%A7%E5%AF%84%E5%AE%BF%E5%AD%A6%E6%A0%A1%E5%B9%B8%E5%AD%98%E8%80%85%E5%9B%9E%E5%BF%86%E5%8F%97%E8%99%90%E7%BB%8F%E5%8E%86%23&Refer=top) 1414803
 1. [山西便利店有多牛](https://s.weibo.com/weibo?q=%23%E5%B1%B1%E8%A5%BF%E4%BE%BF%E5%88%A9%E5%BA%97%E6%9C%89%E5%A4%9A%E7%89%9B%23&Refer=top) 1335104
 1. [阿里开启史上最大规模校招](https://s.weibo.com/weibo?q=%23%E9%98%BF%E9%87%8C%E5%BC%80%E5%90%AF%E5%8F%B2%E4%B8%8A%E6%9C%80%E5%A4%A7%E8%A7%84%E6%A8%A1%E6%A0%A1%E6%8B%9B%23&Refer=top) 1308878
 1. [默克尔视察洪灾地区](https://s.weibo.com/weibo?q=%23%E9%BB%98%E5%85%8B%E5%B0%94%E8%A7%86%E5%AF%9F%E6%B4%AA%E7%81%BE%E5%9C%B0%E5%8C%BA%23&Refer=top) 1306957
+1. [刘国梁用脚丈量奥运场地](https://s.weibo.com/weibo?q=%23%E5%88%98%E5%9B%BD%E6%A2%81%E7%94%A8%E8%84%9A%E4%B8%88%E9%87%8F%E5%A5%A5%E8%BF%90%E5%9C%BA%E5%9C%B0%23&Refer=top) 1301457
 1. [为救母亲女孩狂啃馒头月增重20斤](https://s.weibo.com/weibo?q=%23%E4%B8%BA%E6%95%91%E6%AF%8D%E4%BA%B2%E5%A5%B3%E5%AD%A9%E7%8B%82%E5%95%83%E9%A6%92%E5%A4%B4%E6%9C%88%E5%A2%9E%E9%87%8D20%E6%96%A4%23&Refer=top) 1177628
 1. [阿富汗驻巴基斯坦大使女儿遭绑架](https://s.weibo.com/weibo?q=%E9%98%BF%E5%AF%8C%E6%B1%97%E9%A9%BB%E5%B7%B4%E5%9F%BA%E6%96%AF%E5%9D%A6%E5%A4%A7%E4%BD%BF%E5%A5%B3%E5%84%BF%E9%81%AD%E7%BB%91%E6%9E%B6&Refer=top) 1153629
 1. [超75万网民联署呼吁彻查德特里克堡](https://s.weibo.com/weibo?q=%23%E8%B6%8575%E4%B8%87%E7%BD%91%E6%B0%91%E8%81%94%E7%BD%B2%E5%91%BC%E5%90%81%E5%BD%BB%E6%9F%A5%E5%BE%B7%E7%89%B9%E9%87%8C%E5%85%8B%E5%A0%A1%23&Refer=top) 1135709
 1. [西安美院回应8考生录取2天后遭退档](https://s.weibo.com/weibo?q=%23%E8%A5%BF%E5%AE%89%E7%BE%8E%E9%99%A2%E5%9B%9E%E5%BA%948%E8%80%83%E7%94%9F%E5%BD%95%E5%8F%962%E5%A4%A9%E5%90%8E%E9%81%AD%E9%80%80%E6%A1%A3%23&Refer=top) 1072901
 1. [姚明是不是又胖了](https://s.weibo.com/weibo?q=%23%E5%A7%9A%E6%98%8E%E6%98%AF%E4%B8%8D%E6%98%AF%E5%8F%88%E8%83%96%E4%BA%86%23&Refer=top) 1070583
+1. [乐华全家福](https://s.weibo.com/weibo?q=%23%E4%B9%90%E5%8D%8E%E5%85%A8%E5%AE%B6%E7%A6%8F%23&Refer=top) 1051821
 1. [中国共产党的精神之源](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%85%B1%E4%BA%A7%E5%85%9A%E7%9A%84%E7%B2%BE%E7%A5%9E%E4%B9%8B%E6%BA%90%23&Refer=top) 1047719
 1. [新郎和伴娘被绑电线杆整蛊](https://s.weibo.com/weibo?q=%23%E6%96%B0%E9%83%8E%E5%92%8C%E4%BC%B4%E5%A8%98%E8%A2%AB%E7%BB%91%E7%94%B5%E7%BA%BF%E6%9D%86%E6%95%B4%E8%9B%8A%23&Refer=top) 1011782
 1. [中国女排等抵达东京](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%A5%B3%E6%8E%92%E7%AD%89%E6%8A%B5%E8%BE%BE%E4%B8%9C%E4%BA%AC%23&Refer=top) 1011218
 1. [玉米砸裂挡风玻璃全楼验DNA](https://s.weibo.com/weibo?q=%23%E7%8E%89%E7%B1%B3%E7%A0%B8%E8%A3%82%E6%8C%A1%E9%A3%8E%E7%8E%BB%E7%92%83%E5%85%A8%E6%A5%BC%E9%AA%8CDNA%23&Refer=top) 1001018
-1. [刘国梁用脚丈量奥运场地](https://s.weibo.com/weibo?q=%23%E5%88%98%E5%9B%BD%E6%A2%81%E7%94%A8%E8%84%9A%E4%B8%88%E9%87%8F%E5%A5%A5%E8%BF%90%E5%9C%BA%E5%9C%B0%23&Refer=top) 999017
 1. [殴打院士董事长被开除党籍](https://s.weibo.com/weibo?q=%23%E6%AE%B4%E6%89%93%E9%99%A2%E5%A3%AB%E8%91%A3%E4%BA%8B%E9%95%BF%E8%A2%AB%E5%BC%80%E9%99%A4%E5%85%9A%E7%B1%8D%23&Refer=top) 976180
 1. [6旬保姆照顾已故雇主病儿13年](https://s.weibo.com/weibo?q=%236%E6%97%AC%E4%BF%9D%E5%A7%86%E7%85%A7%E9%A1%BE%E5%B7%B2%E6%95%85%E9%9B%87%E4%B8%BB%E7%97%85%E5%84%BF13%E5%B9%B4%23&Refer=top) 956548
-1. [乐华全家福](https://s.weibo.com/weibo?q=%23%E4%B9%90%E5%8D%8E%E5%85%A8%E5%AE%B6%E7%A6%8F%23&Refer=top) 951079
 1. [兰蔻](https://s.weibo.com/weibo?q=%E5%85%B0%E8%94%BB&Refer=top) 944576
 1. [医生建议低血糖意识不清别喂食](https://s.weibo.com/weibo?q=%23%E5%8C%BB%E7%94%9F%E5%BB%BA%E8%AE%AE%E4%BD%8E%E8%A1%80%E7%B3%96%E6%84%8F%E8%AF%86%E4%B8%8D%E6%B8%85%E5%88%AB%E5%96%82%E9%A3%9F%23&Refer=top) 932535
 1. [民警涮羊肉式救羊](https://s.weibo.com/weibo?q=%23%E6%B0%91%E8%AD%A6%E6%B6%AE%E7%BE%8A%E8%82%89%E5%BC%8F%E6%95%91%E7%BE%8A%23&Refer=top) 913725
@@ -100,6 +103,7 @@
 1. [谢楠回应点赞](https://s.weibo.com/weibo?q=%E8%B0%A2%E6%A5%A0%E5%9B%9E%E5%BA%94%E7%82%B9%E8%B5%9E&Refer=top) 871773
 1. [管泽元五杀](https://s.weibo.com/weibo?q=%23%E7%AE%A1%E6%B3%BD%E5%85%83%E4%BA%94%E6%9D%80%23&Refer=top) 867551
 1. [怒江大桥上摆满了鲜花水果](https://s.weibo.com/weibo?q=%23%E6%80%92%E6%B1%9F%E5%A4%A7%E6%A1%A5%E4%B8%8A%E6%91%86%E6%BB%A1%E4%BA%86%E9%B2%9C%E8%8A%B1%E6%B0%B4%E6%9E%9C%23&Refer=top) 866062
+1. [全国网友已为烧伤父女捐款200万](https://s.weibo.com/weibo?q=%23%E5%85%A8%E5%9B%BD%E7%BD%91%E5%8F%8B%E5%B7%B2%E4%B8%BA%E7%83%A7%E4%BC%A4%E7%88%B6%E5%A5%B3%E6%8D%90%E6%AC%BE200%E4%B8%87%23&Refer=top) 866016
 1. [林西娅评论吴亦凡](https://s.weibo.com/weibo?q=%E6%9E%97%E8%A5%BF%E5%A8%85%E8%AF%84%E8%AE%BA%E5%90%B4%E4%BA%A6%E5%87%A1&Refer=top) 861653
 1. [韩军方误诊致陆军117人感染](https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%86%9B%E6%96%B9%E8%AF%AF%E8%AF%8A%E8%87%B4%E9%99%86%E5%86%9B117%E4%BA%BA%E6%84%9F%E6%9F%93%23&Refer=top) 859092
 1. [韩束与吴亦凡解约](https://s.weibo.com/weibo?q=%23%E9%9F%A9%E6%9D%9F%E4%B8%8E%E5%90%B4%E4%BA%A6%E5%87%A1%E8%A7%A3%E7%BA%A6%23&Refer=top) 850335
@@ -113,12 +117,14 @@
 1. [吴亦凡方已报案](https://s.weibo.com/weibo?q=%23%E5%90%B4%E4%BA%A6%E5%87%A1%E6%96%B9%E5%B7%B2%E6%8A%A5%E6%A1%88%23&Refer=top) 828002
 1. [男子为当贴吧吧主向百度员工行贿宝马](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E4%B8%BA%E5%BD%93%E8%B4%B4%E5%90%A7%E5%90%A7%E4%B8%BB%E5%90%91%E7%99%BE%E5%BA%A6%E5%91%98%E5%B7%A5%E8%A1%8C%E8%B4%BF%E5%AE%9D%E9%A9%AC%23&Refer=top) 824763
 1. [小孩子的攀比有多好笑](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E5%AD%A9%E5%AD%90%E7%9A%84%E6%94%80%E6%AF%94%E6%9C%89%E5%A4%9A%E5%A5%BD%E7%AC%91%23&Refer=top) 821381
+1. [近视眼手术不是人人都适合](https://s.weibo.com/weibo?q=%23%E8%BF%91%E8%A7%86%E7%9C%BC%E6%89%8B%E6%9C%AF%E4%B8%8D%E6%98%AF%E4%BA%BA%E4%BA%BA%E9%83%BD%E9%80%82%E5%90%88%23&Refer=top) 818189
 1. [杭州一电动车骑行中发生爆炸](https://s.weibo.com/weibo?q=%23%E6%9D%AD%E5%B7%9E%E4%B8%80%E7%94%B5%E5%8A%A8%E8%BD%A6%E9%AA%91%E8%A1%8C%E4%B8%AD%E5%8F%91%E7%94%9F%E7%88%86%E7%82%B8%23&Refer=top) 810442
 1. [SEVENTEEN全员续约](https://s.weibo.com/weibo?q=%23SEVENTEEN%E5%85%A8%E5%91%98%E7%BB%AD%E7%BA%A6%23&Refer=top) 805871
 1. [怕鱼被吃掉宝宝抱鱼边走边哭](https://s.weibo.com/weibo?q=%23%E6%80%95%E9%B1%BC%E8%A2%AB%E5%90%83%E6%8E%89%E5%AE%9D%E5%AE%9D%E6%8A%B1%E9%B1%BC%E8%BE%B9%E8%B5%B0%E8%BE%B9%E5%93%AD%23&Refer=top) 789026
 1. [豆瓣崩了](https://s.weibo.com/weibo?q=%23%E8%B1%86%E7%93%A3%E5%B4%A9%E4%BA%86%23&Refer=top) 786448
 1. [你能接受恋爱中男生撒娇吗](https://s.weibo.com/weibo?q=%23%E4%BD%A0%E8%83%BD%E6%8E%A5%E5%8F%97%E6%81%8B%E7%88%B1%E4%B8%AD%E7%94%B7%E7%94%9F%E6%92%92%E5%A8%87%E5%90%97%23&Refer=top) 785686
 1. [炸宽粉有多好吃](https://s.weibo.com/weibo?q=%23%E7%82%B8%E5%AE%BD%E7%B2%89%E6%9C%89%E5%A4%9A%E5%A5%BD%E5%90%83%23&Refer=top) 784988
+1. [第一套人民币长什么样子](https://s.weibo.com/weibo?q=%23%E7%AC%AC%E4%B8%80%E5%A5%97%E4%BA%BA%E6%B0%91%E5%B8%81%E9%95%BF%E4%BB%80%E4%B9%88%E6%A0%B7%E5%AD%90%23&Refer=top) 776786
 1. [你经历过假性亲密关系吗](https://s.weibo.com/weibo?q=%23%E4%BD%A0%E7%BB%8F%E5%8E%86%E8%BF%87%E5%81%87%E6%80%A7%E4%BA%B2%E5%AF%86%E5%85%B3%E7%B3%BB%E5%90%97%23&Refer=top) 771401
 1. [奥运会](https://s.weibo.com/weibo?q=%E5%A5%A5%E8%BF%90%E4%BC%9A&Refer=top) 771364
 1. [当年爸妈不让嫁的人怎样了](https://s.weibo.com/weibo?q=%23%E5%BD%93%E5%B9%B4%E7%88%B8%E5%A6%88%E4%B8%8D%E8%AE%A9%E5%AB%81%E7%9A%84%E4%BA%BA%E6%80%8E%E6%A0%B7%E4%BA%86%23&Refer=top) 768615
@@ -137,6 +143,7 @@
 1. [幼儿园午餐播报员有多可爱](https://s.weibo.com/weibo?q=%23%E5%B9%BC%E5%84%BF%E5%9B%AD%E5%8D%88%E9%A4%90%E6%92%AD%E6%8A%A5%E5%91%98%E6%9C%89%E5%A4%9A%E5%8F%AF%E7%88%B1%23&Refer=top) 660689
 1. [第一次见偶像有多激动](https://s.weibo.com/weibo?q=%23%E7%AC%AC%E4%B8%80%E6%AC%A1%E8%A7%81%E5%81%B6%E5%83%8F%E6%9C%89%E5%A4%9A%E6%BF%80%E5%8A%A8%23&Refer=top) 657304
 1. [台风](https://s.weibo.com/weibo?q=%E5%8F%B0%E9%A3%8E&Refer=top) 649574
+1. [奶奶带孙女聚会唱k后酒驾回家被查](https://s.weibo.com/weibo?q=%23%E5%A5%B6%E5%A5%B6%E5%B8%A6%E5%AD%99%E5%A5%B3%E8%81%9A%E4%BC%9A%E5%94%B1k%E5%90%8E%E9%85%92%E9%A9%BE%E5%9B%9E%E5%AE%B6%E8%A2%AB%E6%9F%A5%23&Refer=top) 634841
 1. [上半年江苏居民人均可支配收入25119元](https://s.weibo.com/weibo?q=%23%E4%B8%8A%E5%8D%8A%E5%B9%B4%E6%B1%9F%E8%8B%8F%E5%B1%85%E6%B0%91%E4%BA%BA%E5%9D%87%E5%8F%AF%E6%94%AF%E9%85%8D%E6%94%B6%E5%85%A525119%E5%85%83%23&Refer=top) 632525
 1. [吴亦凡 语音](https://s.weibo.com/weibo?q=%E5%90%B4%E4%BA%A6%E5%87%A1%20%E8%AF%AD%E9%9F%B3&Refer=top) 629582
 1. [老板发福利女员工搬走一车榴莲](https://s.weibo.com/weibo?q=%23%E8%80%81%E6%9D%BF%E5%8F%91%E7%A6%8F%E5%88%A9%E5%A5%B3%E5%91%98%E5%B7%A5%E6%90%AC%E8%B5%B0%E4%B8%80%E8%BD%A6%E6%A6%B4%E8%8E%B2%23&Refer=top) 620379
@@ -152,7 +159,6 @@
 1. [杜淳王灿庆祝小蛋饺百天](https://s.weibo.com/weibo?q=%23%E6%9D%9C%E6%B7%B3%E7%8E%8B%E7%81%BF%E5%BA%86%E7%A5%9D%E5%B0%8F%E8%9B%8B%E9%A5%BA%E7%99%BE%E5%A4%A9%23&Refer=top) 566577
 1. [刘雨昕鼻子长痘](https://s.weibo.com/weibo?q=%23%E5%88%98%E9%9B%A8%E6%98%95%E9%BC%BB%E5%AD%90%E9%95%BF%E7%97%98%23&Refer=top) 559954
 1. [基金](https://s.weibo.com/weibo?q=%E5%9F%BA%E9%87%91&Refer=top) 558417
-1. [吴亦凡工作室发澄清](https://s.weibo.com/weibo?q=%E5%90%B4%E4%BA%A6%E5%87%A1%E5%B7%A5%E4%BD%9C%E5%AE%A4%E5%8F%91%E6%BE%84%E6%B8%85&Refer=top) 555953
 1. [吴亦凡表哥关联的多家公司接连注销清算](https://s.weibo.com/weibo?q=%23%E5%90%B4%E4%BA%A6%E5%87%A1%E8%A1%A8%E5%93%A5%E5%85%B3%E8%81%94%E7%9A%84%E5%A4%9A%E5%AE%B6%E5%85%AC%E5%8F%B8%E6%8E%A5%E8%BF%9E%E6%B3%A8%E9%94%80%E6%B8%85%E7%AE%97%23&Refer=top) 553634
 1. [了不起的硬糖女孩](https://s.weibo.com/weibo?q=%23%E4%BA%86%E4%B8%8D%E8%B5%B7%E7%9A%84%E7%A1%AC%E7%B3%96%E5%A5%B3%E5%AD%A9%23&Refer=top) 553513
 1. [小怡同学否认与吴亦凡交往](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E6%80%A1%E5%90%8C%E5%AD%A6%E5%90%A6%E8%AE%A4%E4%B8%8E%E5%90%B4%E4%BA%A6%E5%87%A1%E4%BA%A4%E5%BE%80%23&Refer=top) 548326
@@ -162,9 +168,10 @@
 1. [毕业照免费用卫星拍](https://s.weibo.com/weibo?q=%23%E6%AF%95%E4%B8%9A%E7%85%A7%E5%85%8D%E8%B4%B9%E7%94%A8%E5%8D%AB%E6%98%9F%E6%8B%8D%23&Refer=top) 506479
 1. [当猫咪被强制开机时](https://s.weibo.com/weibo?q=%23%E5%BD%93%E7%8C%AB%E5%92%AA%E8%A2%AB%E5%BC%BA%E5%88%B6%E5%BC%80%E6%9C%BA%E6%97%B6%23&Refer=top) 505851
 1. [眷思量](https://s.weibo.com/weibo?q=%E7%9C%B7%E6%80%9D%E9%87%8F&Refer=top) 501438
+1. [都美竹姐姐发文](https://s.weibo.com/weibo?q=%23%E9%83%BD%E7%BE%8E%E7%AB%B9%E5%A7%90%E5%A7%90%E5%8F%91%E6%96%87%23&Refer=top) 490129
 1. [日照发生一起交通事故2死5伤](https://s.weibo.com/weibo?q=%23%E6%97%A5%E7%85%A7%E5%8F%91%E7%94%9F%E4%B8%80%E8%B5%B7%E4%BA%A4%E9%80%9A%E4%BA%8B%E6%95%852%E6%AD%BB5%E4%BC%A4%23&Refer=top) 487022
 1. [姚明率中国女篮出征东京奥运会](https://s.weibo.com/weibo?q=%23%E5%A7%9A%E6%98%8E%E7%8E%87%E4%B8%AD%E5%9B%BD%E5%A5%B3%E7%AF%AE%E5%87%BA%E5%BE%81%E4%B8%9C%E4%BA%AC%E5%A5%A5%E8%BF%90%E4%BC%9A%23&Refer=top) 485093
-1. [近视眼手术不是人人都适合](https://s.weibo.com/weibo?q=%23%E8%BF%91%E8%A7%86%E7%9C%BC%E6%89%8B%E6%9C%AF%E4%B8%8D%E6%98%AF%E4%BA%BA%E4%BA%BA%E9%83%BD%E9%80%82%E5%90%88%23&Refer=top) 484394
+1. [小柔不乖晒和吴亦凡经纪人聊天记录](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E6%9F%94%E4%B8%8D%E4%B9%96%E6%99%92%E5%92%8C%E5%90%B4%E4%BA%A6%E5%87%A1%E7%BB%8F%E7%BA%AA%E4%BA%BA%E8%81%8A%E5%A4%A9%E8%AE%B0%E5%BD%95%23&Refer=top) 481334
 1. [保时捷终止与吴亦凡合作关系](https://s.weibo.com/weibo?q=%23%E4%BF%9D%E6%97%B6%E6%8D%B7%E7%BB%88%E6%AD%A2%E4%B8%8E%E5%90%B4%E4%BA%A6%E5%87%A1%E5%90%88%E4%BD%9C%E5%85%B3%E7%B3%BB%23&Refer=top) 475889
 1. [陆正安叫了林漾多少次老婆](https://s.weibo.com/weibo?q=%23%E9%99%86%E6%AD%A3%E5%AE%89%E5%8F%AB%E4%BA%86%E6%9E%97%E6%BC%BE%E5%A4%9A%E5%B0%91%E6%AC%A1%E8%80%81%E5%A9%86%23&Refer=top) 467234
 1. [上班第一天公司就倒闭了](https://s.weibo.com/weibo?q=%23%E4%B8%8A%E7%8F%AD%E7%AC%AC%E4%B8%80%E5%A4%A9%E5%85%AC%E5%8F%B8%E5%B0%B1%E5%80%92%E9%97%AD%E4%BA%86%23&Refer=top) 464703
@@ -172,9 +179,11 @@
 1. [不能把碳中和当概念炒作](https://s.weibo.com/weibo?q=%E4%B8%8D%E8%83%BD%E6%8A%8A%E7%A2%B3%E4%B8%AD%E5%92%8C%E5%BD%93%E6%A6%82%E5%BF%B5%E7%82%92%E4%BD%9C&Refer=top) 460765
 1. [珠海隧道透水事故现场发现2名遇难者](https://s.weibo.com/weibo?q=%23%E7%8F%A0%E6%B5%B7%E9%9A%A7%E9%81%93%E9%80%8F%E6%B0%B4%E4%BA%8B%E6%95%85%E7%8E%B0%E5%9C%BA%E5%8F%91%E7%8E%B02%E5%90%8D%E9%81%87%E9%9A%BE%E8%80%85%23&Refer=top) 458079
 1. [王者荣耀与吴亦凡结束合作关系](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E8%80%85%E8%8D%A3%E8%80%80%E4%B8%8E%E5%90%B4%E4%BA%A6%E5%87%A1%E7%BB%93%E6%9D%9F%E5%90%88%E4%BD%9C%E5%85%B3%E7%B3%BB%23&Refer=top) 457628
+1. [连线都美竹亲属和律师](https://s.weibo.com/weibo?q=%23%E8%BF%9E%E7%BA%BF%E9%83%BD%E7%BE%8E%E7%AB%B9%E4%BA%B2%E5%B1%9E%E5%92%8C%E5%BE%8B%E5%B8%88%23&Refer=top) 457197
 1. [你知道五魁首的真正含义吗](https://s.weibo.com/weibo?q=%23%E4%BD%A0%E7%9F%A5%E9%81%93%E4%BA%94%E9%AD%81%E9%A6%96%E7%9A%84%E7%9C%9F%E6%AD%A3%E5%90%AB%E4%B9%89%E5%90%97%23&Refer=top) 457088
 1. [四川山民采药偶遇大熊猫](https://s.weibo.com/weibo?q=%23%E5%9B%9B%E5%B7%9D%E5%B1%B1%E6%B0%91%E9%87%87%E8%8D%AF%E5%81%B6%E9%81%87%E5%A4%A7%E7%86%8A%E7%8C%AB%23&Refer=top) 441057
 1. [是我羡慕的爱情和友情](https://s.weibo.com/weibo?q=%23%E6%98%AF%E6%88%91%E7%BE%A1%E6%85%95%E7%9A%84%E7%88%B1%E6%83%85%E5%92%8C%E5%8F%8B%E6%83%85%23&Refer=top) 430891
+1. [老人三伏天裹棉衣睡觉中暑险送命](https://s.weibo.com/weibo?q=%23%E8%80%81%E4%BA%BA%E4%B8%89%E4%BC%8F%E5%A4%A9%E8%A3%B9%E6%A3%89%E8%A1%A3%E7%9D%A1%E8%A7%89%E4%B8%AD%E6%9A%91%E9%99%A9%E9%80%81%E5%91%BD%23&Refer=top) 430280
 1. [花18万克隆宠物狗真的能延续陪伴吗](https://s.weibo.com/weibo?q=%23%E8%8A%B118%E4%B8%87%E5%85%8B%E9%9A%86%E5%AE%A0%E7%89%A9%E7%8B%97%E7%9C%9F%E7%9A%84%E8%83%BD%E5%BB%B6%E7%BB%AD%E9%99%AA%E4%BC%B4%E5%90%97%23&Refer=top) 430125
 1. [张桂梅曾捐100多万元用于办学和扶贫](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%A1%82%E6%A2%85%E6%9B%BE%E6%8D%90100%E5%A4%9A%E4%B8%87%E5%85%83%E7%94%A8%E4%BA%8E%E5%8A%9E%E5%AD%A6%E5%92%8C%E6%89%B6%E8%B4%AB%23&Refer=top) 428128
 1. [中国女排出征前大合影](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%A5%B3%E6%8E%92%E5%87%BA%E5%BE%81%E5%89%8D%E5%A4%A7%E5%90%88%E5%BD%B1%23&Refer=top) 427429
@@ -210,12 +219,14 @@
 1. [郎平为朱婷系衣服](https://s.weibo.com/weibo?q=%23%E9%83%8E%E5%B9%B3%E4%B8%BA%E6%9C%B1%E5%A9%B7%E7%B3%BB%E8%A1%A3%E6%9C%8D%23&Refer=top) 370582
 1. [科普人让我感动的瞬间](https://s.weibo.com/weibo?q=%23%E7%A7%91%E6%99%AE%E4%BA%BA%E8%AE%A9%E6%88%91%E6%84%9F%E5%8A%A8%E7%9A%84%E7%9E%AC%E9%97%B4%23&Refer=top) 369839
 1. [台风查帕卡](https://s.weibo.com/weibo?q=%E5%8F%B0%E9%A3%8E%E6%9F%A5%E5%B8%95%E5%8D%A1&Refer=top) 368538
+1. [陈立农回应腿部受伤](https://s.weibo.com/weibo?q=%23%E9%99%88%E7%AB%8B%E5%86%9C%E5%9B%9E%E5%BA%94%E8%85%BF%E9%83%A8%E5%8F%97%E4%BC%A4%23&Refer=top) 367443
 1. [亵渎英烈旅游博主已被立案](https://s.weibo.com/weibo?q=%23%E4%BA%B5%E6%B8%8E%E8%8B%B1%E7%83%88%E6%97%85%E6%B8%B8%E5%8D%9A%E4%B8%BB%E5%B7%B2%E8%A2%AB%E7%AB%8B%E6%A1%88%23&Refer=top) 366553
 1. [青年大学习](https://s.weibo.com/weibo?q=%E9%9D%92%E5%B9%B4%E5%A4%A7%E5%AD%A6%E4%B9%A0&Refer=top) 366502
 1. [你是我的荣耀沙漠花絮](https://s.weibo.com/weibo?q=%23%E4%BD%A0%E6%98%AF%E6%88%91%E7%9A%84%E8%8D%A3%E8%80%80%E6%B2%99%E6%BC%A0%E8%8A%B1%E7%B5%AE%23&Refer=top) 365657
 1. [贵州从江6名女孩溺水4人溺亡](https://s.weibo.com/weibo?q=%23%E8%B4%B5%E5%B7%9E%E4%BB%8E%E6%B1%9F6%E5%90%8D%E5%A5%B3%E5%AD%A9%E6%BA%BA%E6%B0%B44%E4%BA%BA%E6%BA%BA%E4%BA%A1%23&Refer=top) 365615
 1. [鸟巢演出中的震撼画面怎么来的](https://s.weibo.com/weibo?q=%23%E9%B8%9F%E5%B7%A2%E6%BC%94%E5%87%BA%E4%B8%AD%E7%9A%84%E9%9C%87%E6%92%BC%E7%94%BB%E9%9D%A2%E6%80%8E%E4%B9%88%E6%9D%A5%E7%9A%84%23&Refer=top) 362387
 1. [杭州电动车爆炸伤者家属发声](https://s.weibo.com/weibo?q=%23%E6%9D%AD%E5%B7%9E%E7%94%B5%E5%8A%A8%E8%BD%A6%E7%88%86%E7%82%B8%E4%BC%A4%E8%80%85%E5%AE%B6%E5%B1%9E%E5%8F%91%E5%A3%B0%23&Refer=top) 357597
+1. [原生家庭很糟糕是什么体验](https://s.weibo.com/weibo?q=%23%E5%8E%9F%E7%94%9F%E5%AE%B6%E5%BA%AD%E5%BE%88%E7%B3%9F%E7%B3%95%E6%98%AF%E4%BB%80%E4%B9%88%E4%BD%93%E9%AA%8C%23&Refer=top) 357350
 1. [娱八婆声明](https://s.weibo.com/weibo?q=%23%E5%A8%B1%E5%85%AB%E5%A9%86%E5%A3%B0%E6%98%8E%23&Refer=top) 355263
 1. [小伙表演醉拳倒地吓坏工作人员](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E4%BC%99%E8%A1%A8%E6%BC%94%E9%86%89%E6%8B%B3%E5%80%92%E5%9C%B0%E5%90%93%E5%9D%8F%E5%B7%A5%E4%BD%9C%E4%BA%BA%E5%91%98%23&Refer=top) 354626
 1. [我国连续第18个夏粮丰收季](https://s.weibo.com/weibo?q=%23%E6%88%91%E5%9B%BD%E8%BF%9E%E7%BB%AD%E7%AC%AC18%E4%B8%AA%E5%A4%8F%E7%B2%AE%E4%B8%B0%E6%94%B6%E5%AD%A3%23&Refer=top) 353078
@@ -230,7 +241,10 @@
 1. [90岁大爷为瘫痪妻子建满屋扶手](https://s.weibo.com/weibo?q=90%E5%B2%81%E5%A4%A7%E7%88%B7%E4%B8%BA%E7%98%AB%E7%97%AA%E5%A6%BB%E5%AD%90%E5%BB%BA%E6%BB%A1%E5%B1%8B%E6%89%B6%E6%89%8B&Refer=top) 339030
 1. [武汉一景区突发山洪](https://s.weibo.com/weibo?q=%23%E6%AD%A6%E6%B1%89%E4%B8%80%E6%99%AF%E5%8C%BA%E7%AA%81%E5%8F%91%E5%B1%B1%E6%B4%AA%23&Refer=top) 334589
 1. [滋源终止与吴亦凡合作](https://s.weibo.com/weibo?q=%23%E6%BB%8B%E6%BA%90%E7%BB%88%E6%AD%A2%E4%B8%8E%E5%90%B4%E4%BA%A6%E5%87%A1%E5%90%88%E4%BD%9C%23&Refer=top) 329902
+1. [美股下跌](https://s.weibo.com/weibo?q=%E7%BE%8E%E8%82%A1%E4%B8%8B%E8%B7%8C&Refer=top) 323823
 1. [男子敲诈被判缓刑期间又将前妻砍杀](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E6%95%B2%E8%AF%88%E8%A2%AB%E5%88%A4%E7%BC%93%E5%88%91%E6%9C%9F%E9%97%B4%E5%8F%88%E5%B0%86%E5%89%8D%E5%A6%BB%E7%A0%8D%E6%9D%80%23&Refer=top) 320557
+1. [学校的通报有多好笑](https://s.weibo.com/weibo?q=%23%E5%AD%A6%E6%A0%A1%E7%9A%84%E9%80%9A%E6%8A%A5%E6%9C%89%E5%A4%9A%E5%A5%BD%E7%AC%91%23&Refer=top) 319454
+1. [90后退伍军人当整理师月入3万](https://s.weibo.com/weibo?q=%2390%E5%90%8E%E9%80%80%E4%BC%8D%E5%86%9B%E4%BA%BA%E5%BD%93%E6%95%B4%E7%90%86%E5%B8%88%E6%9C%88%E5%85%A53%E4%B8%87%23&Refer=top) 310640
 1. [中国女篮主教练跟腱断裂](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%A5%B3%E7%AF%AE%E4%B8%BB%E6%95%99%E7%BB%83%E8%B7%9F%E8%85%B1%E6%96%AD%E8%A3%82%23&Refer=top) 310638
 1. [中国女排走出机场大厅全是加油声](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%A5%B3%E6%8E%92%E8%B5%B0%E5%87%BA%E6%9C%BA%E5%9C%BA%E5%A4%A7%E5%8E%85%E5%85%A8%E6%98%AF%E5%8A%A0%E6%B2%B9%E5%A3%B0%23&Refer=top) 303810
 1. [原来湖北人也爱说倒装句](https://s.weibo.com/weibo?q=%23%E5%8E%9F%E6%9D%A5%E6%B9%96%E5%8C%97%E4%BA%BA%E4%B9%9F%E7%88%B1%E8%AF%B4%E5%80%92%E8%A3%85%E5%8F%A5%23&Refer=top) 297480
@@ -243,18 +257,19 @@
 1. [迪丽热巴龚俊 安乐传](https://s.weibo.com/weibo?q=%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E9%BE%9A%E4%BF%8A%20%E5%AE%89%E4%B9%90%E4%BC%A0&Refer=top) 282324
 1. [猫咪为这个家操碎了心](https://s.weibo.com/weibo?q=%23%E7%8C%AB%E5%92%AA%E4%B8%BA%E8%BF%99%E4%B8%AA%E5%AE%B6%E6%93%8D%E7%A2%8E%E4%BA%86%E5%BF%83%23&Refer=top) 279074
 1. [寻宝人汪苏泷](https://s.weibo.com/weibo?q=%23%E5%AF%BB%E5%AE%9D%E4%BA%BA%E6%B1%AA%E8%8B%8F%E6%B3%B7%23&Refer=top) 278186
-1. [杭州烧伤父亲醒来第一件事是找女儿](https://s.weibo.com/weibo?q=%23%E6%9D%AD%E5%B7%9E%E7%83%A7%E4%BC%A4%E7%88%B6%E4%BA%B2%E9%86%92%E6%9D%A5%E7%AC%AC%E4%B8%80%E4%BB%B6%E4%BA%8B%E6%98%AF%E6%89%BE%E5%A5%B3%E5%84%BF%23&Refer=top) 271512
 1. [香脆芝士玉米烙](https://s.weibo.com/weibo?q=%23%E9%A6%99%E8%84%86%E8%8A%9D%E5%A3%AB%E7%8E%89%E7%B1%B3%E7%83%99%23&Refer=top) 267646
+1. [许昕吐槽球馆场地跑不开](https://s.weibo.com/weibo?q=%23%E8%AE%B8%E6%98%95%E5%90%90%E6%A7%BD%E7%90%83%E9%A6%86%E5%9C%BA%E5%9C%B0%E8%B7%91%E4%B8%8D%E5%BC%80%23&Refer=top) 264149
+1. [西安高校盲盒版录取通知书](https://s.weibo.com/weibo?q=%23%E8%A5%BF%E5%AE%89%E9%AB%98%E6%A0%A1%E7%9B%B2%E7%9B%92%E7%89%88%E5%BD%95%E5%8F%96%E9%80%9A%E7%9F%A5%E4%B9%A6%23&Refer=top) 260678
 1. [见过最优雅的鸽子](https://s.weibo.com/weibo?q=%23%E8%A7%81%E8%BF%87%E6%9C%80%E4%BC%98%E9%9B%85%E7%9A%84%E9%B8%BD%E5%AD%90%23&Refer=top) 259496
 1. [你能接受另一半给异性介绍对象吗](https://s.weibo.com/weibo?q=%23%E4%BD%A0%E8%83%BD%E6%8E%A5%E5%8F%97%E5%8F%A6%E4%B8%80%E5%8D%8A%E7%BB%99%E5%BC%82%E6%80%A7%E4%BB%8B%E7%BB%8D%E5%AF%B9%E8%B1%A1%E5%90%97%23&Refer=top) 259137
 1. [中国女排今日出征](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%A5%B3%E6%8E%92%E4%BB%8A%E6%97%A5%E5%87%BA%E5%BE%81%23&Refer=top) 253922
 1. [脱粉](https://s.weibo.com/weibo?q=%23%E8%84%B1%E7%B2%89%23&Refer=top) 253304
+1. [陌生的恋人](https://s.weibo.com/weibo?q=%E9%99%8C%E7%94%9F%E7%9A%84%E6%81%8B%E4%BA%BA&Refer=top) 251596
 1. [中小学校内不得开小卖部超市](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%B0%8F%E5%AD%A6%E6%A0%A1%E5%86%85%E4%B8%8D%E5%BE%97%E5%BC%80%E5%B0%8F%E5%8D%96%E9%83%A8%E8%B6%85%E5%B8%82%23&Refer=top) 251074
 1. [郑州全面实施暑期托管](https://s.weibo.com/weibo?q=%23%E9%83%91%E5%B7%9E%E5%85%A8%E9%9D%A2%E5%AE%9E%E6%96%BD%E6%9A%91%E6%9C%9F%E6%89%98%E7%AE%A1%23&Refer=top) 250572
 1. [V5 iG](https://s.weibo.com/weibo?q=%23V5%20iG%23&Refer=top) 243215
 1. [原神](https://s.weibo.com/weibo?q=%E5%8E%9F%E7%A5%9E&Refer=top) 241397
 1. [和平精英抢票](https://s.weibo.com/weibo?q=%E5%92%8C%E5%B9%B3%E7%B2%BE%E8%8B%B1%E6%8A%A2%E7%A5%A8&Refer=top) 240772
-1. [许昕吐槽球馆场地跑不开](https://s.weibo.com/weibo?q=%23%E8%AE%B8%E6%98%95%E5%90%90%E6%A7%BD%E7%90%83%E9%A6%86%E5%9C%BA%E5%9C%B0%E8%B7%91%E4%B8%8D%E5%BC%80%23&Refer=top) 240070
 1. [广西寻7月13日CZ6222航班乘客](https://s.weibo.com/weibo?q=%23%E5%B9%BF%E8%A5%BF%E5%AF%BB7%E6%9C%8813%E6%97%A5CZ6222%E8%88%AA%E7%8F%AD%E4%B9%98%E5%AE%A2%23&Refer=top) 239544
 1. [中国铁路回应高铁站台不能撑伞](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E9%93%81%E8%B7%AF%E5%9B%9E%E5%BA%94%E9%AB%98%E9%93%81%E7%AB%99%E5%8F%B0%E4%B8%8D%E8%83%BD%E6%92%91%E4%BC%9E%23&Refer=top) 238201
 1. [白玦替上古应劫](https://s.weibo.com/weibo?q=%23%E7%99%BD%E7%8E%A6%E6%9B%BF%E4%B8%8A%E5%8F%A4%E5%BA%94%E5%8A%AB%23&Refer=top) 232462
@@ -264,11 +279,9 @@
 1. [原来剧本杀是个体力活](https://s.weibo.com/weibo?q=%23%E5%8E%9F%E6%9D%A5%E5%89%A7%E6%9C%AC%E6%9D%80%E6%98%AF%E4%B8%AA%E4%BD%93%E5%8A%9B%E6%B4%BB%23&Refer=top) 224634
 1. [全国生鲜乳抽检合格率达99.8%](https://s.weibo.com/weibo?q=%23%E5%85%A8%E5%9B%BD%E7%94%9F%E9%B2%9C%E4%B9%B3%E6%8A%BD%E6%A3%80%E5%90%88%E6%A0%BC%E7%8E%87%E8%BE%BE99.8%25%23&Refer=top) 224600
 1. [王一博无感舞台 EXO的Lotto](https://s.weibo.com/weibo?q=%E7%8E%8B%E4%B8%80%E5%8D%9A%E6%97%A0%E6%84%9F%E8%88%9E%E5%8F%B0%20EXO%E7%9A%84Lotto&Refer=top) 217841
-1. [老人三伏天裹棉衣睡觉中暑险送命](https://s.weibo.com/weibo?q=%23%E8%80%81%E4%BA%BA%E4%B8%89%E4%BC%8F%E5%A4%A9%E8%A3%B9%E6%A3%89%E8%A1%A3%E7%9D%A1%E8%A7%89%E4%B8%AD%E6%9A%91%E9%99%A9%E9%80%81%E5%91%BD%23&Refer=top) 217113
 1. [多家品牌与吴亦凡解约](https://s.weibo.com/weibo?q=%23%E5%A4%9A%E5%AE%B6%E5%93%81%E7%89%8C%E4%B8%8E%E5%90%B4%E4%BA%A6%E5%87%A1%E8%A7%A3%E7%BA%A6%23&Refer=top) 216421
 1. [孙芮第一](https://s.weibo.com/weibo?q=%E5%AD%99%E8%8A%AE%E7%AC%AC%E4%B8%80&Refer=top) 213549
 1. [该如何跟孩子谈论至亲离世](https://s.weibo.com/weibo?q=%23%E8%AF%A5%E5%A6%82%E4%BD%95%E8%B7%9F%E5%AD%A9%E5%AD%90%E8%B0%88%E8%AE%BA%E8%87%B3%E4%BA%B2%E7%A6%BB%E4%B8%96%23&Refer=top) 213332
-1. [陌生的恋人](https://s.weibo.com/weibo?q=%E9%99%8C%E7%94%9F%E7%9A%84%E6%81%8B%E4%BA%BA&Refer=top) 212484
 1. [60岁郎平又带队出征](https://s.weibo.com/weibo?q=%2360%E5%B2%81%E9%83%8E%E5%B9%B3%E5%8F%88%E5%B8%A6%E9%98%9F%E5%87%BA%E5%BE%81%23&Refer=top) 209538
 1. [哪种方言最接近古人讲的话](https://s.weibo.com/weibo?q=%23%E5%93%AA%E7%A7%8D%E6%96%B9%E8%A8%80%E6%9C%80%E6%8E%A5%E8%BF%91%E5%8F%A4%E4%BA%BA%E8%AE%B2%E7%9A%84%E8%AF%9D%23&Refer=top) 207129
 1. [小鬼说电竞行业太残酷了](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E9%AC%BC%E8%AF%B4%E7%94%B5%E7%AB%9E%E8%A1%8C%E4%B8%9A%E5%A4%AA%E6%AE%8B%E9%85%B7%E4%BA%86%23&Refer=top) 200971
