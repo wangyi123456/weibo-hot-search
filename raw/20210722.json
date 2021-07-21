@@ -207,8 +207,16 @@
     "href": "https://s.weibo.com/weibo?q=%23%E5%8F%A4%E8%91%A3%E5%B1%80%E4%B8%AD%E5%B1%803%E5%BC%80%E6%92%AD%23&Refer=top",
     "hot": 176704
   },
+  "河南加油": {
+    "href": "https://s.weibo.com/weibo?q=%23%E6%B2%B3%E5%8D%97%E5%8A%A0%E6%B2%B9%23&Refer=top",
+    "hot": 111983
+  },
   "河北暴雨": {
     "href": "https://s.weibo.com/weibo?q=%23%E6%B2%B3%E5%8C%97%E6%9A%B4%E9%9B%A8%23&Refer=top",
     "hot": 75207
+  },
+  "南京新增6例本土无症状": {
+    "href": "https://s.weibo.com/weibo?q=%23%E5%8D%97%E4%BA%AC%E6%96%B0%E5%A2%9E6%E4%BE%8B%E6%9C%AC%E5%9C%9F%E6%97%A0%E7%97%87%E7%8A%B6%23&Refer=top",
+    "hot": 54790
   }
 }
