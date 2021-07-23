@@ -14,9 +14,10 @@
 
 <!-- Rank Begin -->
 
-最后更新时间 2021-07-23 21:14:32
+最后更新时间 2021-07-23 22:07:17
 
 1. [东京奥运开幕式](https://s.weibo.com/weibo?q=%23%E4%B8%9C%E4%BA%AC%E5%A5%A5%E8%BF%90%E5%BC%80%E5%B9%95%E5%BC%8F%23&Refer=top) 18972781
+1. [中国代表团登场](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E4%BB%A3%E8%A1%A8%E5%9B%A2%E7%99%BB%E5%9C%BA%23&Refer=top) 15627420
 1. [中国奥运代表团第110位入场](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%A5%A5%E8%BF%90%E4%BB%A3%E8%A1%A8%E5%9B%A2%E7%AC%AC110%E4%BD%8D%E5%85%A5%E5%9C%BA%23&Refer=top) 7539083
 1. [东京奥运会今天开幕](https://s.weibo.com/weibo?q=%23%E4%B8%9C%E4%BA%AC%E5%A5%A5%E8%BF%90%E4%BC%9A%E4%BB%8A%E5%A4%A9%E5%BC%80%E5%B9%95%23&Refer=top) 6612069
 1. [郑州希岸酒店暴雨后涨价被罚50万](https://s.weibo.com/weibo?q=%23%E9%83%91%E5%B7%9E%E5%B8%8C%E5%B2%B8%E9%85%92%E5%BA%97%E6%9A%B4%E9%9B%A8%E5%90%8E%E6%B6%A8%E4%BB%B7%E8%A2%AB%E7%BD%9A50%E4%B8%87%23&Refer=top) 6004511
@@ -24,13 +25,14 @@
 1. [郑州一母亲遇难前将婴儿抛到安全地带](https://s.weibo.com/weibo?q=%23%E9%83%91%E5%B7%9E%E4%B8%80%E6%AF%8D%E4%BA%B2%E9%81%87%E9%9A%BE%E5%89%8D%E5%B0%86%E5%A9%B4%E5%84%BF%E6%8A%9B%E5%88%B0%E5%AE%89%E5%85%A8%E5%9C%B0%E5%B8%A6%23&Refer=top) 5130151
 1. [暴雨后回家一看房子四处开裂](https://s.weibo.com/weibo?q=%23%E6%9A%B4%E9%9B%A8%E5%90%8E%E5%9B%9E%E5%AE%B6%E4%B8%80%E7%9C%8B%E6%88%BF%E5%AD%90%E5%9B%9B%E5%A4%84%E5%BC%80%E8%A3%82%23&Refer=top) 4491914
 1. [法治日报评北京警方通报吴亦凡事件](https://s.weibo.com/weibo?q=%23%E6%B3%95%E6%B2%BB%E6%97%A5%E6%8A%A5%E8%AF%84%E5%8C%97%E4%BA%AC%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E5%90%B4%E4%BA%A6%E5%87%A1%E4%BA%8B%E4%BB%B6%23&Refer=top) 4387323
+1. [地震预警](https://s.weibo.com/weibo?q=%E5%9C%B0%E9%9C%87%E9%A2%84%E8%AD%A6&Refer=top) 4297853
 1. [收2100万彩礼发现钱和男友是假的](https://s.weibo.com/weibo?q=%23%E6%94%B62100%E4%B8%87%E5%BD%A9%E7%A4%BC%E5%8F%91%E7%8E%B0%E9%92%B1%E5%92%8C%E7%94%B7%E5%8F%8B%E6%98%AF%E5%81%87%E7%9A%84%23&Refer=top) 4285042
 1. [哈萨克斯坦女旗手好像仙女](https://s.weibo.com/weibo?q=%23%E5%93%88%E8%90%A8%E5%85%8B%E6%96%AF%E5%9D%A6%E5%A5%B3%E6%97%97%E6%89%8B%E5%A5%BD%E5%83%8F%E4%BB%99%E5%A5%B3%23&Refer=top) 4145066
 1. [郭晶晶以评委身份前往东京奥运会](https://s.weibo.com/weibo?q=%23%E9%83%AD%E6%99%B6%E6%99%B6%E4%BB%A5%E8%AF%84%E5%A7%94%E8%BA%AB%E4%BB%BD%E5%89%8D%E5%BE%80%E4%B8%9C%E4%BA%AC%E5%A5%A5%E8%BF%90%E4%BC%9A%23&Refer=top) 3922087
 1. [短信发微博号码1069009009](https://s.weibo.com/weibo?q=%E7%9F%AD%E4%BF%A1%E5%8F%91%E5%BE%AE%E5%8D%9A%E5%8F%B7%E7%A0%811069009009&Refer=top) 3915113
 1. [鸿星尔克的微博评论好心酸](https://s.weibo.com/weibo?q=%23%E9%B8%BF%E6%98%9F%E5%B0%94%E5%85%8B%E7%9A%84%E5%BE%AE%E5%8D%9A%E8%AF%84%E8%AE%BA%E5%A5%BD%E5%BF%83%E9%85%B8%23&Refer=top) 3883912
-1. [中国代表团登场](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E4%BB%A3%E8%A1%A8%E5%9B%A2%E7%99%BB%E5%9C%BA%23&Refer=top) 3862727
 1. [中国队入住的楼层挂旗了](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E9%98%9F%E5%85%A5%E4%BD%8F%E7%9A%84%E6%A5%BC%E5%B1%82%E6%8C%82%E6%97%97%E4%BA%86%23&Refer=top) 3565890
+1. [郑州暴雨冲出汉代古墓](https://s.weibo.com/weibo?q=%23%E9%83%91%E5%B7%9E%E6%9A%B4%E9%9B%A8%E5%86%B2%E5%87%BA%E6%B1%89%E4%BB%A3%E5%8F%A4%E5%A2%93%23&Refer=top) 3463431
 1. [赵立坚说中方在天津更不吃这一套](https://s.weibo.com/weibo?q=%23%E8%B5%B5%E7%AB%8B%E5%9D%9A%E8%AF%B4%E4%B8%AD%E6%96%B9%E5%9C%A8%E5%A4%A9%E6%B4%A5%E6%9B%B4%E4%B8%8D%E5%90%83%E8%BF%99%E4%B8%80%E5%A5%97%23&Refer=top) 3098309
 1. [奥运会真的好出神颜啊](https://s.weibo.com/weibo?q=%23%E5%A5%A5%E8%BF%90%E4%BC%9A%E7%9C%9F%E7%9A%84%E5%A5%BD%E5%87%BA%E7%A5%9E%E9%A2%9C%E5%95%8A%23&Refer=top) 3096666
 1. [刘国梁说金牌不够分](https://s.weibo.com/weibo?q=%23%E5%88%98%E5%9B%BD%E6%A2%81%E8%AF%B4%E9%87%91%E7%89%8C%E4%B8%8D%E5%A4%9F%E5%88%86%23&Refer=top) 2791111
@@ -41,9 +43,12 @@
 1. [济南突降大暴雨](https://s.weibo.com/weibo?q=%23%E6%B5%8E%E5%8D%97%E7%AA%81%E9%99%8D%E5%A4%A7%E6%9A%B4%E9%9B%A8%23&Refer=top) 2517969
 1. [郑州暴雨已导致51人遇难](https://s.weibo.com/weibo?q=%23%E9%83%91%E5%B7%9E%E6%9A%B4%E9%9B%A8%E5%B7%B2%E5%AF%BC%E8%87%B451%E4%BA%BA%E9%81%87%E9%9A%BE%23&Refer=top) 2440477
 1. [iPhone13最高或有1TB存储](https://s.weibo.com/weibo?q=%23iPhone13%E6%9C%80%E9%AB%98%E6%88%96%E6%9C%891TB%E5%AD%98%E5%82%A8%23&Refer=top) 2289756
+1. [当年的东京八分钟](https://s.weibo.com/weibo?q=%E5%BD%93%E5%B9%B4%E7%9A%84%E4%B8%9C%E4%BA%AC%E5%85%AB%E5%88%86%E9%92%9F&Refer=top) 2229777
 1. [长沙暴雨](https://s.weibo.com/weibo?q=%E9%95%BF%E6%B2%99%E6%9A%B4%E9%9B%A8&Refer=top) 2223842
+1. [为啥山东什么都能支援](https://s.weibo.com/weibo?q=%23%E4%B8%BA%E5%95%A5%E5%B1%B1%E4%B8%9C%E4%BB%80%E4%B9%88%E9%83%BD%E8%83%BD%E6%94%AF%E6%8F%B4%23&Refer=top) 2197916
 1. [市民40分钟买完河南瓜农3000斤瓜](https://s.weibo.com/weibo?q=%23%E5%B8%82%E6%B0%9140%E5%88%86%E9%92%9F%E4%B9%B0%E5%AE%8C%E6%B2%B3%E5%8D%97%E7%93%9C%E5%86%9C3000%E6%96%A4%E7%93%9C%23&Refer=top) 2186389
 1. [上海5人被海浪卷走](https://s.weibo.com/weibo?q=%23%E4%B8%8A%E6%B5%B75%E4%BA%BA%E8%A2%AB%E6%B5%B7%E6%B5%AA%E5%8D%B7%E8%B5%B0%23&Refer=top) 2183319
+1. [2008年北京奥运会开幕式](https://s.weibo.com/weibo?q=2008%E5%B9%B4%E5%8C%97%E4%BA%AC%E5%A5%A5%E8%BF%90%E4%BC%9A%E5%BC%80%E5%B9%95%E5%BC%8F&Refer=top) 2171230
 1. [奥运会伙食有多好](https://s.weibo.com/weibo?q=%23%E5%A5%A5%E8%BF%90%E4%BC%9A%E4%BC%99%E9%A3%9F%E6%9C%89%E5%A4%9A%E5%A5%BD%23&Refer=top) 2122793
 1. [南京确诊病例中绝大部分打过疫苗](https://s.weibo.com/weibo?q=%23%E5%8D%97%E4%BA%AC%E7%A1%AE%E8%AF%8A%E7%97%85%E4%BE%8B%E4%B8%AD%E7%BB%9D%E5%A4%A7%E9%83%A8%E5%88%86%E6%89%93%E8%BF%87%E7%96%AB%E8%8B%97%23&Refer=top) 2114625
 1. [当一座都市忽然失去了互联网](https://s.weibo.com/weibo?q=%23%E5%BD%93%E4%B8%80%E5%BA%A7%E9%83%BD%E5%B8%82%E5%BF%BD%E7%84%B6%E5%A4%B1%E5%8E%BB%E4%BA%86%E4%BA%92%E8%81%94%E7%BD%91%23&Refer=top) 2057505
@@ -65,6 +70,7 @@
 1. [阿根廷代表团入场好欢乐](https://s.weibo.com/weibo?q=%23%E9%98%BF%E6%A0%B9%E5%BB%B7%E4%BB%A3%E8%A1%A8%E5%9B%A2%E5%85%A5%E5%9C%BA%E5%A5%BD%E6%AC%A2%E4%B9%90%23&Refer=top) 1595521
 1. [新乡出现漫堤险情](https://s.weibo.com/weibo?q=%23%E6%96%B0%E4%B9%A1%E5%87%BA%E7%8E%B0%E6%BC%AB%E5%A0%A4%E9%99%A9%E6%83%85%23&Refer=top) 1592831
 1. [18岁留学生瞒父母来郑州当志愿者](https://s.weibo.com/weibo?q=%2318%E5%B2%81%E7%95%99%E5%AD%A6%E7%94%9F%E7%9E%92%E7%88%B6%E6%AF%8D%E6%9D%A5%E9%83%91%E5%B7%9E%E5%BD%93%E5%BF%97%E6%84%BF%E8%80%85%23&Refer=top) 1581240
+1. [郑州地铁5号线遇难者名单](https://s.weibo.com/weibo?q=%23%E9%83%91%E5%B7%9E%E5%9C%B0%E9%93%815%E5%8F%B7%E7%BA%BF%E9%81%87%E9%9A%BE%E8%80%85%E5%90%8D%E5%8D%95%23&Refer=top) 1553459
 1. [郎平拿纸张测试球馆内风向](https://s.weibo.com/weibo?q=%23%E9%83%8E%E5%B9%B3%E6%8B%BF%E7%BA%B8%E5%BC%A0%E6%B5%8B%E8%AF%95%E7%90%83%E9%A6%86%E5%86%85%E9%A3%8E%E5%90%91%23&Refer=top) 1530094
 1. [郑州外卖小哥半夜接单救人](https://s.weibo.com/weibo?q=%23%E9%83%91%E5%B7%9E%E5%A4%96%E5%8D%96%E5%B0%8F%E5%93%A5%E5%8D%8A%E5%A4%9C%E6%8E%A5%E5%8D%95%E6%95%91%E4%BA%BA%23&Refer=top) 1505158
 1. [沈阳疫情](https://s.weibo.com/weibo?q=%E6%B2%88%E9%98%B3%E7%96%AB%E6%83%85&Refer=top) 1485380
@@ -74,12 +80,13 @@
 1. [北京一男子诋毁河南受灾民众被刑拘](https://s.weibo.com/weibo?q=%23%E5%8C%97%E4%BA%AC%E4%B8%80%E7%94%B7%E5%AD%90%E8%AF%8B%E6%AF%81%E6%B2%B3%E5%8D%97%E5%8F%97%E7%81%BE%E6%B0%91%E4%BC%97%E8%A2%AB%E5%88%91%E6%8B%98%23&Refer=top) 1443769
 1. [京广隧道男子连劝几十名司机弃车逃生](https://s.weibo.com/weibo?q=%23%E4%BA%AC%E5%B9%BF%E9%9A%A7%E9%81%93%E7%94%B7%E5%AD%90%E8%BF%9E%E5%8A%9D%E5%87%A0%E5%8D%81%E5%90%8D%E5%8F%B8%E6%9C%BA%E5%BC%83%E8%BD%A6%E9%80%83%E7%94%9F%23&Refer=top) 1431644
 1. [叶诗文说希望女子混合泳成为中国强项](https://s.weibo.com/weibo?q=%23%E5%8F%B6%E8%AF%97%E6%96%87%E8%AF%B4%E5%B8%8C%E6%9C%9B%E5%A5%B3%E5%AD%90%E6%B7%B7%E5%90%88%E6%B3%B3%E6%88%90%E4%B8%BA%E4%B8%AD%E5%9B%BD%E5%BC%BA%E9%A1%B9%23&Refer=top) 1398035
+1. [美国代表团](https://s.weibo.com/weibo?q=%E7%BE%8E%E5%9B%BD%E4%BB%A3%E8%A1%A8%E5%9B%A2&Refer=top) 1396857
 1. [河南新密发改委副主任遇难](https://s.weibo.com/weibo?q=%23%E6%B2%B3%E5%8D%97%E6%96%B0%E5%AF%86%E5%8F%91%E6%94%B9%E5%A7%94%E5%89%AF%E4%B8%BB%E4%BB%BB%E9%81%87%E9%9A%BE%23&Refer=top) 1393143
 1. [林丹称最难的是决定离开国家队](https://s.weibo.com/weibo?q=%23%E6%9E%97%E4%B8%B9%E7%A7%B0%E6%9C%80%E9%9A%BE%E7%9A%84%E6%98%AF%E5%86%B3%E5%AE%9A%E7%A6%BB%E5%BC%80%E5%9B%BD%E5%AE%B6%E9%98%9F%23&Refer=top) 1382451
 1. [100个机位为中国队加油](https://s.weibo.com/weibo?q=%23100%E4%B8%AA%E6%9C%BA%E4%BD%8D%E4%B8%BA%E4%B8%AD%E5%9B%BD%E9%98%9F%E5%8A%A0%E6%B2%B9%23&Refer=top) 1323423
 1. [郑州地铁急需龙吸水设备](https://s.weibo.com/weibo?q=%E9%83%91%E5%B7%9E%E5%9C%B0%E9%93%81%E6%80%A5%E9%9C%80%E9%BE%99%E5%90%B8%E6%B0%B4%E8%AE%BE%E5%A4%87&Refer=top) 1304424
 1. [福奇这次真生气了](https://s.weibo.com/weibo?q=%23%E7%A6%8F%E5%A5%87%E8%BF%99%E6%AC%A1%E7%9C%9F%E7%94%9F%E6%B0%94%E4%BA%86%23&Refer=top) 1290043
-1. [当年的东京八分钟](https://s.weibo.com/weibo?q=%E5%BD%93%E5%B9%B4%E7%9A%84%E4%B8%9C%E4%BA%AC%E5%85%AB%E5%88%86%E9%92%9F&Refer=top) 1280583
+1. [南京本轮疫情已有确诊23例无症状14例](https://s.weibo.com/weibo?q=%23%E5%8D%97%E4%BA%AC%E6%9C%AC%E8%BD%AE%E7%96%AB%E6%83%85%E5%B7%B2%E6%9C%89%E7%A1%AE%E8%AF%8A23%E4%BE%8B%E6%97%A0%E7%97%87%E7%8A%B614%E4%BE%8B%23&Refer=top) 1284235
 1. [刘国梁说抽到谁都一样](https://s.weibo.com/weibo?q=%23%E5%88%98%E5%9B%BD%E6%A2%81%E8%AF%B4%E6%8A%BD%E5%88%B0%E8%B0%81%E9%83%BD%E4%B8%80%E6%A0%B7%23&Refer=top) 1270230
 1. [消防员用身体为孕妇搭建生命通道](https://s.weibo.com/weibo?q=%23%E6%B6%88%E9%98%B2%E5%91%98%E7%94%A8%E8%BA%AB%E4%BD%93%E4%B8%BA%E5%AD%95%E5%A6%87%E6%90%AD%E5%BB%BA%E7%94%9F%E5%91%BD%E9%80%9A%E9%81%93%23&Refer=top) 1268659
 1. [王国](https://s.weibo.com/weibo?q=%E7%8E%8B%E5%9B%BD&Refer=top) 1261001
@@ -104,17 +111,20 @@
 1. [安倍将不出席东京奥运开幕式](https://s.weibo.com/weibo?q=%23%E5%AE%89%E5%80%8D%E5%B0%86%E4%B8%8D%E5%87%BA%E5%B8%AD%E4%B8%9C%E4%BA%AC%E5%A5%A5%E8%BF%90%E5%BC%80%E5%B9%95%E5%BC%8F%23&Refer=top) 1070864
 1. [失联4天的男子被山东救援队救出](https://s.weibo.com/weibo?q=%23%E5%A4%B1%E8%81%944%E5%A4%A9%E7%9A%84%E7%94%B7%E5%AD%90%E8%A2%AB%E5%B1%B1%E4%B8%9C%E6%95%91%E6%8F%B4%E9%98%9F%E6%95%91%E5%87%BA%23&Refer=top) 1069697
 1. [江西发现鸟中美女仙八色鸫](https://s.weibo.com/weibo?q=%23%E6%B1%9F%E8%A5%BF%E5%8F%91%E7%8E%B0%E9%B8%9F%E4%B8%AD%E7%BE%8E%E5%A5%B3%E4%BB%99%E5%85%AB%E8%89%B2%E9%B8%AB%23&Refer=top) 1038022
+1. [俄罗斯参赛形式](https://s.weibo.com/weibo?q=%E4%BF%84%E7%BD%97%E6%96%AF%E5%8F%82%E8%B5%9B%E5%BD%A2%E5%BC%8F&Refer=top) 1037361
+1. [郑州市民菜刀劈车救出3人](https://s.weibo.com/weibo?q=%23%E9%83%91%E5%B7%9E%E5%B8%82%E6%B0%91%E8%8F%9C%E5%88%80%E5%8A%88%E8%BD%A6%E6%95%91%E5%87%BA3%E4%BA%BA%23&Refer=top) 1023226
 1. [中国共产党在江苏历史展暂停开放](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%85%B1%E4%BA%A7%E5%85%9A%E5%9C%A8%E6%B1%9F%E8%8B%8F%E5%8E%86%E5%8F%B2%E5%B1%95%E6%9A%82%E5%81%9C%E5%BC%80%E6%94%BE%23&Refer=top) 1015738
 1. [郑州1岁幼童母亲寻找救援消防员还衣服](https://s.weibo.com/weibo?q=%23%E9%83%91%E5%B7%9E1%E5%B2%81%E5%B9%BC%E7%AB%A5%E6%AF%8D%E4%BA%B2%E5%AF%BB%E6%89%BE%E6%95%91%E6%8F%B4%E6%B6%88%E9%98%B2%E5%91%98%E8%BF%98%E8%A1%A3%E6%9C%8D%23&Refer=top) 1009135
 1. [少年滞留郑州5天抱着消防员大哭](https://s.weibo.com/weibo?q=%23%E5%B0%91%E5%B9%B4%E6%BB%9E%E7%95%99%E9%83%91%E5%B7%9E5%E5%A4%A9%E6%8A%B1%E7%9D%80%E6%B6%88%E9%98%B2%E5%91%98%E5%A4%A7%E5%93%AD%23&Refer=top) 1008798
 1. [2名高一女生救起跳河轻生孕妇](https://s.weibo.com/weibo?q=%232%E5%90%8D%E9%AB%98%E4%B8%80%E5%A5%B3%E7%94%9F%E6%95%91%E8%B5%B7%E8%B7%B3%E6%B2%B3%E8%BD%BB%E7%94%9F%E5%AD%95%E5%A6%87%23&Refer=top) 1001693
+1. [还以为奥运会转播了贞子](https://s.weibo.com/weibo?q=%23%E8%BF%98%E4%BB%A5%E4%B8%BA%E5%A5%A5%E8%BF%90%E4%BC%9A%E8%BD%AC%E6%92%AD%E4%BA%86%E8%B4%9E%E5%AD%90%23&Refer=top) 1001346
 1. [北京奥运会封神歌单](https://s.weibo.com/weibo?q=%23%E5%8C%97%E4%BA%AC%E5%A5%A5%E8%BF%90%E4%BC%9A%E5%B0%81%E7%A5%9E%E6%AD%8C%E5%8D%95%23&Refer=top) 978516
 1. [奥运会上中国队的超燃瞬间](https://s.weibo.com/weibo?q=%23%E5%A5%A5%E8%BF%90%E4%BC%9A%E4%B8%8A%E4%B8%AD%E5%9B%BD%E9%98%9F%E7%9A%84%E8%B6%85%E7%87%83%E7%9E%AC%E9%97%B4%23&Refer=top) 973870
+1. [中国出场时网友留言太感人了](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%87%BA%E5%9C%BA%E6%97%B6%E7%BD%91%E5%8F%8B%E7%95%99%E8%A8%80%E5%A4%AA%E6%84%9F%E4%BA%BA%E4%BA%86%23&Refer=top) 967730
 1. [南京一区域升为高风险](https://s.weibo.com/weibo?q=%23%E5%8D%97%E4%BA%AC%E4%B8%80%E5%8C%BA%E5%9F%9F%E5%8D%87%E4%B8%BA%E9%AB%98%E9%A3%8E%E9%99%A9%23&Refer=top) 965644
 1. [河南2岁男童悬吊在11楼窗外](https://s.weibo.com/weibo?q=%23%E6%B2%B3%E5%8D%972%E5%B2%81%E7%94%B7%E7%AB%A5%E6%82%AC%E5%90%8A%E5%9C%A811%E6%A5%BC%E7%AA%97%E5%A4%96%23&Refer=top) 943772
 1. [德国队也投诉奥运乒乓场地太小](https://s.weibo.com/weibo?q=%23%E5%BE%B7%E5%9B%BD%E9%98%9F%E4%B9%9F%E6%8A%95%E8%AF%89%E5%A5%A5%E8%BF%90%E4%B9%92%E4%B9%93%E5%9C%BA%E5%9C%B0%E5%A4%AA%E5%B0%8F%23&Refer=top) 928721
 1. [浙江累计预排预泄53个西湖水量](https://s.weibo.com/weibo?q=%23%E6%B5%99%E6%B1%9F%E7%B4%AF%E8%AE%A1%E9%A2%84%E6%8E%92%E9%A2%84%E6%B3%8453%E4%B8%AA%E8%A5%BF%E6%B9%96%E6%B0%B4%E9%87%8F%23&Refer=top) 919449
-1. [俄罗斯参赛形式](https://s.weibo.com/weibo?q=%E4%BF%84%E7%BD%97%E6%96%AF%E5%8F%82%E8%B5%9B%E5%BD%A2%E5%BC%8F&Refer=top) 906457
 1. [北京天空秒变油画](https://s.weibo.com/weibo?q=%23%E5%8C%97%E4%BA%AC%E5%A4%A9%E7%A9%BA%E7%A7%92%E5%8F%98%E6%B2%B9%E7%94%BB%23&Refer=top) 901854
 1. [南京95后医生的手](https://s.weibo.com/weibo?q=%23%E5%8D%97%E4%BA%AC95%E5%90%8E%E5%8C%BB%E7%94%9F%E7%9A%84%E6%89%8B%23&Refer=top) 888644
 1. [新乡急需皮划艇冲锋舟](https://s.weibo.com/weibo?q=%23%E6%96%B0%E4%B9%A1%E6%80%A5%E9%9C%80%E7%9A%AE%E5%88%92%E8%89%87%E5%86%B2%E9%94%8B%E8%88%9F%23&Refer=top) 869994
@@ -131,9 +141,11 @@
 1. [郑州红十字公示首批善款去向](https://s.weibo.com/weibo?q=%23%E9%83%91%E5%B7%9E%E7%BA%A2%E5%8D%81%E5%AD%97%E5%85%AC%E7%A4%BA%E9%A6%96%E6%89%B9%E5%96%84%E6%AC%BE%E5%8E%BB%E5%90%91%23&Refer=top) 778923
 1. [云南虫谷](https://s.weibo.com/weibo?q=%E4%BA%91%E5%8D%97%E8%99%AB%E8%B0%B7&Refer=top) 774243
 1. [郑州女子悄悄为消防员支付医药费](https://s.weibo.com/weibo?q=%23%E9%83%91%E5%B7%9E%E5%A5%B3%E5%AD%90%E6%82%84%E6%82%84%E4%B8%BA%E6%B6%88%E9%98%B2%E5%91%98%E6%94%AF%E4%BB%98%E5%8C%BB%E8%8D%AF%E8%B4%B9%23&Refer=top) 761474
+1. [还以为是青春有你奥运季](https://s.weibo.com/weibo?q=%23%E8%BF%98%E4%BB%A5%E4%B8%BA%E6%98%AF%E9%9D%92%E6%98%A5%E6%9C%89%E4%BD%A0%E5%A5%A5%E8%BF%90%E5%AD%A3%23&Refer=top) 755982
 1. [河南媳妇给泰州消防送水感谢救援娘家](https://s.weibo.com/weibo?q=%23%E6%B2%B3%E5%8D%97%E5%AA%B3%E5%A6%87%E7%BB%99%E6%B3%B0%E5%B7%9E%E6%B6%88%E9%98%B2%E9%80%81%E6%B0%B4%E6%84%9F%E8%B0%A2%E6%95%91%E6%8F%B4%E5%A8%98%E5%AE%B6%23&Refer=top) 747921
 1. [新乡整条街都是山东救援队](https://s.weibo.com/weibo?q=%23%E6%96%B0%E4%B9%A1%E6%95%B4%E6%9D%A1%E8%A1%97%E9%83%BD%E6%98%AF%E5%B1%B1%E4%B8%9C%E6%95%91%E6%8F%B4%E9%98%9F%23&Refer=top) 747823
 1. [奥运会最慢世界纪录](https://s.weibo.com/weibo?q=%23%E5%A5%A5%E8%BF%90%E4%BC%9A%E6%9C%80%E6%85%A2%E4%B8%96%E7%95%8C%E7%BA%AA%E5%BD%95%23&Refer=top) 745154
+1. [萌探探探案团建](https://s.weibo.com/weibo?q=%23%E8%90%8C%E6%8E%A2%E6%8E%A2%E6%8E%A2%E6%A1%88%E5%9B%A2%E5%BB%BA%23&Refer=top) 742606
 1. [手术做一半停电怎么办](https://s.weibo.com/weibo?q=%23%E6%89%8B%E6%9C%AF%E5%81%9A%E4%B8%80%E5%8D%8A%E5%81%9C%E7%94%B5%E6%80%8E%E4%B9%88%E5%8A%9E%23&Refer=top) 741468
 1. [俄罗斯教练吐槽东京奥运村](https://s.weibo.com/weibo?q=%23%E4%BF%84%E7%BD%97%E6%96%AF%E6%95%99%E7%BB%83%E5%90%90%E6%A7%BD%E4%B8%9C%E4%BA%AC%E5%A5%A5%E8%BF%90%E6%9D%91%23&Refer=top) 738938
 1. [网友人均30元给河南捐出1亿](https://s.weibo.com/weibo?q=%23%E7%BD%91%E5%8F%8B%E4%BA%BA%E5%9D%8730%E5%85%83%E7%BB%99%E6%B2%B3%E5%8D%97%E6%8D%90%E5%87%BA1%E4%BA%BF%23&Refer=top) 737921
@@ -159,12 +171,30 @@
 1. [花16万让娃上名校开学发现被骗](https://s.weibo.com/weibo?q=%23%E8%8A%B116%E4%B8%87%E8%AE%A9%E5%A8%83%E4%B8%8A%E5%90%8D%E6%A0%A1%E5%BC%80%E5%AD%A6%E5%8F%91%E7%8E%B0%E8%A2%AB%E9%AA%97%23&Refer=top) 611385
 1. [不说再见](https://s.weibo.com/weibo?q=%E4%B8%8D%E8%AF%B4%E5%86%8D%E8%A7%81&Refer=top) 608731
 1. [我在他乡挺好的豆瓣开分](https://s.weibo.com/weibo?q=%23%E6%88%91%E5%9C%A8%E4%BB%96%E4%B9%A1%E6%8C%BA%E5%A5%BD%E7%9A%84%E8%B1%86%E7%93%A3%E5%BC%80%E5%88%86%23&Refer=top) 608147
+1. [河南强降雨已致56人遇难5人失踪](https://s.weibo.com/weibo?q=%23%E6%B2%B3%E5%8D%97%E5%BC%BA%E9%99%8D%E9%9B%A8%E5%B7%B2%E8%87%B456%E4%BA%BA%E9%81%87%E9%9A%BE5%E4%BA%BA%E5%A4%B1%E8%B8%AA%23&Refer=top) 600532
+1. [五十音图入场顺序](https://s.weibo.com/weibo?q=%23%E4%BA%94%E5%8D%81%E9%9F%B3%E5%9B%BE%E5%85%A5%E5%9C%BA%E9%A1%BA%E5%BA%8F%23&Refer=top) 592414
 1. [蓝天救援队 平凡的人们给我最多感动](https://s.weibo.com/weibo?q=%E8%93%9D%E5%A4%A9%E6%95%91%E6%8F%B4%E9%98%9F%20%E5%B9%B3%E5%87%A1%E7%9A%84%E4%BA%BA%E4%BB%AC%E7%BB%99%E6%88%91%E6%9C%80%E5%A4%9A%E6%84%9F%E5%8A%A8&Refer=top) 592168
 1. [四川泸县4.1级地震](https://s.weibo.com/weibo?q=%E5%9B%9B%E5%B7%9D%E6%B3%B8%E5%8E%BF4.1%E7%BA%A7%E5%9C%B0%E9%9C%87&Refer=top) 587675
 1. [台风路径](https://s.weibo.com/weibo?q=%23%E5%8F%B0%E9%A3%8E%E8%B7%AF%E5%BE%84%23&Refer=top) 585497
 1. [几内亚撤销退出东京奥运的决定](https://s.weibo.com/weibo?q=%E5%87%A0%E5%86%85%E4%BA%9A%E6%92%A4%E9%94%80%E9%80%80%E5%87%BA%E4%B8%9C%E4%BA%AC%E5%A5%A5%E8%BF%90%E7%9A%84%E5%86%B3%E5%AE%9A&Refer=top) 566621
 1. [郑州老板免费为山东救援队修车](https://s.weibo.com/weibo?q=%23%E9%83%91%E5%B7%9E%E8%80%81%E6%9D%BF%E5%85%8D%E8%B4%B9%E4%B8%BA%E5%B1%B1%E4%B8%9C%E6%95%91%E6%8F%B4%E9%98%9F%E4%BF%AE%E8%BD%A6%23&Refer=top) 564257
 1. [男子赤足狂奔10公里游涵洞找妻子](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E8%B5%A4%E8%B6%B3%E7%8B%82%E5%A5%9410%E5%85%AC%E9%87%8C%E6%B8%B8%E6%B6%B5%E6%B4%9E%E6%89%BE%E5%A6%BB%E5%AD%90%23&Refer=top) 563488
+1. [连忙打开北京奥运会洗眼睛](https://s.weibo.com/weibo?q=%E8%BF%9E%E5%BF%99%E6%89%93%E5%BC%80%E5%8C%97%E4%BA%AC%E5%A5%A5%E8%BF%90%E4%BC%9A%E6%B4%97%E7%9C%BC%E7%9D%9B&Refer=top) 563235
+1. [奥运段子大赛](https://s.weibo.com/weibo?q=%23%E5%A5%A5%E8%BF%90%E6%AE%B5%E5%AD%90%E5%A4%A7%E8%B5%9B%23&Refer=top) 563165
+1. [日本旗手身高差](https://s.weibo.com/weibo?q=%E6%97%A5%E6%9C%AC%E6%97%97%E6%89%8B%E8%BA%AB%E9%AB%98%E5%B7%AE&Refer=top) 563086
+1. [小学生参观博物馆指正错误年份](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E5%AD%A6%E7%94%9F%E5%8F%82%E8%A7%82%E5%8D%9A%E7%89%A9%E9%A6%86%E6%8C%87%E6%AD%A3%E9%94%99%E8%AF%AF%E5%B9%B4%E4%BB%BD%23&Refer=top) 563036
+1. [白蛇2](https://s.weibo.com/weibo?q=%E7%99%BD%E8%9B%872&Refer=top) 562971
+1. [台风来临前西湖天空](https://s.weibo.com/weibo?q=%23%E5%8F%B0%E9%A3%8E%E6%9D%A5%E4%B8%B4%E5%89%8D%E8%A5%BF%E6%B9%96%E5%A4%A9%E7%A9%BA%23&Refer=top) 562888
+1. [杭州台风](https://s.weibo.com/weibo?q=%E6%9D%AD%E5%B7%9E%E5%8F%B0%E9%A3%8E&Refer=top) 562857
+1. [顶楼](https://s.weibo.com/weibo?q=%E9%A1%B6%E6%A5%BC&Refer=top) 562784
+1. [奥运史上令人动容的一幕](https://s.weibo.com/weibo?q=%23%E5%A5%A5%E8%BF%90%E5%8F%B2%E4%B8%8A%E4%BB%A4%E4%BA%BA%E5%8A%A8%E5%AE%B9%E7%9A%84%E4%B8%80%E5%B9%95%23&Refer=top) 562721
+1. [我的肩就是你的船](https://s.weibo.com/weibo?q=%E6%88%91%E7%9A%84%E8%82%A9%E5%B0%B1%E6%98%AF%E4%BD%A0%E7%9A%84%E8%88%B9&Refer=top) 562609
+1. [郑州主城区公众通信基本恢复](https://s.weibo.com/weibo?q=%23%E9%83%91%E5%B7%9E%E4%B8%BB%E5%9F%8E%E5%8C%BA%E5%85%AC%E4%BC%97%E9%80%9A%E4%BF%A1%E5%9F%BA%E6%9C%AC%E6%81%A2%E5%A4%8D%23&Refer=top) 562539
+1. [新西兰旗手的披风](https://s.weibo.com/weibo?q=%E6%96%B0%E8%A5%BF%E5%85%B0%E6%97%97%E6%89%8B%E7%9A%84%E6%8A%AB%E9%A3%8E&Refer=top) 562481
+1. [救援航母长啥样](https://s.weibo.com/weibo?q=%23%E6%95%91%E6%8F%B4%E8%88%AA%E6%AF%8D%E9%95%BF%E5%95%A5%E6%A0%B7%23&Refer=top) 562445
+1. [翼龙无人机驰援郑州珍贵画面](https://s.weibo.com/weibo?q=%23%E7%BF%BC%E9%BE%99%E6%97%A0%E4%BA%BA%E6%9C%BA%E9%A9%B0%E6%8F%B4%E9%83%91%E5%B7%9E%E7%8F%8D%E8%B4%B5%E7%94%BB%E9%9D%A2%23&Refer=top) 562389
+1. [北辙南辕](https://s.weibo.com/weibo?q=%E5%8C%97%E8%BE%99%E5%8D%97%E8%BE%95&Refer=top) 562277
+1. [致命女人](https://s.weibo.com/weibo?q=%E8%87%B4%E5%91%BD%E5%A5%B3%E4%BA%BA&Refer=top) 550962
 1. [江苏溧阳通报一例新冠阳性人员行程轨迹](https://s.weibo.com/weibo?q=%23%E6%B1%9F%E8%8B%8F%E6%BA%A7%E9%98%B3%E9%80%9A%E6%8A%A5%E4%B8%80%E4%BE%8B%E6%96%B0%E5%86%A0%E9%98%B3%E6%80%A7%E4%BA%BA%E5%91%98%E8%A1%8C%E7%A8%8B%E8%BD%A8%E8%BF%B9%23&Refer=top) 547559
 1. [偃师百万吨生活垃圾堤坝现裂缝](https://s.weibo.com/weibo?q=%23%E5%81%83%E5%B8%88%E7%99%BE%E4%B8%87%E5%90%A8%E7%94%9F%E6%B4%BB%E5%9E%83%E5%9C%BE%E5%A0%A4%E5%9D%9D%E7%8E%B0%E8%A3%82%E7%BC%9D%23&Refer=top) 545677
 1. [安徽新增无症状1例](https://s.weibo.com/weibo?q=%23%E5%AE%89%E5%BE%BD%E6%96%B0%E5%A2%9E%E6%97%A0%E7%97%87%E7%8A%B61%E4%BE%8B%23&Refer=top) 543435
@@ -199,7 +229,6 @@
 1. [回顾历届奥运会点火仪式](https://s.weibo.com/weibo?q=%23%E5%9B%9E%E9%A1%BE%E5%8E%86%E5%B1%8A%E5%A5%A5%E8%BF%90%E4%BC%9A%E7%82%B9%E7%81%AB%E4%BB%AA%E5%BC%8F%23&Refer=top) 466805
 1. [女大学生为开汉服公司休学1年](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%A4%A7%E5%AD%A6%E7%94%9F%E4%B8%BA%E5%BC%80%E6%B1%89%E6%9C%8D%E5%85%AC%E5%8F%B8%E4%BC%91%E5%AD%A61%E5%B9%B4%23&Refer=top) 465641
 1. [法拉第未来上市首日破发](https://s.weibo.com/weibo?q=%23%E6%B3%95%E6%8B%89%E7%AC%AC%E6%9C%AA%E6%9D%A5%E4%B8%8A%E5%B8%82%E9%A6%96%E6%97%A5%E7%A0%B4%E5%8F%91%23&Refer=top) 464702
-1. [为啥山东什么都能支援](https://s.weibo.com/weibo?q=%23%E4%B8%BA%E5%95%A5%E5%B1%B1%E4%B8%9C%E4%BB%80%E4%B9%88%E9%83%BD%E8%83%BD%E6%94%AF%E6%8F%B4%23&Refer=top) 461076
 1. [你最难忘的奥运瞬间](https://s.weibo.com/weibo?q=%23%E4%BD%A0%E6%9C%80%E9%9A%BE%E5%BF%98%E7%9A%84%E5%A5%A5%E8%BF%90%E7%9E%AC%E9%97%B4%23&Refer=top) 455385
 1. [创建救命文档女生是上财学生](https://s.weibo.com/weibo?q=%23%E5%88%9B%E5%BB%BA%E6%95%91%E5%91%BD%E6%96%87%E6%A1%A3%E5%A5%B3%E7%94%9F%E6%98%AF%E4%B8%8A%E8%B4%A2%E5%AD%A6%E7%94%9F%23&Refer=top) 453723
 1. [台风烟花登陆前的浙江沿海](https://s.weibo.com/weibo?q=%23%E5%8F%B0%E9%A3%8E%E7%83%9F%E8%8A%B1%E7%99%BB%E9%99%86%E5%89%8D%E7%9A%84%E6%B5%99%E6%B1%9F%E6%B2%BF%E6%B5%B7%23&Refer=top) 450357
@@ -226,7 +255,6 @@
 1. [月亮好圆](https://s.weibo.com/weibo?q=%E6%9C%88%E4%BA%AE%E5%A5%BD%E5%9C%86&Refer=top) 430972
 1. [河南师范大学辟谣师生被困](https://s.weibo.com/weibo?q=%23%E6%B2%B3%E5%8D%97%E5%B8%88%E8%8C%83%E5%A4%A7%E5%AD%A6%E8%BE%9F%E8%B0%A3%E5%B8%88%E7%94%9F%E8%A2%AB%E5%9B%B0%23&Refer=top) 430427
 1. [泸定桥头3000人快闪超燃表白](https://s.weibo.com/weibo?q=%23%E6%B3%B8%E5%AE%9A%E6%A1%A5%E5%A4%B43000%E4%BA%BA%E5%BF%AB%E9%97%AA%E8%B6%85%E7%87%83%E8%A1%A8%E7%99%BD%23&Refer=top) 430233
-1. [郑州暴雨冲出汉代古墓](https://s.weibo.com/weibo?q=%23%E9%83%91%E5%B7%9E%E6%9A%B4%E9%9B%A8%E5%86%B2%E5%87%BA%E6%B1%89%E4%BB%A3%E5%8F%A4%E5%A2%93%23&Refer=top) 429388
 1. [小朋友看到灾后场景流泪](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E6%9C%8B%E5%8F%8B%E7%9C%8B%E5%88%B0%E7%81%BE%E5%90%8E%E5%9C%BA%E6%99%AF%E6%B5%81%E6%B3%AA%23&Refer=top) 425676
 1. [南京第三场疫情防控新闻发布会](https://s.weibo.com/weibo?q=%23%E5%8D%97%E4%BA%AC%E7%AC%AC%E4%B8%89%E5%9C%BA%E7%96%AB%E6%83%85%E9%98%B2%E6%8E%A7%E6%96%B0%E9%97%BB%E5%8F%91%E5%B8%83%E4%BC%9A%23&Refer=top) 420677
 1. [开幕式国名标牌设计成漫画对话框](https://s.weibo.com/weibo?q=%23%E5%BC%80%E5%B9%95%E5%BC%8F%E5%9B%BD%E5%90%8D%E6%A0%87%E7%89%8C%E8%AE%BE%E8%AE%A1%E6%88%90%E6%BC%AB%E7%94%BB%E5%AF%B9%E8%AF%9D%E6%A1%86%23&Refer=top) 420539
@@ -240,7 +268,6 @@
 1. [小伙拍下震撼暴雨乌云过境全程](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E4%BC%99%E6%8B%8D%E4%B8%8B%E9%9C%87%E6%92%BC%E6%9A%B4%E9%9B%A8%E4%B9%8C%E4%BA%91%E8%BF%87%E5%A2%83%E5%85%A8%E7%A8%8B%23&Refer=top) 399920
 1. [这里的每一张图都太好哭了](https://s.weibo.com/weibo?q=%23%E8%BF%99%E9%87%8C%E7%9A%84%E6%AF%8F%E4%B8%80%E5%BC%A0%E5%9B%BE%E9%83%BD%E5%A4%AA%E5%A5%BD%E5%93%AD%E4%BA%86%23&Refer=top) 397163
 1. [郑州大姐给环卫工人强塞方便面](https://s.weibo.com/weibo?q=%23%E9%83%91%E5%B7%9E%E5%A4%A7%E5%A7%90%E7%BB%99%E7%8E%AF%E5%8D%AB%E5%B7%A5%E4%BA%BA%E5%BC%BA%E5%A1%9E%E6%96%B9%E4%BE%BF%E9%9D%A2%23&Refer=top) 394778
-1. [北辙南辕](https://s.weibo.com/weibo?q=%E5%8C%97%E8%BE%99%E5%8D%97%E8%BE%95&Refer=top) 393282
 1. [四川驰援郑州抢险队员感动落泪](https://s.weibo.com/weibo?q=%23%E5%9B%9B%E5%B7%9D%E9%A9%B0%E6%8F%B4%E9%83%91%E5%B7%9E%E6%8A%A2%E9%99%A9%E9%98%9F%E5%91%98%E6%84%9F%E5%8A%A8%E8%90%BD%E6%B3%AA%23&Refer=top) 392808
 1. [河南现有公开募捐资格慈善组织名单](https://s.weibo.com/weibo?q=%23%E6%B2%B3%E5%8D%97%E7%8E%B0%E6%9C%89%E5%85%AC%E5%BC%80%E5%8B%9F%E6%8D%90%E8%B5%84%E6%A0%BC%E6%85%88%E5%96%84%E7%BB%84%E7%BB%87%E5%90%8D%E5%8D%95%23&Refer=top) 392319
 1. [陕西商洛突降暴雨国道中断](https://s.weibo.com/weibo?q=%23%E9%99%95%E8%A5%BF%E5%95%86%E6%B4%9B%E7%AA%81%E9%99%8D%E6%9A%B4%E9%9B%A8%E5%9B%BD%E9%81%93%E4%B8%AD%E6%96%AD%23&Refer=top) 391903
