@@ -258,5 +258,13 @@
   "罗一舟刚好直拍": {
     "href": "https://s.weibo.com/weibo?q=%23%E7%BD%97%E4%B8%80%E8%88%9F%E5%88%9A%E5%A5%BD%E7%9B%B4%E6%8B%8D%23&Refer=top",
     "hot": 115632
+  },
+  "杭州台风": {
+    "href": "https://s.weibo.com/weibo?q=%23%E6%9D%AD%E5%B7%9E%E5%8F%B0%E9%A3%8E%23&Refer=top",
+    "hot": 67602
+  },
+  "台风烟花": {
+    "href": "https://s.weibo.com/weibo?q=%23%E5%8F%B0%E9%A3%8E%E7%83%9F%E8%8A%B1%23&Refer=top",
+    "hot": 55221
   }
 }
