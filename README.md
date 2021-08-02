@@ -14,7 +14,7 @@
 
 <!-- Rank Begin -->
 
-最后更新时间 2021-08-03 02:08:52
+最后更新时间 2021-08-03 03:06:21
 
 1. [韩国跳水选手跳一半回去了](https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E8%B7%B3%E6%B0%B4%E9%80%89%E6%89%8B%E8%B7%B3%E4%B8%80%E5%8D%8A%E5%9B%9E%E5%8E%BB%E4%BA%86%23&Refer=top) 4500025
 1. [取消诱导粉丝应援打榜的产品功能](https://s.weibo.com/weibo?q=%23%E5%8F%96%E6%B6%88%E8%AF%B1%E5%AF%BC%E7%B2%89%E4%B8%9D%E5%BA%94%E6%8F%B4%E6%89%93%E6%A6%9C%E7%9A%84%E4%BA%A7%E5%93%81%E5%8A%9F%E8%83%BD%23&Refer=top) 2474366
