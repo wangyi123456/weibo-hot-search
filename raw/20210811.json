@@ -202,5 +202,9 @@
   "小米发布会": {
     "href": "https://s.weibo.com/weibo?q=%E5%B0%8F%E7%B1%B3%E5%8F%91%E5%B8%83%E4%BC%9A&Refer=top",
     "hot": 72006
+  },
+  "脱口秀大会": {
+    "href": "https://s.weibo.com/weibo?q=%E8%84%B1%E5%8F%A3%E7%A7%80%E5%A4%A7%E4%BC%9A&Refer=top",
+    "hot": 43699
   }
 }
