@@ -139,6 +139,10 @@
     "href": "https://s.weibo.com/weibo?q=%23%E5%B0%BC%E6%A0%BC%E4%B9%B0%E6%8F%90%E7%94%A8%E8%83%B6%E5%B8%A6%E7%BB%99%E6%92%92%E8%B4%9D%E5%AE%81%E5%B0%81%E5%8F%A3%23&Refer=top",
     "hot": 196012
   },
+  "人类高质量学长周斯越": {
+    "href": "https://s.weibo.com/weibo?q=%23%E4%BA%BA%E7%B1%BB%E9%AB%98%E8%B4%A8%E9%87%8F%E5%AD%A6%E9%95%BF%E5%91%A8%E6%96%AF%E8%B6%8A%23&Refer=top",
+    "hot": 180549
+  },
   "迪丽热巴微表情大师": {
     "href": "https://s.weibo.com/weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E5%BE%AE%E8%A1%A8%E6%83%85%E5%A4%A7%E5%B8%88%23&Refer=top",
     "hot": 178730
@@ -146,10 +150,6 @@
   "能嫁给樊振东的办法": {
     "href": "https://s.weibo.com/weibo?q=%23%E8%83%BD%E5%AB%81%E7%BB%99%E6%A8%8A%E6%8C%AF%E4%B8%9C%E7%9A%84%E5%8A%9E%E6%B3%95%23&Refer=top",
     "hot": 172601
-  },
-  "人类高质量学长周斯越": {
-    "href": "https://s.weibo.com/weibo?q=%23%E4%BA%BA%E7%B1%BB%E9%AB%98%E8%B4%A8%E9%87%8F%E5%AD%A6%E9%95%BF%E5%91%A8%E6%96%AF%E8%B6%8A%23&Refer=top",
-    "hot": 168373
   },
   "于途见家长社死现场": {
     "href": "https://s.weibo.com/weibo?q=%23%E4%BA%8E%E9%80%94%E8%A7%81%E5%AE%B6%E9%95%BF%E7%A4%BE%E6%AD%BB%E7%8E%B0%E5%9C%BA%23&Refer=top",
@@ -198,5 +198,9 @@
   "医生解读如何科学减肥": {
     "href": "https://s.weibo.com/weibo?q=%23%E5%8C%BB%E7%94%9F%E8%A7%A3%E8%AF%BB%E5%A6%82%E4%BD%95%E7%A7%91%E5%AD%A6%E5%87%8F%E8%82%A5%23&Refer=top",
     "hot": 118712
+  },
+  "小米发布会": {
+    "href": "https://s.weibo.com/weibo?q=%E5%B0%8F%E7%B1%B3%E5%8F%91%E5%B8%83%E4%BC%9A&Refer=top",
+    "hot": 72006
   }
 }
