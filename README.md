@@ -14,7 +14,7 @@
 
 <!-- Rank Begin -->
 
-最后更新时间 2021-08-13 04:08:23
+最后更新时间 2021-08-13 05:07:31
 
 1. [被害人女儿回应操场埋尸案改编电影](https://s.weibo.com/weibo?q=%23%E8%A2%AB%E5%AE%B3%E4%BA%BA%E5%A5%B3%E5%84%BF%E5%9B%9E%E5%BA%94%E6%93%8D%E5%9C%BA%E5%9F%8B%E5%B0%B8%E6%A1%88%E6%94%B9%E7%BC%96%E7%94%B5%E5%BD%B1%23&Refer=top) 1007462
 1. [美国一个月内几乎全成红色高风险区](https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E4%B8%80%E4%B8%AA%E6%9C%88%E5%86%85%E5%87%A0%E4%B9%8E%E5%85%A8%E6%88%90%E7%BA%A2%E8%89%B2%E9%AB%98%E9%A3%8E%E9%99%A9%E5%8C%BA%23&Refer=top) 421170
@@ -72,8 +72,11 @@
 1. [运动员腹肌开瓶盖接力](https://s.weibo.com/weibo?q=%23%E8%BF%90%E5%8A%A8%E5%91%98%E8%85%B9%E8%82%8C%E5%BC%80%E7%93%B6%E7%9B%96%E6%8E%A5%E5%8A%9B%23&Refer=top) 61417
 1. [理想之城](https://s.weibo.com/weibo?q=%E7%90%86%E6%83%B3%E4%B9%8B%E5%9F%8E&Refer=top) 54701
 1. [苏炳添薇娅连线](https://s.weibo.com/weibo?q=%23%E8%8B%8F%E7%82%B3%E6%B7%BB%E8%96%87%E5%A8%85%E8%BF%9E%E7%BA%BF%23&Refer=top) 50294
+1. [李承铉 谢谢大家对天上飞舞台的喜爱](https://s.weibo.com/weibo?q=%E6%9D%8E%E6%89%BF%E9%93%89%20%E8%B0%A2%E8%B0%A2%E5%A4%A7%E5%AE%B6%E5%AF%B9%E5%A4%A9%E4%B8%8A%E9%A3%9E%E8%88%9E%E5%8F%B0%E7%9A%84%E5%96%9C%E7%88%B1&Refer=top) 49803
+1. [孙红雷张艺兴辈分乱了](https://s.weibo.com/weibo?q=%23%E5%AD%99%E7%BA%A2%E9%9B%B7%E5%BC%A0%E8%89%BA%E5%85%B4%E8%BE%88%E5%88%86%E4%B9%B1%E4%BA%86%23&Refer=top) 48798
 1. [荣耀发布会](https://s.weibo.com/weibo?q=%E8%8D%A3%E8%80%80%E5%8F%91%E5%B8%83%E4%BC%9A&Refer=top) 44834
 1. [原来我很爱你](https://s.weibo.com/weibo?q=%E5%8E%9F%E6%9D%A5%E6%88%91%E5%BE%88%E7%88%B1%E4%BD%A0&Refer=top) 40566
+1. [双镜](https://s.weibo.com/weibo?q=%E5%8F%8C%E9%95%9C&Refer=top) 25863
 <!-- Rank End -->
 
 历史归档 [./archives](./archives)
