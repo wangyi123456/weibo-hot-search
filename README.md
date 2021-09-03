@@ -14,11 +14,11 @@
 
 <!-- Rank Begin -->
 
-最后更新时间 2021-09-04 00:11:31
+最后更新时间 2021-09-04 01:14:32
 
 1. [喜茶店员拿错饮料顾客喝下后入院洗胃](https://s.weibo.com/weibo?q=%23%E5%96%9C%E8%8C%B6%E5%BA%97%E5%91%98%E6%8B%BF%E9%94%99%E9%A5%AE%E6%96%99%E9%A1%BE%E5%AE%A2%E5%96%9D%E4%B8%8B%E5%90%8E%E5%85%A5%E9%99%A2%E6%B4%97%E8%83%83%23&Refer=top) 1644712
+1. [人类高质量宵夜](https://s.weibo.com/weibo?q=%23%E4%BA%BA%E7%B1%BB%E9%AB%98%E8%B4%A8%E9%87%8F%E5%AE%B5%E5%A4%9C%23&Refer=top) 1150091
 1. [喜茶发文致歉](https://s.weibo.com/weibo?q=%23%E5%96%9C%E8%8C%B6%E5%8F%91%E6%96%87%E8%87%B4%E6%AD%89%23&Refer=top) 1113535
-1. [人类高质量宵夜](https://s.weibo.com/weibo?q=%23%E4%BA%BA%E7%B1%BB%E9%AB%98%E8%B4%A8%E9%87%8F%E5%AE%B5%E5%A4%9C%23&Refer=top) 1081752
 1. [钢铁厂工人被烧红的钢条击倒](https://s.weibo.com/weibo?q=%23%E9%92%A2%E9%93%81%E5%8E%82%E5%B7%A5%E4%BA%BA%E8%A2%AB%E7%83%A7%E7%BA%A2%E7%9A%84%E9%92%A2%E6%9D%A1%E5%87%BB%E5%80%92%23&Refer=top) 849306
 1. [非师范生有必要考教资吗](https://s.weibo.com/weibo?q=%23%E9%9D%9E%E5%B8%88%E8%8C%83%E7%94%9F%E6%9C%89%E5%BF%85%E8%A6%81%E8%80%83%E6%95%99%E8%B5%84%E5%90%97%23&Refer=top) 787870
 1. [扫黑风暴](https://s.weibo.com/weibo?q=%E6%89%AB%E9%BB%91%E9%A3%8E%E6%9A%B4&Refer=top) 646683
@@ -41,7 +41,9 @@
 1. [残奥会中国队已夺184块奖牌](https://s.weibo.com/weibo?q=%23%E6%AE%8B%E5%A5%A5%E4%BC%9A%E4%B8%AD%E5%9B%BD%E9%98%9F%E5%B7%B2%E5%A4%BA184%E5%9D%97%E5%A5%96%E7%89%8C%23&Refer=top) 319596
 1. [乔二强马素芹开饭店](https://s.weibo.com/weibo?q=%23%E4%B9%94%E4%BA%8C%E5%BC%BA%E9%A9%AC%E7%B4%A0%E8%8A%B9%E5%BC%80%E9%A5%AD%E5%BA%97%23&Refer=top) 294457
 1. [大湾区全体社恐](https://s.weibo.com/weibo?q=%23%E5%A4%A7%E6%B9%BE%E5%8C%BA%E5%85%A8%E4%BD%93%E7%A4%BE%E6%81%90%23&Refer=top) 283350
+1. [当胆小体质遇上医护查房时](https://s.weibo.com/weibo?q=%23%E5%BD%93%E8%83%86%E5%B0%8F%E4%BD%93%E8%B4%A8%E9%81%87%E4%B8%8A%E5%8C%BB%E6%8A%A4%E6%9F%A5%E6%88%BF%E6%97%B6%23&Refer=top) 279348
 1. [土耳其少女坐大摆锤呕吐被呛死](https://s.weibo.com/weibo?q=%23%E5%9C%9F%E8%80%B3%E5%85%B6%E5%B0%91%E5%A5%B3%E5%9D%90%E5%A4%A7%E6%91%86%E9%94%A4%E5%91%95%E5%90%90%E8%A2%AB%E5%91%9B%E6%AD%BB%23&Refer=top) 272449
+1. [纺织服装企业订单暴增](https://s.weibo.com/weibo?q=%23%E7%BA%BA%E7%BB%87%E6%9C%8D%E8%A3%85%E4%BC%81%E4%B8%9A%E8%AE%A2%E5%8D%95%E6%9A%B4%E5%A2%9E%23&Refer=top) 262053
 1. [2022研考时间确定](https://s.weibo.com/weibo?q=%232022%E7%A0%94%E8%80%83%E6%97%B6%E9%97%B4%E7%A1%AE%E5%AE%9A%23&Refer=top) 234617
 1. [乔一成项南方结婚](https://s.weibo.com/weibo?q=%23%E4%B9%94%E4%B8%80%E6%88%90%E9%A1%B9%E5%8D%97%E6%96%B9%E7%BB%93%E5%A9%9A%23&Refer=top) 219947
 1. [樊振东刘诗雯最新训练视频来了](https://s.weibo.com/weibo?q=%23%E6%A8%8A%E6%8C%AF%E4%B8%9C%E5%88%98%E8%AF%97%E9%9B%AF%E6%9C%80%E6%96%B0%E8%AE%AD%E7%BB%83%E8%A7%86%E9%A2%91%E6%9D%A5%E4%BA%86%23&Refer=top) 217182
@@ -54,6 +56,7 @@
 1. [街道办事处迷惑行为](https://s.weibo.com/weibo?q=%23%E8%A1%97%E9%81%93%E5%8A%9E%E4%BA%8B%E5%A4%84%E8%BF%B7%E6%83%91%E8%A1%8C%E4%B8%BA%23&Refer=top) 200870
 1. [陆柯燃陈卓璇庆功酒国风舞台](https://s.weibo.com/weibo?q=%23%E9%99%86%E6%9F%AF%E7%87%83%E9%99%88%E5%8D%93%E7%92%87%E5%BA%86%E5%8A%9F%E9%85%92%E5%9B%BD%E9%A3%8E%E8%88%9E%E5%8F%B0%23&Refer=top) 198155
 1. [乔家的儿女预告](https://s.weibo.com/weibo?q=%23%E4%B9%94%E5%AE%B6%E7%9A%84%E5%84%BF%E5%A5%B3%E9%A2%84%E5%91%8A%23&Refer=top) 196289
+1. [李宇春再不疯狂我们就老了live](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%AE%87%E6%98%A5%E5%86%8D%E4%B8%8D%E7%96%AF%E7%8B%82%E6%88%91%E4%BB%AC%E5%B0%B1%E8%80%81%E4%BA%86live%23&Refer=top) 195569
 1. [四川宜宾珙县4.8级地震](https://s.weibo.com/weibo?q=%23%E5%9B%9B%E5%B7%9D%E5%AE%9C%E5%AE%BE%E7%8F%99%E5%8E%BF4.8%E7%BA%A7%E5%9C%B0%E9%9C%87%23&Refer=top) 179593
 1. [礼兵握住刺刀尖以免伤到他人](https://s.weibo.com/weibo?q=%23%E7%A4%BC%E5%85%B5%E6%8F%A1%E4%BD%8F%E5%88%BA%E5%88%80%E5%B0%96%E4%BB%A5%E5%85%8D%E4%BC%A4%E5%88%B0%E4%BB%96%E4%BA%BA%23&Refer=top) 178898
 1. [宋清远人间清醒](https://s.weibo.com/weibo?q=%23%E5%AE%8B%E6%B8%85%E8%BF%9C%E4%BA%BA%E9%97%B4%E6%B8%85%E9%86%92%23&Refer=top) 177525
