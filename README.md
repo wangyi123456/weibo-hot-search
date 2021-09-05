@@ -14,7 +14,7 @@
 
 <!-- Rank Begin -->
 
-最后更新时间 2021-09-06 01:13:15
+最后更新时间 2021-09-06 02:08:43
 
 1. [体重18公斤北航新生到校报到](https://s.weibo.com/weibo?q=%23%E4%BD%93%E9%87%8D18%E5%85%AC%E6%96%A4%E5%8C%97%E8%88%AA%E6%96%B0%E7%94%9F%E5%88%B0%E6%A0%A1%E6%8A%A5%E5%88%B0%23&Refer=top) 1822400
 1. [千万不要用屁股对着羊](https://s.weibo.com/weibo?q=%23%E5%8D%83%E4%B8%87%E4%B8%8D%E8%A6%81%E7%94%A8%E5%B1%81%E8%82%A1%E5%AF%B9%E7%9D%80%E7%BE%8A%23&Refer=top) 956797
@@ -64,11 +64,13 @@
 1. [LNG晋级世界赛](https://s.weibo.com/weibo?q=%23LNG%E6%99%8B%E7%BA%A7%E4%B8%96%E7%95%8C%E8%B5%9B%23&Refer=top) 126220
 1. [医生等电梯前多看一眼救人一命](https://s.weibo.com/weibo?q=%23%E5%8C%BB%E7%94%9F%E7%AD%89%E7%94%B5%E6%A2%AF%E5%89%8D%E5%A4%9A%E7%9C%8B%E4%B8%80%E7%9C%BC%E6%95%91%E4%BA%BA%E4%B8%80%E5%91%BD%23&Refer=top) 124361
 1. [残奥会闭幕式上一段用眼睛控制的表演](https://s.weibo.com/weibo?q=%23%E6%AE%8B%E5%A5%A5%E4%BC%9A%E9%97%AD%E5%B9%95%E5%BC%8F%E4%B8%8A%E4%B8%80%E6%AE%B5%E7%94%A8%E7%9C%BC%E7%9D%9B%E6%8E%A7%E5%88%B6%E7%9A%84%E8%A1%A8%E6%BC%94%23&Refer=top) 116740
+1. [人类幼崽的友情有多甜](https://s.weibo.com/weibo?q=%23%E4%BA%BA%E7%B1%BB%E5%B9%BC%E5%B4%BD%E7%9A%84%E5%8F%8B%E6%83%85%E6%9C%89%E5%A4%9A%E7%94%9C%23&Refer=top) 109869
 1. [巡视发现部分高校师德师风建设有待加强](https://s.weibo.com/weibo?q=%23%E5%B7%A1%E8%A7%86%E5%8F%91%E7%8E%B0%E9%83%A8%E5%88%86%E9%AB%98%E6%A0%A1%E5%B8%88%E5%BE%B7%E5%B8%88%E9%A3%8E%E5%BB%BA%E8%AE%BE%E6%9C%89%E5%BE%85%E5%8A%A0%E5%BC%BA%23&Refer=top) 108499
 1. [王一丁万物皆可修](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%B8%80%E4%B8%81%E4%B8%87%E7%89%A9%E7%9A%86%E5%8F%AF%E4%BF%AE%23&Refer=top) 107799
 1. [周洁琼发文告别爆裂舞台](https://s.weibo.com/weibo?q=%23%E5%91%A8%E6%B4%81%E7%90%BC%E5%8F%91%E6%96%87%E5%91%8A%E5%88%AB%E7%88%86%E8%A3%82%E8%88%9E%E5%8F%B0%23&Refer=top) 106593
-1. [人类幼崽的友情有多甜](https://s.weibo.com/weibo?q=%23%E4%BA%BA%E7%B1%BB%E5%B9%BC%E5%B4%BD%E7%9A%84%E5%8F%8B%E6%83%85%E6%9C%89%E5%A4%9A%E7%94%9C%23&Refer=top) 79763
+1. [扁头最扁能有多夸张](https://s.weibo.com/weibo?q=%23%E6%89%81%E5%A4%B4%E6%9C%80%E6%89%81%E8%83%BD%E6%9C%89%E5%A4%9A%E5%A4%B8%E5%BC%A0%23&Refer=top) 95944
 1. [央视揭保健品店铺是如何忽悠老人的](https://s.weibo.com/weibo?q=%23%E5%A4%AE%E8%A7%86%E6%8F%AD%E4%BF%9D%E5%81%A5%E5%93%81%E5%BA%97%E9%93%BA%E6%98%AF%E5%A6%82%E4%BD%95%E5%BF%BD%E6%82%A0%E8%80%81%E4%BA%BA%E7%9A%84%23&Refer=top) 62063
+1. [东京残奥闭幕式](https://s.weibo.com/weibo?q=%23%E4%B8%9C%E4%BA%AC%E6%AE%8B%E5%A5%A5%E9%97%AD%E5%B9%95%E5%BC%8F%23&Refer=top) 38568
 <!-- Rank End -->
 
 历史归档 [./archives](./archives)
