@@ -6,15 +6,10 @@ import re
 from lxml import etree
 import requests
 
-import log_tools
-
 
 BASE_URL = 'https://s.weibo.com'
 JSON_DIR = './raw'
 ARCHIVE_DIR = './archives'
-LOG_DIR = './logs'
-
-logger = log_tools.init_logger(__name__)
 
 
 def getHTML(url, needPretty=False):
@@ -161,15 +156,12 @@ def updateReadme(rank):
 
 def main():
     url = '/top/summary'
-    try:
-        content = getHTML(BASE_URL + url)
-        correntRank = parseHTMLByXPath(content)
-        rankJSON = updateJSON(correntRank)
-        rankMD = updateArchive(rankJSON)
-        updateReadme(rankMD)
-    except Exception as e:
-        logger.exception(e)
-        raise e
+
+    content = getHTML(BASE_URL + url)
+    correntRank = parseHTMLByXPath(content)
+    rankJSON = updateJSON(correntRank)
+    rankMD = updateArchive(rankJSON)
+    updateReadme(rankMD)
 
 
 if __name__ == '__main__':
