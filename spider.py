@@ -117,35 +117,19 @@ def updateJSON(correntRank):
     return rank
 
 
-def updateArchive(rank):
-    ''' 更新当天的 Markdown 归档文件
-
-    Args:
-        rank: dict, 榜单信息
-    Returns:
-        更新后当天 Markdown 文件内容
-    '''
-    line = '1. [{title}]({href}) {hot}'
-    lines = [line.format(title=k, hot=v['hot'], href=v['href']) for k, v in rank.items()]
-    content = '\n'.join(lines)
-
-    filename = datetime.today().strftime('%Y%m%d') + '.md'
-    filename = os.path.join(ARCHIVE_DIR, filename)
-
-    # 更新当天榜单 markdown 文件
-    save(filename, content)
-    return content
-
-
 def updateReadme(rank):
     ''' 更新 README.md
 
     Args:
-        rank: str, markdown 格式的榜单信息
+        rank: dict, 榜单信息
     Returns:
         None
     '''
     filename = './README.md'
+
+    line = '1. [{title}]({href}) {hot}'
+    lines = [line.format(title=k, hot=v['hot'], href=v['href']) for k, v in rank.items()]
+    rank = '\n'.join(lines)
 
     rank = '最后更新时间 {}\n\n'.format(datetime.now().strftime('%Y-%m-%d %X')) + rank
     rank = '<!-- Rank Begin -->\n\n' + rank + '\n<!-- Rank End -->'
@@ -160,8 +144,7 @@ def main():
     content = getHTML(BASE_URL + url)
     correntRank = parseHTMLByXPath(content)
     rankJSON = updateJSON(correntRank)
-    rankMD = updateArchive(rankJSON)
-    updateReadme(rankMD)
+    updateReadme(rankJSON)
 
 
 if __name__ == '__main__':
