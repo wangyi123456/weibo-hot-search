@@ -12,12 +12,11 @@ JSON_DIR = './raw'
 ARCHIVE_DIR = './archives'
 
 
-def getHTML(url, needPretty=False):
+def getHTML(url):
     ''' 获取网页 HTML 返回字符串
 
     Args:
         url: str, 网页网址
-        needPretty: bool, 是否需要美化(开发或测试时可用)
     Returns:
         HTML 字符串
     '''
