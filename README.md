@@ -17,7 +17,7 @@
 
 <!-- Rank Begin -->
 
-最后更新时间 2021-09-11 05:07:12
+最后更新时间 2021-09-11 06:07:56
 
 1. [为啥海底捞这么多摄像头](https://s.weibo.com/weibo?q=%23%E4%B8%BA%E5%95%A5%E6%B5%B7%E5%BA%95%E6%8D%9E%E8%BF%99%E4%B9%88%E5%A4%9A%E6%91%84%E5%83%8F%E5%A4%B4%23&Refer=top) 925893
 1. [广电总局要求抵制唯颜值的畸形文化](https://s.weibo.com/weibo?q=%23%E5%B9%BF%E7%94%B5%E6%80%BB%E5%B1%80%E8%A6%81%E6%B1%82%E6%8A%B5%E5%88%B6%E5%94%AF%E9%A2%9C%E5%80%BC%E7%9A%84%E7%95%B8%E5%BD%A2%E6%96%87%E5%8C%96%23&Refer=top) 889549
@@ -54,8 +54,10 @@
 1. [向佐郭碧婷希望女儿自由长大](https://s.weibo.com/weibo?q=%23%E5%90%91%E4%BD%90%E9%83%AD%E7%A2%A7%E5%A9%B7%E5%B8%8C%E6%9C%9B%E5%A5%B3%E5%84%BF%E8%87%AA%E7%94%B1%E9%95%BF%E5%A4%A7%23&Refer=top) 191879
 1. [比心APP永久关闭游戏陪玩功能](https://s.weibo.com/weibo?q=%23%E6%AF%94%E5%BF%83APP%E6%B0%B8%E4%B9%85%E5%85%B3%E9%97%AD%E6%B8%B8%E6%88%8F%E9%99%AA%E7%8E%A9%E5%8A%9F%E8%83%BD%23&Refer=top) 191846
 1. [赵丽颖丁程鑫是在跳恰恰舞吧](https://s.weibo.com/weibo?q=%23%E8%B5%B5%E4%B8%BD%E9%A2%96%E4%B8%81%E7%A8%8B%E9%91%AB%E6%98%AF%E5%9C%A8%E8%B7%B3%E6%81%B0%E6%81%B0%E8%88%9E%E5%90%A7%23&Refer=top) 182771
+1. [许家印回应恒大财富兑付危机](https://s.weibo.com/weibo?q=%23%E8%AE%B8%E5%AE%B6%E5%8D%B0%E5%9B%9E%E5%BA%94%E6%81%92%E5%A4%A7%E8%B4%A2%E5%AF%8C%E5%85%91%E4%BB%98%E5%8D%B1%E6%9C%BA%23&Refer=top) 175211
 1. [福建仙游发现6例核酸检测阳性人员](https://s.weibo.com/weibo?q=%23%E7%A6%8F%E5%BB%BA%E4%BB%99%E6%B8%B8%E5%8F%91%E7%8E%B06%E4%BE%8B%E6%A0%B8%E9%85%B8%E6%A3%80%E6%B5%8B%E9%98%B3%E6%80%A7%E4%BA%BA%E5%91%98%23&Refer=top) 165976
 1. [当社恐人当上了老师](https://s.weibo.com/weibo?q=%23%E5%BD%93%E7%A4%BE%E6%81%90%E4%BA%BA%E5%BD%93%E4%B8%8A%E4%BA%86%E8%80%81%E5%B8%88%23&Refer=top) 157721
+1. [男童被喷泉冲至半空摔地后身亡](https://s.weibo.com/weibo?q=%E7%94%B7%E7%AB%A5%E8%A2%AB%E5%96%B7%E6%B3%89%E5%86%B2%E8%87%B3%E5%8D%8A%E7%A9%BA%E6%91%94%E5%9C%B0%E5%90%8E%E8%BA%AB%E4%BA%A1&Refer=top) 156592
 1. [红楼梦贾政扮演者去世](https://s.weibo.com/weibo?q=%23%E7%BA%A2%E6%A5%BC%E6%A2%A6%E8%B4%BE%E6%94%BF%E6%89%AE%E6%BC%94%E8%80%85%E5%8E%BB%E4%B8%96%23&Refer=top) 153502
 1. [教师节快乐](https://s.weibo.com/weibo?q=%23%E6%95%99%E5%B8%88%E8%8A%82%E5%BF%AB%E4%B9%90%23&Refer=top) 151744
 1. [千书真把秀莲推下海](https://s.weibo.com/weibo?q=%23%E5%8D%83%E4%B9%A6%E7%9C%9F%E6%8A%8A%E7%A7%80%E8%8E%B2%E6%8E%A8%E4%B8%8B%E6%B5%B7%23&Refer=top) 151554
@@ -64,14 +66,13 @@
 1. [抗癌博主阿健哥哥宣布其已去世](https://s.weibo.com/weibo?q=%23%E6%8A%97%E7%99%8C%E5%8D%9A%E4%B8%BB%E9%98%BF%E5%81%A5%E5%93%A5%E5%93%A5%E5%AE%A3%E5%B8%83%E5%85%B6%E5%B7%B2%E5%8E%BB%E4%B8%96%23&Refer=top) 130079
 1. [张智霖扭腰遇上张淇流鼻血](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%99%BA%E9%9C%96%E6%89%AD%E8%85%B0%E9%81%87%E4%B8%8A%E5%BC%A0%E6%B7%87%E6%B5%81%E9%BC%BB%E8%A1%80%23&Refer=top) 129990
 1. [三星堆文物撞脸经典表情包](https://s.weibo.com/weibo?q=%23%E4%B8%89%E6%98%9F%E5%A0%86%E6%96%87%E7%89%A9%E6%92%9E%E8%84%B8%E7%BB%8F%E5%85%B8%E8%A1%A8%E6%83%85%E5%8C%85%23&Refer=top) 129043
+1. [教师节的祝福翻车现场](https://s.weibo.com/weibo?q=%23%E6%95%99%E5%B8%88%E8%8A%82%E7%9A%84%E7%A5%9D%E7%A6%8F%E7%BF%BB%E8%BD%A6%E7%8E%B0%E5%9C%BA%23&Refer=top) 122347
 1. [王靖雯原创下一个好听](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E9%9D%96%E9%9B%AF%E5%8E%9F%E5%88%9B%E4%B8%8B%E4%B8%80%E4%B8%AA%E5%A5%BD%E5%90%AC%23&Refer=top) 117523
 1. [福建莆田疫情防控新闻发布会](https://s.weibo.com/weibo?q=%23%E7%A6%8F%E5%BB%BA%E8%8E%86%E7%94%B0%E7%96%AB%E6%83%85%E9%98%B2%E6%8E%A7%E6%96%B0%E9%97%BB%E5%8F%91%E5%B8%83%E4%BC%9A%23&Refer=top) 115339
 1. [发际线高对寸头有多不友好](https://s.weibo.com/weibo?q=%23%E5%8F%91%E9%99%85%E7%BA%BF%E9%AB%98%E5%AF%B9%E5%AF%B8%E5%A4%B4%E6%9C%89%E5%A4%9A%E4%B8%8D%E5%8F%8B%E5%A5%BD%23&Refer=top) 113678
-1. [男童被喷泉冲至半空摔地后身亡](https://s.weibo.com/weibo?q=%E7%94%B7%E7%AB%A5%E8%A2%AB%E5%96%B7%E6%B3%89%E5%86%B2%E8%87%B3%E5%8D%8A%E7%A9%BA%E6%91%94%E5%9C%B0%E5%90%8E%E8%BA%AB%E4%BA%A1&Refer=top) 107368
 1. [杭州亚运会倒计时一周年主题活动](https://s.weibo.com/weibo?q=%23%E6%9D%AD%E5%B7%9E%E4%BA%9A%E8%BF%90%E4%BC%9A%E5%80%92%E8%AE%A1%E6%97%B6%E4%B8%80%E5%91%A8%E5%B9%B4%E4%B8%BB%E9%A2%98%E6%B4%BB%E5%8A%A8%23&Refer=top) 93354
 1. [曹缘陈艾森全运会男子双人10米台摘金](https://s.weibo.com/weibo?q=%23%E6%9B%B9%E7%BC%98%E9%99%88%E8%89%BE%E6%A3%AE%E5%85%A8%E8%BF%90%E4%BC%9A%E7%94%B7%E5%AD%90%E5%8F%8C%E4%BA%BA10%E7%B1%B3%E5%8F%B0%E6%91%98%E9%87%91%23&Refer=top) 92726
 1. [成都地铁在建工地坍塌4死14伤](https://s.weibo.com/weibo?q=%23%E6%88%90%E9%83%BD%E5%9C%B0%E9%93%81%E5%9C%A8%E5%BB%BA%E5%B7%A5%E5%9C%B0%E5%9D%8D%E5%A1%8C4%E6%AD%BB14%E4%BC%A4%23&Refer=top) 89287
-1. [许家印回应恒大财富兑付危机](https://s.weibo.com/weibo?q=%23%E8%AE%B8%E5%AE%B6%E5%8D%B0%E5%9B%9E%E5%BA%94%E6%81%92%E5%A4%A7%E8%B4%A2%E5%AF%8C%E5%85%91%E4%BB%98%E5%8D%B1%E6%9C%BA%23&Refer=top) 63407
 1. [塔利班展示占领阿富汗军阀豪宅](https://s.weibo.com/weibo?q=%23%E5%A1%94%E5%88%A9%E7%8F%AD%E5%B1%95%E7%A4%BA%E5%8D%A0%E9%A2%86%E9%98%BF%E5%AF%8C%E6%B1%97%E5%86%9B%E9%98%80%E8%B1%AA%E5%AE%85%23&Refer=top) 52802
 1. [2022年杭州亚运会火炬发布](https://s.weibo.com/weibo?q=%232022%E5%B9%B4%E6%9D%AD%E5%B7%9E%E4%BA%9A%E8%BF%90%E4%BC%9A%E7%81%AB%E7%82%AC%E5%8F%91%E5%B8%83%23&Refer=top) 36785
 1. [福建仙游三地划为中风险区域](https://s.weibo.com/weibo?q=%23%E7%A6%8F%E5%BB%BA%E4%BB%99%E6%B8%B8%E4%B8%89%E5%9C%B0%E5%88%92%E4%B8%BA%E4%B8%AD%E9%A3%8E%E9%99%A9%E5%8C%BA%E5%9F%9F%23&Refer=top) 33671
