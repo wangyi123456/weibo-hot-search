@@ -17,7 +17,7 @@
 
 <!-- Rank Begin -->
 
-最后更新时间 2022-02-12 03:01:43
+最后更新时间 2022-02-12 04:02:33
 
 1. [老友记删减](https://s.weibo.com/weibo?q=%E8%80%81%E5%8F%8B%E8%AE%B0%E5%88%A0%E5%87%8F&Refer=top) 2559902
 1. [钢架雪车](https://s.weibo.com/weibo?q=%E9%92%A2%E6%9E%B6%E9%9B%AA%E8%BD%A6&Refer=top) 1912293
@@ -78,6 +78,7 @@
 1. [速度滑冰是地表最快的运动](https://s.weibo.com/weibo?q=%23%E9%80%9F%E5%BA%A6%E6%BB%91%E5%86%B0%E6%98%AF%E5%9C%B0%E8%A1%A8%E6%9C%80%E5%BF%AB%E7%9A%84%E8%BF%90%E5%8A%A8%23&Refer=top) 108310
 1. [姜文的电影台词能多有内涵](https://s.weibo.com/weibo?q=%23%E5%A7%9C%E6%96%87%E7%9A%84%E7%94%B5%E5%BD%B1%E5%8F%B0%E8%AF%8D%E8%83%BD%E5%A4%9A%E6%9C%89%E5%86%85%E6%B6%B5%23&Refer=top) 103566
 1. [中国短道速滑男子5000米接力晋级决赛](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E7%9F%AD%E9%81%93%E9%80%9F%E6%BB%91%E7%94%B7%E5%AD%905000%E7%B1%B3%E6%8E%A5%E5%8A%9B%E6%99%8B%E7%BA%A7%E5%86%B3%E8%B5%9B%23&Refer=top) 44343
+1. [沉浸式剧本杀客单价达500元](https://s.weibo.com/weibo?q=%23%E6%B2%89%E6%B5%B8%E5%BC%8F%E5%89%A7%E6%9C%AC%E6%9D%80%E5%AE%A2%E5%8D%95%E4%BB%B7%E8%BE%BE500%E5%85%83%23&Refer=top) 40109
 <!-- Rank End -->
 
 历史归档 [./archives](./archives)
