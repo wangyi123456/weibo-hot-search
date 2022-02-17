@@ -17,7 +17,7 @@
 
 <!-- Rank Begin -->
 
-最后更新时间 2022-02-18 03:02:01
+最后更新时间 2022-02-18 04:02:16
 
 1. [莎莎哭了](https://s.weibo.com/weibo?q=%23%E8%8E%8E%E8%8E%8E%E5%93%AD%E4%BA%86%23&Refer=top) 4041410
 1. [谷爱凌把金牌给奶奶了](https://s.weibo.com/weibo?q=%23%E8%B0%B7%E7%88%B1%E5%87%8C%E6%8A%8A%E9%87%91%E7%89%8C%E7%BB%99%E5%A5%B6%E5%A5%B6%E4%BA%86%23&Refer=top) 2189170
@@ -76,7 +76,8 @@
 1. [碧桂园美好讨薪季](https://s.weibo.com/weibo?q=%23%E7%A2%A7%E6%A1%82%E5%9B%AD%E7%BE%8E%E5%A5%BD%E8%AE%A8%E8%96%AA%E5%AD%A3%23&Refer=top) 144481
 1. [买奢侈品包包是理财吗](https://s.weibo.com/weibo?q=%23%E4%B9%B0%E5%A5%A2%E4%BE%88%E5%93%81%E5%8C%85%E5%8C%85%E6%98%AF%E7%90%86%E8%B4%A2%E5%90%97%23&Refer=top) 87516
 1. [部落冲突](https://s.weibo.com/weibo?q=%23%E9%83%A8%E8%90%BD%E5%86%B2%E7%AA%81%23&Refer=top) 65449
-1. [许巍 桃城](https://s.weibo.com/weibo?q=%E8%AE%B8%E5%B7%8D%20%E6%A1%83%E5%9F%8E&Refer=top) 32405
+1. [许巍 桃城](https://s.weibo.com/weibo?q=%E8%AE%B8%E5%B7%8D%20%E6%A1%83%E5%9F%8E&Refer=top) 45171
+1. [原神](https://s.weibo.com/weibo?q=%E5%8E%9F%E7%A5%9E&Refer=top) 23084
 <!-- Rank End -->
 
 历史归档 [./archives](./archives)
