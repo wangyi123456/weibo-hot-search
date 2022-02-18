@@ -28,7 +28,7 @@ def getHTML(url):
         'Cookie': 'SUB=_2AkMVWDYUf8NxqwJRmP0Sz2_hZYt2zw_EieKjBMfPJRMxHRl-yj9jqkBStRB6PtgY-38i0AF7nDAv8HdY1ZwT3Rv8B5e5; SUBP=0033WrSXqPxfM72-Ws9jqgMF55529P9D9WFencmWZyNhNlrzI6f0SiqP'
     }
     response = requests.get(url, headers=headers)
-    response.encoding = response.apparent_encoding
+    response.encoding = 'utf-8'  # response.apparent_encoding
     return response.text
 
 
@@ -43,12 +43,16 @@ def parseHTMLByXPath(content):
     '''
     html = etree.HTML(content)
 
-    titles = html.xpath('//tr[position()>1]/td[@class="td-02"]/a[not(contains(@href, "javascript:void(0);"))]/text()')
-    hrefs = html.xpath('//tr[position()>1]/td[@class="td-02"]/a[not(contains(@href, "javascript:void(0);"))]/@href')
-    hots = html.xpath('//tr[position()>1]/td[@class="td-02"]/a[not(contains(@href, "javascript:void(0);"))]/../span/text()')
+    titles = html.xpath(
+        '//tr[position()>1]/td[@class="td-02"]/a[not(contains(@href, "javascript:void(0);"))]/text()')
+    hrefs = html.xpath(
+        '//tr[position()>1]/td[@class="td-02"]/a[not(contains(@href, "javascript:void(0);"))]/@href')
+    hots = html.xpath(
+        '//tr[position()>1]/td[@class="td-02"]/a[not(contains(@href, "javascript:void(0);"))]/../span/text()')
     titles = [title.strip() for title in titles]
     hrefs = [BASE_URL + href.strip() for href in hrefs]
-    hots = [int(hot.strip().split(' ')[-1]) for hot in hots]  # 该处除了热度还会返回大致分类，形如 `剧集 53412536`，前为分类，后为热度
+    hots = [int(hot.strip().split(' ')[-1])
+            for hot in hots]  # 该处除了热度还会返回大致分类，形如 `剧集 53412536`，前为分类，后为热度
 
     correntRank = {}
     for i, title in enumerate(titles):
@@ -77,13 +81,15 @@ def updateJSON(correntRank):
     for k, v in correntRank.items():
         # 若当前榜单和历史榜单有重复的，取热度数值(名称后面的数值)更大的一个
         if k in historyRank:
-            historyRank[k]['hot'] = max(historyRank[k]['hot'], correntRank[k]['hot'])
+            historyRank[k]['hot'] = max(
+                historyRank[k]['hot'], correntRank[k]['hot'])
         # 若没有，则添加
         else:
             historyRank[k] = v
 
     # 将榜单按 hot 值排序
-    rank = {k: v for k, v in sorted(historyRank.items(), key=lambda item: item[1]['hot'], reverse=True)}
+    rank = {k: v for k, v in sorted(
+        historyRank.items(), key=lambda item: item[1]['hot'], reverse=True)}
 
     # 更新当天榜单 json 文件
     utils.save(filename, rank)
@@ -101,13 +107,16 @@ def updateReadme(rank):
     filename = './README.md'
 
     line = '1. [{title}]({href}) {hot}'
-    lines = [line.format(title=k, hot=v['hot'], href=v['href']) for k, v in rank.items()]
+    lines = [line.format(title=k, hot=v['hot'], href=v['href'])
+             for k, v in rank.items()]
     rank = '\n'.join(lines)
 
-    rank = '最后更新时间 {}\n\n'.format(datetime.now().strftime('%Y-%m-%d %X')) + rank
+    rank = '最后更新时间 {}\n\n'.format(
+        datetime.now().strftime('%Y-%m-%d %X')) + rank
     rank = '<!-- Rank Begin -->\n\n' + rank + '\n<!-- Rank End -->'
 
-    content = re.sub(r'<!-- Rank Begin -->[\s\S]*<!-- Rank End -->', rank, utils.load(filename))
+    content = re.sub(
+        r'<!-- Rank Begin -->[\s\S]*<!-- Rank End -->', rank, utils.load(filename))
     utils.save(filename, content)
 
 
