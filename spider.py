@@ -28,7 +28,8 @@ def getHTML(url):
         'Cookie': 'SUB=_2AkMVWDYUf8NxqwJRmP0Sz2_hZYt2zw_EieKjBMfPJRMxHRl-yj9jqkBStRB6PtgY-38i0AF7nDAv8HdY1ZwT3Rv8B5e5; SUBP=0033WrSXqPxfM72-Ws9jqgMF55529P9D9WFencmWZyNhNlrzI6f0SiqP'
     }
     response = requests.get(url, headers=headers)
-    response.encoding = 'utf-8'  # response.apparent_encoding
+    if response.encoding == 'ISO-8859-1':
+        response.encoding = response.apparent_encoding if response.apparent_encoding != 'ISO-8859-1' else 'utf-8'
     return response.text
 
 
