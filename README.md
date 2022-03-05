@@ -17,7 +17,7 @@
 
 <!-- Rank Begin -->
 
-最后更新时间 2022-03-06 02:03:46
+最后更新时间 2022-03-06 03:01:43
 
 1. [普京说对俄罗斯制裁等同宣战](https://s.weibo.com/weibo?q=%23%E6%99%AE%E4%BA%AC%E8%AF%B4%E5%AF%B9%E4%BF%84%E7%BD%97%E6%96%AF%E5%88%B6%E8%A3%81%E7%AD%89%E5%90%8C%E5%AE%A3%E6%88%98%23&Refer=top) 2876031
 1. [青岛集中隔离人员新增44例确诊](https://s.weibo.com/weibo?q=%23%E9%9D%92%E5%B2%9B%E9%9B%86%E4%B8%AD%E9%9A%94%E7%A6%BB%E4%BA%BA%E5%91%98%E6%96%B0%E5%A2%9E44%E4%BE%8B%E7%A1%AE%E8%AF%8A%23&Refer=top) 2022494
