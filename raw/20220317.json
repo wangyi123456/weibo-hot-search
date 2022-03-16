@@ -159,6 +159,10 @@
     "href": "https://s.weibo.com/weibo?q=%23%E7%8C%8E%E7%BD%AA%E5%9B%BE%E9%89%B4%E5%A4%A7%E7%BB%93%E5%B1%80%23&Refer=top",
     "hot": 396717
   },
+  "上沙疫情": {
+    "href": "https://s.weibo.com/weibo?q=%E4%B8%8A%E6%B2%99%E7%96%AB%E6%83%85&Refer=top",
+    "hot": 378572
+  },
   "冯巩": {
     "href": "https://s.weibo.com/weibo?q=%E5%86%AF%E5%B7%A9&Refer=top",
     "hot": 360526
@@ -227,13 +231,9 @@
     "href": "https://s.weibo.com/weibo?q=%E5%A4%A7%E7%89%8C%E5%B0%8F%E4%BC%97%E9%A6%99%E5%88%86%E4%BA%AB&Refer=top",
     "hot": 235056
   },
-  "上沙疫情": {
-    "href": "https://s.weibo.com/weibo?q=%E4%B8%8A%E6%B2%99%E7%96%AB%E6%83%85&Refer=top",
-    "hot": 139115
-  },
   "美联储加息": {
     "href": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E8%81%94%E5%82%A8%E5%8A%A0%E6%81%AF%23&Refer=top",
-    "hot": 64511
+    "hot": 195015
   },
   "想不起来这是什么歌了": {
     "href": "https://s.weibo.com/weibo?q=%23%E6%83%B3%E4%B8%8D%E8%B5%B7%E6%9D%A5%E8%BF%99%E6%98%AF%E4%BB%80%E4%B9%88%E6%AD%8C%E4%BA%86%23&Refer=top",
