@@ -203,6 +203,10 @@
     "href": "https://s.weibo.com/weibo?q=LWX&Refer=top",
     "hot": 161759
   },
+  "南方人在北方点菜要听劝": {
+    "href": "https://s.weibo.com/weibo?q=%23%E5%8D%97%E6%96%B9%E4%BA%BA%E5%9C%A8%E5%8C%97%E6%96%B9%E7%82%B9%E8%8F%9C%E8%A6%81%E5%90%AC%E5%8A%9D%23&Refer=top",
+    "hot": 161040
+  },
   "樊振东晋级WTT男单决赛": {
     "href": "https://s.weibo.com/weibo?q=%23%E6%A8%8A%E6%8C%AF%E4%B8%9C%E6%99%8B%E7%BA%A7WTT%E7%94%B7%E5%8D%95%E5%86%B3%E8%B5%9B%23&Refer=top",
     "hot": 158941
@@ -218,5 +222,9 @@
   "泽连斯基对俄喊话是时候见面谈谈了": {
     "href": "https://s.weibo.com/weibo?q=%23%E6%B3%BD%E8%BF%9E%E6%96%AF%E5%9F%BA%E5%AF%B9%E4%BF%84%E5%96%8A%E8%AF%9D%E6%98%AF%E6%97%B6%E5%80%99%E8%A7%81%E9%9D%A2%E8%B0%88%E8%B0%88%E4%BA%86%23&Refer=top",
     "hot": 124626
+  },
+  "新蝙蝠侠": {
+    "href": "https://s.weibo.com/weibo?q=%E6%96%B0%E8%9D%99%E8%9D%A0%E4%BE%A0&Refer=top",
+    "hot": 89510
   }
 }
