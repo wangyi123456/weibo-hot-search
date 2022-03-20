@@ -211,9 +211,17 @@
     "href": "https://s.weibo.com/weibo?q=%23%E7%9C%8B%E5%9B%BD%E4%B9%92%E6%AF%94%E8%B5%9B%E5%A4%AA%E7%83%AD%E8%A1%80%E4%BA%86%23&Refer=top",
     "hot": 135128
   },
+  "sofm": {
+    "href": "https://s.weibo.com/weibo?q=sofm&Refer=top",
+    "hot": 122547
+  },
   "偶像梦幻祭": {
     "href": "https://s.weibo.com/weibo?q=%23%E5%81%B6%E5%83%8F%E6%A2%A6%E5%B9%BB%E7%A5%AD%23&Refer=top",
     "hot": 87921
+  },
+  "青春里最让人意难平的瞬间": {
+    "href": "https://s.weibo.com/weibo?q=%23%E9%9D%92%E6%98%A5%E9%87%8C%E6%9C%80%E8%AE%A9%E4%BA%BA%E6%84%8F%E9%9A%BE%E5%B9%B3%E7%9A%84%E7%9E%AC%E9%97%B4%23&Refer=top",
+    "hot": 78860
   },
   "人生大事": {
     "href": "https://s.weibo.com/weibo?q=%E4%BA%BA%E7%94%9F%E5%A4%A7%E4%BA%8B&Refer=top",
@@ -222,9 +230,5 @@
   "守望先锋": {
     "href": "https://s.weibo.com/weibo?q=%23%E5%AE%88%E6%9C%9B%E5%85%88%E9%94%8B%23&Refer=top",
     "hot": 59425
-  },
-  "青春里最让人意难平的瞬间": {
-    "href": "https://s.weibo.com/weibo?q=%23%E9%9D%92%E6%98%A5%E9%87%8C%E6%9C%80%E8%AE%A9%E4%BA%BA%E6%84%8F%E9%9A%BE%E5%B9%B3%E7%9A%84%E7%9E%AC%E9%97%B4%23&Refer=top",
-    "hot": 39983
   }
 }
