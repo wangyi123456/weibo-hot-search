@@ -17,7 +17,7 @@
 
 <!-- Rank Begin -->
 
-最后更新时间 2022-03-24 04:06:04
+最后更新时间 2022-03-24 05:02:06
 
 1. [发现部分飞机残骸和遗体残骸](https://s.weibo.com/weibo?q=%23%E5%8F%91%E7%8E%B0%E9%83%A8%E5%88%86%E9%A3%9E%E6%9C%BA%E6%AE%8B%E9%AA%B8%E5%92%8C%E9%81%97%E4%BD%93%E6%AE%8B%E9%AA%B8%23&Refer=top) 7876231
 1. [淘宝崩了](https://s.weibo.com/weibo?q=%23%E6%B7%98%E5%AE%9D%E5%B4%A9%E4%BA%86%23&Refer=top) 3767334
@@ -75,7 +75,7 @@
 1. [已找到的黑匣子破损严重](https://s.weibo.com/weibo?q=%23%E5%B7%B2%E6%89%BE%E5%88%B0%E7%9A%84%E9%BB%91%E5%8C%A3%E5%AD%90%E7%A0%B4%E6%8D%9F%E4%B8%A5%E9%87%8D%23&Refer=top) 152293
 1. [吉林长春两市仍存在社会面传播风险](https://s.weibo.com/weibo?q=%23%E5%90%89%E6%9E%97%E9%95%BF%E6%98%A5%E4%B8%A4%E5%B8%82%E4%BB%8D%E5%AD%98%E5%9C%A8%E7%A4%BE%E4%BC%9A%E9%9D%A2%E4%BC%A0%E6%92%AD%E9%A3%8E%E9%99%A9%23&Refer=top) 126647
 1. [林之校告白顾魏](https://s.weibo.com/weibo?q=%23%E6%9E%97%E4%B9%8B%E6%A0%A1%E5%91%8A%E7%99%BD%E9%A1%BE%E9%AD%8F%23&Refer=top) 57025
-1. [论如何从小培养干饭人](https://s.weibo.com/weibo?q=%23%E8%AE%BA%E5%A6%82%E4%BD%95%E4%BB%8E%E5%B0%8F%E5%9F%B9%E5%85%BB%E5%B9%B2%E9%A5%AD%E4%BA%BA%23&Refer=top) 29769
+1. [论如何从小培养干饭人](https://s.weibo.com/weibo?q=%23%E8%AE%BA%E5%A6%82%E4%BD%95%E4%BB%8E%E5%B0%8F%E5%9F%B9%E5%85%BB%E5%B9%B2%E9%A5%AD%E4%BA%BA%23&Refer=top) 41458
 <!-- Rank End -->
 
 历史归档 [./archives](./archives)
