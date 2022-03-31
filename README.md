@@ -17,7 +17,7 @@
 
 <!-- Rank Begin -->
 
-最后更新时间 2022-04-01 03:02:26
+最后更新时间 2022-04-01 04:05:03
 
 1. [新冠毒株XE](https://s.weibo.com/weibo?q=%23%E6%96%B0%E5%86%A0%E6%AF%92%E6%A0%AAXE%23&Refer=top) 5461653
 1. [20220331](https://s.weibo.com/weibo?q=%2320220331%23&Refer=top) 4544800
