@@ -17,7 +17,7 @@
 
 <!-- Rank Begin -->
 
-最后更新时间 2022-04-11 02:07:20
+最后更新时间 2022-04-11 03:02:14
 
 1. [新冠感染者为什么不能居家隔离](https://s.weibo.com/weibo?q=%23%E6%96%B0%E5%86%A0%E6%84%9F%E6%9F%93%E8%80%85%E4%B8%BA%E4%BB%80%E4%B9%88%E4%B8%8D%E8%83%BD%E5%B1%85%E5%AE%B6%E9%9A%94%E7%A6%BB%23&Refer=top) 2731603
 1. [突然就不emo了](https://s.weibo.com/weibo?q=%23%E7%AA%81%E7%84%B6%E5%B0%B1%E4%B8%8Demo%E4%BA%86%23&Refer=top) 1477782
@@ -52,6 +52,7 @@
 1. [谁不爱大眼睛精灵系美女呢](https://s.weibo.com/weibo?q=%23%E8%B0%81%E4%B8%8D%E7%88%B1%E5%A4%A7%E7%9C%BC%E7%9D%9B%E7%B2%BE%E7%81%B5%E7%B3%BB%E7%BE%8E%E5%A5%B3%E5%91%A2%23&Refer=top) 356797
 1. [小长假还能跨省出行吗](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E9%95%BF%E5%81%87%E8%BF%98%E8%83%BD%E8%B7%A8%E7%9C%81%E5%87%BA%E8%A1%8C%E5%90%97%23&Refer=top) 355029
 1. [林俊杰的翻唱惊艳了时光](https://s.weibo.com/weibo?q=%23%E6%9E%97%E4%BF%8A%E6%9D%B0%E7%9A%84%E7%BF%BB%E5%94%B1%E6%83%8A%E8%89%B3%E4%BA%86%E6%97%B6%E5%85%89%23&Refer=top) 336904
+1. [武磊替补绝杀](https://s.weibo.com/weibo?q=%23%E6%AD%A6%E7%A3%8A%E6%9B%BF%E8%A1%A5%E7%BB%9D%E6%9D%80%23&Refer=top) 314783
 1. [二十岁还有这样的尴尬](https://s.weibo.com/weibo?q=%23%E4%BA%8C%E5%8D%81%E5%B2%81%E8%BF%98%E6%9C%89%E8%BF%99%E6%A0%B7%E7%9A%84%E5%B0%B4%E5%B0%AC%23&Refer=top) 305586
 1. [6架运20向塞尔维亚运送防空导弹](https://s.weibo.com/weibo?q=%236%E6%9E%B6%E8%BF%9020%E5%90%91%E5%A1%9E%E5%B0%94%E7%BB%B4%E4%BA%9A%E8%BF%90%E9%80%81%E9%98%B2%E7%A9%BA%E5%AF%BC%E5%BC%B9%23&Refer=top) 298591
 1. [9岁到31岁的画画进步史](https://s.weibo.com/weibo?q=%239%E5%B2%81%E5%88%B031%E5%B2%81%E7%9A%84%E7%94%BB%E7%94%BB%E8%BF%9B%E6%AD%A5%E5%8F%B2%23&Refer=top) 282172
@@ -60,11 +61,11 @@
 1. [突然被这些话点醒了](https://s.weibo.com/weibo?q=%23%E7%AA%81%E7%84%B6%E8%A2%AB%E8%BF%99%E4%BA%9B%E8%AF%9D%E7%82%B9%E9%86%92%E4%BA%86%23&Refer=top) 228032
 1. [宝宝与爷爷的爷爷同框相差105岁](https://s.weibo.com/weibo?q=%23%E5%AE%9D%E5%AE%9D%E4%B8%8E%E7%88%B7%E7%88%B7%E7%9A%84%E7%88%B7%E7%88%B7%E5%90%8C%E6%A1%86%E7%9B%B8%E5%B7%AE105%E5%B2%81%23&Refer=top) 220265
 1. [张真源清唱时刻73](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E7%9C%9F%E6%BA%90%E6%B8%85%E5%94%B1%E6%97%B6%E5%88%BB73%23&Refer=top) 219706
+1. [专家再次强调奥密克戎不是大号流感](https://s.weibo.com/weibo?q=%23%E4%B8%93%E5%AE%B6%E5%86%8D%E6%AC%A1%E5%BC%BA%E8%B0%83%E5%A5%A5%E5%AF%86%E5%85%8B%E6%88%8E%E4%B8%8D%E6%98%AF%E5%A4%A7%E5%8F%B7%E6%B5%81%E6%84%9F%23&Refer=top) 218730
 1. [杀死伊芙结局](https://s.weibo.com/weibo?q=%E6%9D%80%E6%AD%BB%E4%BC%8A%E8%8A%99%E7%BB%93%E5%B1%80&Refer=top) 217765
 1. [杨迪周深相爱相杀那些年](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E8%BF%AA%E5%91%A8%E6%B7%B1%E7%9B%B8%E7%88%B1%E7%9B%B8%E6%9D%80%E9%82%A3%E4%BA%9B%E5%B9%B4%23&Refer=top) 214108
 1. [杀死伊芙](https://s.weibo.com/weibo?q=%E6%9D%80%E6%AD%BB%E4%BC%8A%E8%8A%99&Refer=top) 213101
 1. [没有疫情的小镇太舒服了](https://s.weibo.com/weibo?q=%23%E6%B2%A1%E6%9C%89%E7%96%AB%E6%83%85%E7%9A%84%E5%B0%8F%E9%95%87%E5%A4%AA%E8%88%92%E6%9C%8D%E4%BA%86%23&Refer=top) 210426
-1. [专家再次强调奥密克戎不是大号流感](https://s.weibo.com/weibo?q=%23%E4%B8%93%E5%AE%B6%E5%86%8D%E6%AC%A1%E5%BC%BA%E8%B0%83%E5%A5%A5%E5%AF%86%E5%85%8B%E6%88%8E%E4%B8%8D%E6%98%AF%E5%A4%A7%E5%8F%B7%E6%B5%81%E6%84%9F%23&Refer=top) 209111
 1. [武磊](https://s.weibo.com/weibo?q=%23%E6%AD%A6%E7%A3%8A%23&Refer=top) 205850
 1. [鞠婧祎仙剑四下班路透图](https://s.weibo.com/weibo?q=%23%E9%9E%A0%E5%A9%A7%E7%A5%8E%E4%BB%99%E5%89%91%E5%9B%9B%E4%B8%8B%E7%8F%AD%E8%B7%AF%E9%80%8F%E5%9B%BE%23&Refer=top) 203550
 1. [很暖但我忍不住笑了](https://s.weibo.com/weibo?q=%23%E5%BE%88%E6%9A%96%E4%BD%86%E6%88%91%E5%BF%8D%E4%B8%8D%E4%BD%8F%E7%AC%91%E4%BA%86%23&Refer=top) 192190
@@ -74,10 +75,11 @@
 1. [年轻人有多抗拒催婚](https://s.weibo.com/weibo?q=%23%E5%B9%B4%E8%BD%BB%E4%BA%BA%E6%9C%89%E5%A4%9A%E6%8A%97%E6%8B%92%E5%82%AC%E5%A9%9A%23&Refer=top) 170681
 1. [关于加快建设全国统一大市场的意见](https://s.weibo.com/weibo?q=%23%E5%85%B3%E4%BA%8E%E5%8A%A0%E5%BF%AB%E5%BB%BA%E8%AE%BE%E5%85%A8%E5%9B%BD%E7%BB%9F%E4%B8%80%E5%A4%A7%E5%B8%82%E5%9C%BA%E7%9A%84%E6%84%8F%E8%A7%81%23&Refer=top) 165068
 1. [纪云禾什么时候对长意说出真相](https://s.weibo.com/weibo?q=%23%E7%BA%AA%E4%BA%91%E7%A6%BE%E4%BB%80%E4%B9%88%E6%97%B6%E5%80%99%E5%AF%B9%E9%95%BF%E6%84%8F%E8%AF%B4%E5%87%BA%E7%9C%9F%E7%9B%B8%23&Refer=top) 146770
-1. [武磊替补绝杀](https://s.weibo.com/weibo?q=%23%E6%AD%A6%E7%A3%8A%E6%9B%BF%E8%A1%A5%E7%BB%9D%E6%9D%80%23&Refer=top) 123592
 1. [谢可寅的网速还停留在韩美娟](https://s.weibo.com/weibo?q=%23%E8%B0%A2%E5%8F%AF%E5%AF%85%E7%9A%84%E7%BD%91%E9%80%9F%E8%BF%98%E5%81%9C%E7%95%99%E5%9C%A8%E9%9F%A9%E7%BE%8E%E5%A8%9F%23&Refer=top) 117605
 1. [帕金森病患者七步双手活动法](https://s.weibo.com/weibo?q=%23%E5%B8%95%E9%87%91%E6%A3%AE%E7%97%85%E6%82%A3%E8%80%85%E4%B8%83%E6%AD%A5%E5%8F%8C%E6%89%8B%E6%B4%BB%E5%8A%A8%E6%B3%95%23&Refer=top) 112344
+1. [女生频遭他人恶意修改考研志愿](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E7%94%9F%E9%A2%91%E9%81%AD%E4%BB%96%E4%BA%BA%E6%81%B6%E6%84%8F%E4%BF%AE%E6%94%B9%E8%80%83%E7%A0%94%E5%BF%97%E6%84%BF%23&Refer=top) 109995
 1. [武磊留洋生涯第16球](https://s.weibo.com/weibo?q=%23%E6%AD%A6%E7%A3%8A%E7%95%99%E6%B4%8B%E7%94%9F%E6%B6%AF%E7%AC%AC16%E7%90%83%23&Refer=top) 84762
+1. [如何破解读过就忘的现象](https://s.weibo.com/weibo?q=%23%E5%A6%82%E4%BD%95%E7%A0%B4%E8%A7%A3%E8%AF%BB%E8%BF%87%E5%B0%B1%E5%BF%98%E7%9A%84%E7%8E%B0%E8%B1%A1%23&Refer=top) 23692
 <!-- Rank End -->
 
 历史归档 [./archives](./archives)
