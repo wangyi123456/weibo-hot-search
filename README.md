@@ -17,7 +17,7 @@
 
 <!-- Rank Begin -->
 
-最后更新时间 2022-04-13 03:02:30
+最后更新时间 2022-04-13 04:04:10
 
 1. [康师傅老坛酸菜方便面重返超市货架](https://s.weibo.com/weibo?q=%23%E5%BA%B7%E5%B8%88%E5%82%85%E8%80%81%E5%9D%9B%E9%85%B8%E8%8F%9C%E6%96%B9%E4%BE%BF%E9%9D%A2%E9%87%8D%E8%BF%94%E8%B6%85%E5%B8%82%E8%B4%A7%E6%9E%B6%23&Refer=top) 2917436
 1. [为什么喜欢日落](https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E5%96%9C%E6%AC%A2%E6%97%A5%E8%90%BD%23&Refer=top) 1633568
@@ -78,6 +78,7 @@
 1. [追星揽月的航天女将](https://s.weibo.com/weibo?q=%23%E8%BF%BD%E6%98%9F%E6%8F%BD%E6%9C%88%E7%9A%84%E8%88%AA%E5%A4%A9%E5%A5%B3%E5%B0%86%23&Refer=top) 118176
 1. [美国CPI](https://s.weibo.com/weibo?q=%E7%BE%8E%E5%9B%BDCPI&Refer=top) 75958
 1. [就怕陈奕迅说儿化音](https://s.weibo.com/weibo?q=%23%E5%B0%B1%E6%80%95%E9%99%88%E5%A5%95%E8%BF%85%E8%AF%B4%E5%84%BF%E5%8C%96%E9%9F%B3%23&Refer=top) 75068
+1. [曝信元发育宝猫粮致230只猫中毒](https://s.weibo.com/weibo?q=%23%E6%9B%9D%E4%BF%A1%E5%85%83%E5%8F%91%E8%82%B2%E5%AE%9D%E7%8C%AB%E7%B2%AE%E8%87%B4230%E5%8F%AA%E7%8C%AB%E4%B8%AD%E6%AF%92%23&Refer=top) 24652
 <!-- Rank End -->
 
 历史归档 [./archives](./archives)
