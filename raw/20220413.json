@@ -43,6 +43,10 @@
     "href": "https://s.weibo.com/weibo?q=%23%E6%9C%B1%E9%A2%9C%E5%89%A7%E5%90%8D%E5%8F%98%E6%9B%B4%E4%B8%BA%E7%8E%89%E9%AA%A8%E9%81%A5%23&Refer=top",
     "hot": 899874
   },
+  "青年大学习": {
+    "href": "https://s.weibo.com/weibo?q=%E9%9D%92%E5%B9%B4%E5%A4%A7%E5%AD%A6%E4%B9%A0&Refer=top",
+    "hot": 886556
+  },
   "刘畊宏健身": {
     "href": "https://s.weibo.com/weibo?q=%23%E5%88%98%E7%95%8A%E5%AE%8F%E5%81%A5%E8%BA%AB%23&Refer=top",
     "hot": 807791
@@ -218,5 +222,9 @@
   "追星揽月的航天女将": {
     "href": "https://s.weibo.com/weibo?q=%23%E8%BF%BD%E6%98%9F%E6%8F%BD%E6%9C%88%E7%9A%84%E8%88%AA%E5%A4%A9%E5%A5%B3%E5%B0%86%23&Refer=top",
     "hot": 118176
+  },
+  "就怕陈奕迅说儿化音": {
+    "href": "https://s.weibo.com/weibo?q=%23%E5%B0%B1%E6%80%95%E9%99%88%E5%A5%95%E8%BF%85%E8%AF%B4%E5%84%BF%E5%8C%96%E9%9F%B3%23&Refer=top",
+    "hot": 75068
   }
 }

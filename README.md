@@ -17,7 +17,7 @@
 
 <!-- Rank Begin -->
 
-最后更新时间 2022-04-13 01:10:11
+最后更新时间 2022-04-13 02:06:47
 
 1. [康师傅老坛酸菜方便面重返超市货架](https://s.weibo.com/weibo?q=%23%E5%BA%B7%E5%B8%88%E5%82%85%E8%80%81%E5%9D%9B%E9%85%B8%E8%8F%9C%E6%96%B9%E4%BE%BF%E9%9D%A2%E9%87%8D%E8%BF%94%E8%B6%85%E5%B8%82%E8%B4%A7%E6%9E%B6%23&Refer=top) 2917436
 1. [为什么喜欢日落](https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E5%96%9C%E6%AC%A2%E6%97%A5%E8%90%BD%23&Refer=top) 1633568
@@ -30,6 +30,7 @@
 1. [山东1人户外挖野菜因气溶胶传播感染](https://s.weibo.com/weibo?q=%23%E5%B1%B1%E4%B8%9C1%E4%BA%BA%E6%88%B7%E5%A4%96%E6%8C%96%E9%87%8E%E8%8F%9C%E5%9B%A0%E6%B0%94%E6%BA%B6%E8%83%B6%E4%BC%A0%E6%92%AD%E6%84%9F%E6%9F%93%23&Refer=top) 967701
 1. [女子为发泄情绪高空扔下菜刀电饭锅](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E4%B8%BA%E5%8F%91%E6%B3%84%E6%83%85%E7%BB%AA%E9%AB%98%E7%A9%BA%E6%89%94%E4%B8%8B%E8%8F%9C%E5%88%80%E7%94%B5%E9%A5%AD%E9%94%85%23&Refer=top) 904712
 1. [朱颜剧名变更为玉骨遥](https://s.weibo.com/weibo?q=%23%E6%9C%B1%E9%A2%9C%E5%89%A7%E5%90%8D%E5%8F%98%E6%9B%B4%E4%B8%BA%E7%8E%89%E9%AA%A8%E9%81%A5%23&Refer=top) 899874
+1. [青年大学习](https://s.weibo.com/weibo?q=%E9%9D%92%E5%B9%B4%E5%A4%A7%E5%AD%A6%E4%B9%A0&Refer=top) 886556
 1. [刘畊宏健身](https://s.weibo.com/weibo?q=%23%E5%88%98%E7%95%8A%E5%AE%8F%E5%81%A5%E8%BA%AB%23&Refer=top) 807791
 1. [预计未来几日上海新增感染者人数仍将处于高位](https://s.weibo.com/weibo?q=%23%E9%A2%84%E8%AE%A1%E6%9C%AA%E6%9D%A5%E5%87%A0%E6%97%A5%E4%B8%8A%E6%B5%B7%E6%96%B0%E5%A2%9E%E6%84%9F%E6%9F%93%E8%80%85%E4%BA%BA%E6%95%B0%E4%BB%8D%E5%B0%86%E5%A4%84%E4%BA%8E%E9%AB%98%E4%BD%8D%23&Refer=top) 666303
 1. [父亲备24万元为失踪21年儿子庆生](https://s.weibo.com/weibo?q=%23%E7%88%B6%E4%BA%B2%E5%A4%8724%E4%B8%87%E5%85%83%E4%B8%BA%E5%A4%B1%E8%B8%AA21%E5%B9%B4%E5%84%BF%E5%AD%90%E5%BA%86%E7%94%9F%23&Refer=top) 618863
@@ -74,6 +75,7 @@
 1. [苏州新增阳性31例](https://s.weibo.com/weibo?q=%23%E8%8B%8F%E5%B7%9E%E6%96%B0%E5%A2%9E%E9%98%B3%E6%80%A731%E4%BE%8B%23&Refer=top) 147900
 1. [辽宁男篮vs广东男篮](https://s.weibo.com/weibo?q=%23%E8%BE%BD%E5%AE%81%E7%94%B7%E7%AF%AEvs%E5%B9%BF%E4%B8%9C%E7%94%B7%E7%AF%AE%23&Refer=top) 129528
 1. [追星揽月的航天女将](https://s.weibo.com/weibo?q=%23%E8%BF%BD%E6%98%9F%E6%8F%BD%E6%9C%88%E7%9A%84%E8%88%AA%E5%A4%A9%E5%A5%B3%E5%B0%86%23&Refer=top) 118176
+1. [就怕陈奕迅说儿化音](https://s.weibo.com/weibo?q=%23%E5%B0%B1%E6%80%95%E9%99%88%E5%A5%95%E8%BF%85%E8%AF%B4%E5%84%BF%E5%8C%96%E9%9F%B3%23&Refer=top) 75068
 <!-- Rank End -->
 
 历史归档 [./archives](./archives)
