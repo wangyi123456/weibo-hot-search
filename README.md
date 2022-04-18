@@ -17,7 +17,7 @@
 
 <!-- Rank Begin -->
 
-最后更新时间 2022-04-19 02:06:50
+最后更新时间 2022-04-19 03:02:06
 
 1. [选秀艺人刘某以诈骗罪被判3年4个月](https://s.weibo.com/weibo?q=%23%E9%80%89%E7%A7%80%E8%89%BA%E4%BA%BA%E5%88%98%E6%9F%90%E4%BB%A5%E8%AF%88%E9%AA%97%E7%BD%AA%E8%A2%AB%E5%88%A43%E5%B9%B44%E4%B8%AA%E6%9C%88%23&Refer=top) 3392871
 1. [男生照顾瘫痪同学10年将共战高考](https://s.weibo.com/weibo?q=%23%E7%94%B7%E7%94%9F%E7%85%A7%E9%A1%BE%E7%98%AB%E7%97%AA%E5%90%8C%E5%AD%A610%E5%B9%B4%E5%B0%86%E5%85%B1%E6%88%98%E9%AB%98%E8%80%83%23&Refer=top) 2023667
@@ -73,6 +73,8 @@
 1. [任素汐方一诺下跪](https://s.weibo.com/weibo?q=%23%E4%BB%BB%E7%B4%A0%E6%B1%90%E6%96%B9%E4%B8%80%E8%AF%BA%E4%B8%8B%E8%B7%AA%23&Refer=top) 124761
 1. [且试天下全员不让看](https://s.weibo.com/weibo?q=%23%E4%B8%94%E8%AF%95%E5%A4%A9%E4%B8%8B%E5%85%A8%E5%91%98%E4%B8%8D%E8%AE%A9%E7%9C%8B%23&Refer=top) 73951
 1. [择天记播出五周年](https://s.weibo.com/weibo?q=%23%E6%8B%A9%E5%A4%A9%E8%AE%B0%E6%92%AD%E5%87%BA%E4%BA%94%E5%91%A8%E5%B9%B4%23&Refer=top) 59753
+1. [假如仙侠剧角色都在一个群](https://s.weibo.com/weibo?q=%23%E5%81%87%E5%A6%82%E4%BB%99%E4%BE%A0%E5%89%A7%E8%A7%92%E8%89%B2%E9%83%BD%E5%9C%A8%E4%B8%80%E4%B8%AA%E7%BE%A4%23&Refer=top) 55161
+1. [11岁男孩课余写墙报犹如打印机](https://s.weibo.com/weibo?q=11%E5%B2%81%E7%94%B7%E5%AD%A9%E8%AF%BE%E4%BD%99%E5%86%99%E5%A2%99%E6%8A%A5%E7%8A%B9%E5%A6%82%E6%89%93%E5%8D%B0%E6%9C%BA&Refer=top) 18975
 <!-- Rank End -->
 
 历史归档 [./archives](./archives)
