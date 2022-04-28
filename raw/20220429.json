@@ -222,5 +222,13 @@
   "特战荣耀": {
     "href": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%88%98%E8%8D%A3%E8%80%80%23&Refer=top",
     "hot": 114160
+  },
+  "太原全域低风险": {
+    "href": "https://s.weibo.com/weibo?q=%23%E5%A4%AA%E5%8E%9F%E5%85%A8%E5%9F%9F%E4%BD%8E%E9%A3%8E%E9%99%A9%23&Refer=top",
+    "hot": 15633
+  },
+  "历史多好都不一定答对": {
+    "href": "https://s.weibo.com/weibo?q=%23%E5%8E%86%E5%8F%B2%E5%A4%9A%E5%A5%BD%E9%83%BD%E4%B8%8D%E4%B8%80%E5%AE%9A%E7%AD%94%E5%AF%B9%23&Refer=top",
+    "hot": 11177
   }
 }
