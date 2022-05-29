@@ -17,7 +17,7 @@
 
 <!-- Rank Begin -->
 
-最后更新时间 2022-05-30 02:06:33
+最后更新时间 2022-05-30 03:02:15
 
 1. [长期不吃晚饭真的会变瘦吗](https://s.weibo.com/weibo?q=%23%E9%95%BF%E6%9C%9F%E4%B8%8D%E5%90%83%E6%99%9A%E9%A5%AD%E7%9C%9F%E7%9A%84%E4%BC%9A%E5%8F%98%E7%98%A6%E5%90%97%23&Refer=top) 3364941
 1. [上海白蚁](https://s.weibo.com/weibo?q=%23%E4%B8%8A%E6%B5%B7%E7%99%BD%E8%9A%81%23&Refer=top) 2978055
@@ -76,6 +76,7 @@
 1. [北京东城流调志愿者紧急时打一通宵电话](https://s.weibo.com/weibo?q=%23%E5%8C%97%E4%BA%AC%E4%B8%9C%E5%9F%8E%E6%B5%81%E8%B0%83%E5%BF%97%E6%84%BF%E8%80%85%E7%B4%A7%E6%80%A5%E6%97%B6%E6%89%93%E4%B8%80%E9%80%9A%E5%AE%B5%E7%94%B5%E8%AF%9D%23&Refer=top) 89371
 1. [暗夜行者 高能](https://s.weibo.com/weibo?q=%E6%9A%97%E5%A4%9C%E8%A1%8C%E8%80%85%20%E9%AB%98%E8%83%BD&Refer=top) 67881
 1. [法网2022](https://s.weibo.com/weibo?q=%23%E6%B3%95%E7%BD%912022%23&Refer=top) 59352
+1. [GALA单杀Gumayusi](https://s.weibo.com/weibo?q=%23GALA%E5%8D%95%E6%9D%80Gumayusi%23&Refer=top) 14383
 <!-- Rank End -->
 
 历史归档 [./archives](./archives)
