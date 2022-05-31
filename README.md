@@ -17,7 +17,7 @@
 
 <!-- Rank Begin -->
 
-最后更新时间 2022-06-01 02:07:28
+最后更新时间 2022-06-01 03:02:39
 
 1. [上海回来了](https://s.weibo.com/weibo?q=%23%E4%B8%8A%E6%B5%B7%E5%9B%9E%E6%9D%A5%E4%BA%86%23&Refer=top) 4061554
 1. [iPhone13](https://s.weibo.com/weibo?q=%23iPhone13%23&Refer=top) 2786156
@@ -77,6 +77,7 @@
 1. [赵露思清唱](https://s.weibo.com/weibo?q=%23%E8%B5%B5%E9%9C%B2%E6%80%9D%E6%B8%85%E5%94%B1%23&Refer=top) 96457
 1. [那些记忆里的动画片](https://s.weibo.com/weibo?q=%23%E9%82%A3%E4%BA%9B%E8%AE%B0%E5%BF%86%E9%87%8C%E7%9A%84%E5%8A%A8%E7%94%BB%E7%89%87%23&Refer=top) 94869
 1. [王楚钦台球一杆收](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E9%92%A6%E5%8F%B0%E7%90%83%E4%B8%80%E6%9D%86%E6%94%B6%23&Refer=top) 68675
+1. [老乡鸡董事长道歉](https://s.weibo.com/weibo?q=%23%E8%80%81%E4%B9%A1%E9%B8%A1%E8%91%A3%E4%BA%8B%E9%95%BF%E9%81%93%E6%AD%89%23&Refer=top) 58033
 <!-- Rank End -->
 
 历史归档 [./archives](./archives)
