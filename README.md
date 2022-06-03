@@ -17,7 +17,7 @@
 
 <!-- Rank Begin -->
 
-最后更新时间 2022-06-04 02:06:40
+最后更新时间 2022-06-04 03:02:25
 
 1. [郑州就120延误救治事件成立调查组](https://s.weibo.com/weibo?q=%23%E9%83%91%E5%B7%9E%E5%B0%B1120%E5%BB%B6%E8%AF%AF%E6%95%91%E6%B2%BB%E4%BA%8B%E4%BB%B6%E6%88%90%E7%AB%8B%E8%B0%83%E6%9F%A5%E7%BB%84%23&Refer=top) 2018203
 1. [卫健委回应河大大三女生脑出血去世](https://s.weibo.com/weibo?q=%23%E5%8D%AB%E5%81%A5%E5%A7%94%E5%9B%9E%E5%BA%94%E6%B2%B3%E5%A4%A7%E5%A4%A7%E4%B8%89%E5%A5%B3%E7%94%9F%E8%84%91%E5%87%BA%E8%A1%80%E5%8E%BB%E4%B8%96%23&Refer=top) 1665618
@@ -68,10 +68,10 @@
 1. [2022全国高考报名人数1193万](https://s.weibo.com/weibo?q=%232022%E5%85%A8%E5%9B%BD%E9%AB%98%E8%80%83%E6%8A%A5%E5%90%8D%E4%BA%BA%E6%95%B01193%E4%B8%87%23&Refer=top) 67523
 1. [金锣火腿肠表面现不明圆形硬物](https://s.weibo.com/weibo?q=%23%E9%87%91%E9%94%A3%E7%81%AB%E8%85%BF%E8%82%A0%E8%A1%A8%E9%9D%A2%E7%8E%B0%E4%B8%8D%E6%98%8E%E5%9C%86%E5%BD%A2%E7%A1%AC%E7%89%A9%23&Refer=top) 64398
 1. [女子躺地堵路要求外卖员道歉](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E8%BA%BA%E5%9C%B0%E5%A0%B5%E8%B7%AF%E8%A6%81%E6%B1%82%E5%A4%96%E5%8D%96%E5%91%98%E9%81%93%E6%AD%89%23&Refer=top) 60307
+1. [中国女排取得两连胜](https://s.weibo.com/weibo?q=%E4%B8%AD%E5%9B%BD%E5%A5%B3%E6%8E%92%E5%8F%96%E5%BE%97%E4%B8%A4%E8%BF%9E%E8%83%9C&Refer=top) 58772
 1. [上海新增本土确诊2例无症状1例](https://s.weibo.com/weibo?q=%23%E4%B8%8A%E6%B5%B7%E6%96%B0%E5%A2%9E%E6%9C%AC%E5%9C%9F%E7%A1%AE%E8%AF%8A2%E4%BE%8B%E6%97%A0%E7%97%87%E7%8A%B61%E4%BE%8B%23&Refer=top) 54145
 1. [甜粽咸粽联动了啊](https://s.weibo.com/weibo?q=%23%E7%94%9C%E7%B2%BD%E5%92%B8%E7%B2%BD%E8%81%94%E5%8A%A8%E4%BA%86%E5%95%8A%23&Refer=top) 53547
 1. [距2022高考还剩4天](https://s.weibo.com/weibo?q=%23%E8%B7%9D2022%E9%AB%98%E8%80%83%E8%BF%98%E5%89%A94%E5%A4%A9%23&Refer=top) 53122
-1. [中国女排取得两连胜](https://s.weibo.com/weibo?q=%E4%B8%AD%E5%9B%BD%E5%A5%B3%E6%8E%92%E5%8F%96%E5%BE%97%E4%B8%A4%E8%BF%9E%E8%83%9C&Refer=top) 48956
 1. [端午节中国首个入选非遗的节日](https://s.weibo.com/weibo?q=%23%E7%AB%AF%E5%8D%88%E8%8A%82%E4%B8%AD%E5%9B%BD%E9%A6%96%E4%B8%AA%E5%85%A5%E9%80%89%E9%9D%9E%E9%81%97%E7%9A%84%E8%8A%82%E6%97%A5%23&Refer=top) 42426
 <!-- Rank End -->
 
