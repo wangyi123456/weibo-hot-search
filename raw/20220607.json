@@ -91,6 +91,10 @@
     "href": "https://s.weibo.com/weibo?q=%E5%85%A8%E6%96%B0CarPlay&Refer=top",
     "hot": 200620
   },
+  "iPadOS 16": {
+    "href": "https://s.weibo.com/weibo?q=iPadOS%2016&Refer=top",
+    "hot": 190687
+  },
   "广州将正式放宽落户政策": {
     "href": "https://s.weibo.com/weibo?q=%23%E5%B9%BF%E5%B7%9E%E5%B0%86%E6%AD%A3%E5%BC%8F%E6%94%BE%E5%AE%BD%E8%90%BD%E6%88%B7%E6%94%BF%E7%AD%96%23&Refer=top",
     "hot": 189797
@@ -118,10 +122,6 @@
   "男子和女友吵架从16楼扔下洗碗机": {
     "href": "https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E5%92%8C%E5%A5%B3%E5%8F%8B%E5%90%B5%E6%9E%B6%E4%BB%8E16%E6%A5%BC%E6%89%94%E4%B8%8B%E6%B4%97%E7%A2%97%E6%9C%BA%23&Refer=top",
     "hot": 174818
-  },
-  "iPadOS 16": {
-    "href": "https://s.weibo.com/weibo?q=iPadOS%2016&Refer=top",
-    "hot": 147917
   },
   "原来有做半年休半年的职业": {
     "href": "https://s.weibo.com/weibo?q=%23%E5%8E%9F%E6%9D%A5%E6%9C%89%E5%81%9A%E5%8D%8A%E5%B9%B4%E4%BC%91%E5%8D%8A%E5%B9%B4%E7%9A%84%E8%81%8C%E4%B8%9A%23&Refer=top",
@@ -222,5 +222,9 @@
   "杨紫嘀了个下班卡": {
     "href": "https://s.weibo.com/weibo?q=%23%E6%9D%A8%E7%B4%AB%E5%98%80%E4%BA%86%E4%B8%AA%E4%B8%8B%E7%8F%AD%E5%8D%A1%23&Refer=top",
     "hot": 24271
+  },
+  "加油高考生": {
+    "href": "https://s.weibo.com/weibo?q=%23%E5%8A%A0%E6%B2%B9%E9%AB%98%E8%80%83%E7%94%9F%23&Refer=top",
+    "hot": 17179
   }
 }
