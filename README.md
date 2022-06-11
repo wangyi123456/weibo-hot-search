@@ -17,7 +17,7 @@
 
 <!-- Rank Begin -->
 
-最后更新时间 2022-06-12 04:04:08
+最后更新时间 2022-06-12 05:02:02
 
 1. [唐山打人事件由廊坊警方侦办](https://s.weibo.com/weibo?q=%23%E5%94%90%E5%B1%B1%E6%89%93%E4%BA%BA%E4%BA%8B%E4%BB%B6%E7%94%B1%E5%BB%8A%E5%9D%8A%E8%AD%A6%E6%96%B9%E4%BE%A6%E5%8A%9E%23&Refer=top) 12657488
 1. [起底唐山打人者累累案底](https://s.weibo.com/weibo?q=%23%E8%B5%B7%E5%BA%95%E5%94%90%E5%B1%B1%E6%89%93%E4%BA%BA%E8%80%85%E7%B4%AF%E7%B4%AF%E6%A1%88%E5%BA%95%23&Refer=top) 11584711
@@ -70,13 +70,16 @@
 1. [男子制止大妈踩花田拍照被围着骂](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E5%88%B6%E6%AD%A2%E5%A4%A7%E5%A6%88%E8%B8%A9%E8%8A%B1%E7%94%B0%E6%8B%8D%E7%85%A7%E8%A2%AB%E5%9B%B4%E7%9D%80%E9%AA%82%23&Refer=top) 228625
 1. [黄礼志申留真双人舞](https://s.weibo.com/weibo?q=%23%E9%BB%84%E7%A4%BC%E5%BF%97%E7%94%B3%E7%95%99%E7%9C%9F%E5%8F%8C%E4%BA%BA%E8%88%9E%23&Refer=top) 218833
 1. [仰卧俑的姿势一般人拿捏不了](https://s.weibo.com/weibo?q=%23%E4%BB%B0%E5%8D%A7%E4%BF%91%E7%9A%84%E5%A7%BF%E5%8A%BF%E4%B8%80%E8%88%AC%E4%BA%BA%E6%8B%BF%E6%8D%8F%E4%B8%8D%E4%BA%86%23&Refer=top) 217781
+1. [唐山恶性伤人事件我们因何愤怒](https://s.weibo.com/weibo?q=%23%E5%94%90%E5%B1%B1%E6%81%B6%E6%80%A7%E4%BC%A4%E4%BA%BA%E4%BA%8B%E4%BB%B6%E6%88%91%E4%BB%AC%E5%9B%A0%E4%BD%95%E6%84%A4%E6%80%92%23&Refer=top) 213307
 1. [needy](https://s.weibo.com/weibo?q=needy&Refer=top) 186155
 1. [3名外卖小哥联手抓住小偷](https://s.weibo.com/weibo?q=%233%E5%90%8D%E5%A4%96%E5%8D%96%E5%B0%8F%E5%93%A5%E8%81%94%E6%89%8B%E6%8A%93%E4%BD%8F%E5%B0%8F%E5%81%B7%23&Refer=top) 184254
 1. [梦华录 船戏](https://s.weibo.com/weibo?q=%E6%A2%A6%E5%8D%8E%E5%BD%95%20%E8%88%B9%E6%88%8F&Refer=top) 182603
 1. [平价雪糕也好吃](https://s.weibo.com/weibo?q=%23%E5%B9%B3%E4%BB%B7%E9%9B%AA%E7%B3%95%E4%B9%9F%E5%A5%BD%E5%90%83%23&Refer=top) 173430
-1. [唐山恶性伤人事件我们因何愤怒](https://s.weibo.com/weibo?q=%23%E5%94%90%E5%B1%B1%E6%81%B6%E6%80%A7%E4%BC%A4%E4%BA%BA%E4%BA%8B%E4%BB%B6%E6%88%91%E4%BB%AC%E5%9B%A0%E4%BD%95%E6%84%A4%E6%80%92%23&Refer=top) 107229
 1. [上海红玫瑰美容院停业整顿](https://s.weibo.com/weibo?q=%23%E4%B8%8A%E6%B5%B7%E7%BA%A2%E7%8E%AB%E7%91%B0%E7%BE%8E%E5%AE%B9%E9%99%A2%E5%81%9C%E4%B8%9A%E6%95%B4%E9%A1%BF%23&Refer=top) 98212
 1. [欧国联](https://s.weibo.com/weibo?q=%23%E6%AC%A7%E5%9B%BD%E8%81%94%23&Refer=top) 69585
+1. [新华网与浙江卫视喊你来跳绳](https://s.weibo.com/weibo?q=%23%E6%96%B0%E5%8D%8E%E7%BD%91%E4%B8%8E%E6%B5%99%E6%B1%9F%E5%8D%AB%E8%A7%86%E5%96%8A%E4%BD%A0%E6%9D%A5%E8%B7%B3%E7%BB%B3%23&Refer=top) 14165
+1. [2022年文化和自然遗产日](https://s.weibo.com/weibo?q=%232022%E5%B9%B4%E6%96%87%E5%8C%96%E5%92%8C%E8%87%AA%E7%84%B6%E9%81%97%E4%BA%A7%E6%97%A5%23&Refer=top) 11655
+1. [99岁老人为编纂古籍手写80多万字](https://s.weibo.com/weibo?q=%2399%E5%B2%81%E8%80%81%E4%BA%BA%E4%B8%BA%E7%BC%96%E7%BA%82%E5%8F%A4%E7%B1%8D%E6%89%8B%E5%86%9980%E5%A4%9A%E4%B8%87%E5%AD%97%23&Refer=top) 10478
 <!-- Rank End -->
 
 历史归档 [./archives](./archives)
