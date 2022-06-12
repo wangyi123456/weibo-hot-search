@@ -17,7 +17,7 @@
 
 <!-- Rank Begin -->
 
-最后更新时间 2022-06-13 05:02:01
+最后更新时间 2022-06-13 06:05:32
 
 1. [唐山被举报酒吧还有多人被打](https://s.weibo.com/weibo?q=%23%E5%94%90%E5%B1%B1%E8%A2%AB%E4%B8%BE%E6%8A%A5%E9%85%92%E5%90%A7%E8%BF%98%E6%9C%89%E5%A4%9A%E4%BA%BA%E8%A2%AB%E6%89%93%23&Refer=top) 10365002
 1. [唐山蛋糕店事件嫌疑人落网](https://s.weibo.com/weibo?q=%23%E5%94%90%E5%B1%B1%E8%9B%8B%E7%B3%95%E5%BA%97%E4%BA%8B%E4%BB%B6%E5%AB%8C%E7%96%91%E4%BA%BA%E8%90%BD%E7%BD%91%23&Refer=top) 7665929
@@ -74,8 +74,10 @@
 1. [女子回酒店遭男子尾随欲行不轨](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E5%9B%9E%E9%85%92%E5%BA%97%E9%81%AD%E7%94%B7%E5%AD%90%E5%B0%BE%E9%9A%8F%E6%AC%B2%E8%A1%8C%E4%B8%8D%E8%BD%A8%23&Refer=top) 129431
 1. [不接电话时女友的内心戏](https://s.weibo.com/weibo?q=%23%E4%B8%8D%E6%8E%A5%E7%94%B5%E8%AF%9D%E6%97%B6%E5%A5%B3%E5%8F%8B%E7%9A%84%E5%86%85%E5%BF%83%E6%88%8F%23&Refer=top) 126484
 1. [Bin](https://s.weibo.com/weibo?q=Bin&Refer=top) 108746
-1. [投资1000亿陕西电网升级](https://s.weibo.com/weibo?q=%E6%8A%95%E8%B5%841000%E4%BA%BF%E9%99%95%E8%A5%BF%E7%94%B5%E7%BD%91%E5%8D%87%E7%BA%A7&Refer=top) 27409
-1. [曾对峙47小时长沙舰驱离外舰](https://s.weibo.com/weibo?q=%23%E6%9B%BE%E5%AF%B9%E5%B3%9947%E5%B0%8F%E6%97%B6%E9%95%BF%E6%B2%99%E8%88%B0%E9%A9%B1%E7%A6%BB%E5%A4%96%E8%88%B0%23&Refer=top) 23140
+1. [曾对峙47小时长沙舰驱离外舰](https://s.weibo.com/weibo?q=%23%E6%9B%BE%E5%AF%B9%E5%B3%9947%E5%B0%8F%E6%97%B6%E9%95%BF%E6%B2%99%E8%88%B0%E9%A9%B1%E7%A6%BB%E5%A4%96%E8%88%B0%23&Refer=top) 83275
+1. [北京朝阳新增密接2457人次密703人](https://s.weibo.com/weibo?q=%23%E5%8C%97%E4%BA%AC%E6%9C%9D%E9%98%B3%E6%96%B0%E5%A2%9E%E5%AF%86%E6%8E%A52457%E4%BA%BA%E6%AC%A1%E5%AF%86703%E4%BA%BA%23&Refer=top) 77621
+1. [投资1000亿陕西电网升级](https://s.weibo.com/weibo?q=%E6%8A%95%E8%B5%841000%E4%BA%BF%E9%99%95%E8%A5%BF%E7%94%B5%E7%BD%91%E5%8D%87%E7%BA%A7&Refer=top) 33876
+1. [全军主题团日活动](https://s.weibo.com/weibo?q=%23%E5%85%A8%E5%86%9B%E4%B8%BB%E9%A2%98%E5%9B%A2%E6%97%A5%E6%B4%BB%E5%8A%A8%23&Refer=top) 15922
 <!-- Rank End -->
 
 历史归档 [./archives](./archives)
