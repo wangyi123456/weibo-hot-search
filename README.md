@@ -17,7 +17,7 @@
 
 <!-- Rank Begin -->
 
-最后更新时间 2022-06-13 01:04:21
+最后更新时间 2022-06-13 02:04:21
 
 1. [唐山被举报酒吧还有多人被打](https://s.weibo.com/weibo?q=%23%E5%94%90%E5%B1%B1%E8%A2%AB%E4%B8%BE%E6%8A%A5%E9%85%92%E5%90%A7%E8%BF%98%E6%9C%89%E5%A4%9A%E4%BA%BA%E8%A2%AB%E6%89%93%23&Refer=top) 10365002
 1. [唐山蛋糕店事件嫌疑人落网](https://s.weibo.com/weibo?q=%23%E5%94%90%E5%B1%B1%E8%9B%8B%E7%B3%95%E5%BA%97%E4%BA%8B%E4%BB%B6%E5%AB%8C%E7%96%91%E4%BA%BA%E8%90%BD%E7%BD%91%23&Refer=top) 7665929
@@ -64,6 +64,7 @@
 1. [小伙接诈骗电话把对方聊到自曝身份](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E4%BC%99%E6%8E%A5%E8%AF%88%E9%AA%97%E7%94%B5%E8%AF%9D%E6%8A%8A%E5%AF%B9%E6%96%B9%E8%81%8A%E5%88%B0%E8%87%AA%E6%9B%9D%E8%BA%AB%E4%BB%BD%23&Refer=top) 200922
 1. [北京7区出现冰雹](https://s.weibo.com/weibo?q=%23%E5%8C%97%E4%BA%AC7%E5%8C%BA%E5%87%BA%E7%8E%B0%E5%86%B0%E9%9B%B9%23&Refer=top) 193640
 1. [入职后的我们](https://s.weibo.com/weibo?q=%E5%85%A5%E8%81%8C%E5%90%8E%E7%9A%84%E6%88%91%E4%BB%AC&Refer=top) 191431
+1. [曹建军当保安](https://s.weibo.com/weibo?q=%23%E6%9B%B9%E5%BB%BA%E5%86%9B%E5%BD%93%E4%BF%9D%E5%AE%89%23&Refer=top) 169681
 1. [女子网上买餐桌到货发现没脚掌大](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E7%BD%91%E4%B8%8A%E4%B9%B0%E9%A4%90%E6%A1%8C%E5%88%B0%E8%B4%A7%E5%8F%91%E7%8E%B0%E6%B2%A1%E8%84%9A%E6%8E%8C%E5%A4%A7%23&Refer=top) 161311
 1. [密接者称天堂超市酒吧查健康码不仔细](https://s.weibo.com/weibo?q=%23%E5%AF%86%E6%8E%A5%E8%80%85%E7%A7%B0%E5%A4%A9%E5%A0%82%E8%B6%85%E5%B8%82%E9%85%92%E5%90%A7%E6%9F%A5%E5%81%A5%E5%BA%B7%E7%A0%81%E4%B8%8D%E4%BB%94%E7%BB%86%23&Refer=top) 149736
 1. [运动真的会让人感到快乐](https://s.weibo.com/weibo?q=%23%E8%BF%90%E5%8A%A8%E7%9C%9F%E7%9A%84%E4%BC%9A%E8%AE%A9%E4%BA%BA%E6%84%9F%E5%88%B0%E5%BF%AB%E4%B9%90%23&Refer=top) 136803
