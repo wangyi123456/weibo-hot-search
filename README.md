@@ -17,7 +17,7 @@
 
 <!-- Rank Begin -->
 
-最后更新时间 2022-06-14 05:03:59
+最后更新时间 2022-06-14 06:02:41
 
 1. [唐山被打女子已转入普通病房](https://s.weibo.com/weibo?q=%23%E5%94%90%E5%B1%B1%E8%A2%AB%E6%89%93%E5%A5%B3%E5%AD%90%E5%B7%B2%E8%BD%AC%E5%85%A5%E6%99%AE%E9%80%9A%E7%97%85%E6%88%BF%23&Refer=top) 7322020
 1. [唐山举报电话更新](https://s.weibo.com/weibo?q=%23%E5%94%90%E5%B1%B1%E4%B8%BE%E6%8A%A5%E7%94%B5%E8%AF%9D%E6%9B%B4%E6%96%B0%23&Refer=top) 3196784
@@ -67,6 +67,7 @@
 1. [曹建军你为什么不听话](https://s.weibo.com/weibo?q=%23%E6%9B%B9%E5%BB%BA%E5%86%9B%E4%BD%A0%E4%B8%BA%E4%BB%80%E4%B9%88%E4%B8%8D%E5%90%AC%E8%AF%9D%23&Refer=top) 198090
 1. [高考查分时间](https://s.weibo.com/weibo?q=%23%E9%AB%98%E8%80%83%E6%9F%A5%E5%88%86%E6%97%B6%E9%97%B4%23&Refer=top) 178687
 1. [北斗也参与了小麦收割](https://s.weibo.com/weibo?q=%23%E5%8C%97%E6%96%97%E4%B9%9F%E5%8F%82%E4%B8%8E%E4%BA%86%E5%B0%8F%E9%BA%A6%E6%94%B6%E5%89%B2%23&Refer=top) 176919
+1. [苏州取消非特定区域72小时核酸报告查验](https://s.weibo.com/weibo?q=%23%E8%8B%8F%E5%B7%9E%E5%8F%96%E6%B6%88%E9%9D%9E%E7%89%B9%E5%AE%9A%E5%8C%BA%E5%9F%9F72%E5%B0%8F%E6%97%B6%E6%A0%B8%E9%85%B8%E6%8A%A5%E5%91%8A%E6%9F%A5%E9%AA%8C%23&Refer=top) 176140
 1. [唐山徐敏回应称被人设局](https://s.weibo.com/weibo?q=%23%E5%94%90%E5%B1%B1%E5%BE%90%E6%95%8F%E5%9B%9E%E5%BA%94%E7%A7%B0%E8%A2%AB%E4%BA%BA%E8%AE%BE%E5%B1%80%23&Refer=top) 174003
 1. [这就是专属于毕业季的浪漫吧](https://s.weibo.com/weibo?q=%23%E8%BF%99%E5%B0%B1%E6%98%AF%E4%B8%93%E5%B1%9E%E4%BA%8E%E6%AF%95%E4%B8%9A%E5%AD%A3%E7%9A%84%E6%B5%AA%E6%BC%AB%E5%90%A7%23&Refer=top) 141833
 1. [大熊猫跑步肚皮要擦出火星了](https://s.weibo.com/weibo?q=%23%E5%A4%A7%E7%86%8A%E7%8C%AB%E8%B7%91%E6%AD%A5%E8%82%9A%E7%9A%AE%E8%A6%81%E6%93%A6%E5%87%BA%E7%81%AB%E6%98%9F%E4%BA%86%23&Refer=top) 132123
@@ -75,8 +76,8 @@
 1. [北京12日新增均与酒吧疫情关联](https://s.weibo.com/weibo?q=%E5%8C%97%E4%BA%AC12%E6%97%A5%E6%96%B0%E5%A2%9E%E5%9D%87%E4%B8%8E%E9%85%92%E5%90%A7%E7%96%AB%E6%83%85%E5%85%B3%E8%81%94&Refer=top) 45022
 1. [用水在茶上作画的非遗技艺](https://s.weibo.com/weibo?q=%23%E7%94%A8%E6%B0%B4%E5%9C%A8%E8%8C%B6%E4%B8%8A%E4%BD%9C%E7%94%BB%E7%9A%84%E9%9D%9E%E9%81%97%E6%8A%80%E8%89%BA%23&Refer=top) 43679
 1. [日元对美元汇率创近24年来新低](https://s.weibo.com/weibo?q=%23%E6%97%A5%E5%85%83%E5%AF%B9%E7%BE%8E%E5%85%83%E6%B1%87%E7%8E%87%E5%88%9B%E8%BF%9124%E5%B9%B4%E6%9D%A5%E6%96%B0%E4%BD%8E%23&Refer=top) 35431
+1. [北京明白24小时都在线](https://s.weibo.com/weibo?q=%23%E5%8C%97%E4%BA%AC%E6%98%8E%E7%99%BD24%E5%B0%8F%E6%97%B6%E9%83%BD%E5%9C%A8%E7%BA%BF%23&Refer=top) 23545
 1. [EDG开赛二连胜](https://s.weibo.com/weibo?q=%23EDG%E5%BC%80%E8%B5%9B%E4%BA%8C%E8%BF%9E%E8%83%9C%23&Refer=top) 14054
-1. [北京明白24小时都在线](https://s.weibo.com/weibo?q=%23%E5%8C%97%E4%BA%AC%E6%98%8E%E7%99%BD24%E5%B0%8F%E6%97%B6%E9%83%BD%E5%9C%A8%E7%BA%BF%23&Refer=top) 9201
 <!-- Rank End -->
 
 历史归档 [./archives](./archives)
