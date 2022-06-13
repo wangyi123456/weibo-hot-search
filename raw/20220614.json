@@ -131,6 +131,10 @@
     "href": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E7%BD%91%E6%9A%B4%E8%80%85%E6%9C%80%E9%95%BF%E5%8F%AF%E8%A2%AB%E5%88%A41%E5%B9%B4%E7%9B%91%E7%A6%81%23&Refer=top",
     "hot": 306523
   },
+  "比特币跌破24000美元": {
+    "href": "https://s.weibo.com/weibo?q=%23%E6%AF%94%E7%89%B9%E5%B8%81%E8%B7%8C%E7%A0%B424000%E7%BE%8E%E5%85%83%23&Refer=top",
+    "hot": 306520
+  },
   "LOL手游全球冠军杯主题曲": {
     "href": "https://s.weibo.com/weibo?q=%23LOL%E6%89%8B%E6%B8%B8%E5%85%A8%E7%90%83%E5%86%A0%E5%86%9B%E6%9D%AF%E4%B8%BB%E9%A2%98%E6%9B%B2%23&Refer=top",
     "hot": 290976
@@ -203,12 +207,16 @@
     "href": "https://s.weibo.com/weibo?q=%23%E4%BA%91%E5%8D%97%E6%96%87%E5%B1%B1%E5%A4%B1%E8%81%94%E7%94%B7%E7%AB%A5%E5%B7%B2%E4%B8%8D%E5%B9%B8%E6%AD%BB%E4%BA%A1%23&Refer=top",
     "hot": 131118
   },
-  "比特币跌破24000美元": {
-    "href": "https://s.weibo.com/weibo?q=%23%E6%AF%94%E7%89%B9%E5%B8%81%E8%B7%8C%E7%A0%B424000%E7%BE%8E%E5%85%83%23&Refer=top",
-    "hot": 114345
-  },
   "下个30克冰雹等于从3楼丢下个花盆": {
     "href": "https://s.weibo.com/weibo?q=%23%E4%B8%8B%E4%B8%AA30%E5%85%8B%E5%86%B0%E9%9B%B9%E7%AD%89%E4%BA%8E%E4%BB%8E3%E6%A5%BC%E4%B8%A2%E4%B8%8B%E4%B8%AA%E8%8A%B1%E7%9B%86%23&Refer=top",
     "hot": 114264
+  },
+  "用水在茶上作画的非遗技艺": {
+    "href": "https://s.weibo.com/weibo?q=%23%E7%94%A8%E6%B0%B4%E5%9C%A8%E8%8C%B6%E4%B8%8A%E4%BD%9C%E7%94%BB%E7%9A%84%E9%9D%9E%E9%81%97%E6%8A%80%E8%89%BA%23&Refer=top",
+    "hot": 43679
+  },
+  "北京12日新增均与酒吧疫情关联": {
+    "href": "https://s.weibo.com/weibo?q=%E5%8C%97%E4%BA%AC12%E6%97%A5%E6%96%B0%E5%A2%9E%E5%9D%87%E4%B8%8E%E9%85%92%E5%90%A7%E7%96%AB%E6%83%85%E5%85%B3%E8%81%94&Refer=top",
+    "hot": 22861
   }
 }
