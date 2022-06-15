@@ -17,7 +17,7 @@
 
 <!-- Rank Begin -->
 
-最后更新时间 2022-06-16 03:02:57
+最后更新时间 2022-06-16 04:03:56
 
 1. [求救电话只有喘息声调度员定位救人](https://s.weibo.com/weibo?q=%23%E6%B1%82%E6%95%91%E7%94%B5%E8%AF%9D%E5%8F%AA%E6%9C%89%E5%96%98%E6%81%AF%E5%A3%B0%E8%B0%83%E5%BA%A6%E5%91%98%E5%AE%9A%E4%BD%8D%E6%95%91%E4%BA%BA%23&Refer=top) 3245870
 1. [iPhone14](https://s.weibo.com/weibo?q=iPhone14&Refer=top) 2855713
@@ -72,6 +72,9 @@
 1. [北京通州电动自行车失火案一审宣判](https://s.weibo.com/weibo?q=%23%E5%8C%97%E4%BA%AC%E9%80%9A%E5%B7%9E%E7%94%B5%E5%8A%A8%E8%87%AA%E8%A1%8C%E8%BD%A6%E5%A4%B1%E7%81%AB%E6%A1%88%E4%B8%80%E5%AE%A1%E5%AE%A3%E5%88%A4%23&Refer=top) 112850
 1. [男孩发育迟缓姥姥同桌陪读6年](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%A9%E5%8F%91%E8%82%B2%E8%BF%9F%E7%BC%93%E5%A7%A5%E5%A7%A5%E5%90%8C%E6%A1%8C%E9%99%AA%E8%AF%BB6%E5%B9%B4%23&Refer=top) 110316
 1. [特警打手电护送女孩走过漆黑小巷](https://s.weibo.com/weibo?q=%23%E7%89%B9%E8%AD%A6%E6%89%93%E6%89%8B%E7%94%B5%E6%8A%A4%E9%80%81%E5%A5%B3%E5%AD%A9%E8%B5%B0%E8%BF%87%E6%BC%86%E9%BB%91%E5%B0%8F%E5%B7%B7%23&Refer=top) 102060
+1. [福建将迎来凶猛的盛夏高温](https://s.weibo.com/weibo?q=%23%E7%A6%8F%E5%BB%BA%E5%B0%86%E8%BF%8E%E6%9D%A5%E5%87%B6%E7%8C%9B%E7%9A%84%E7%9B%9B%E5%A4%8F%E9%AB%98%E6%B8%A9%23&Refer=top) 72322
+1. [广东持续强降水22日有望结束](https://s.weibo.com/weibo?q=%23%E5%B9%BF%E4%B8%9C%E6%8C%81%E7%BB%AD%E5%BC%BA%E9%99%8D%E6%B0%B422%E6%97%A5%E6%9C%89%E6%9C%9B%E7%BB%93%E6%9D%9F%23&Refer=top) 30652
+1. [消防组成人梯让群众踩肩蹚水](https://s.weibo.com/weibo?q=%23%E6%B6%88%E9%98%B2%E7%BB%84%E6%88%90%E4%BA%BA%E6%A2%AF%E8%AE%A9%E7%BE%A4%E4%BC%97%E8%B8%A9%E8%82%A9%E8%B9%9A%E6%B0%B4%23&Refer=top) 8968
 <!-- Rank End -->
 
 历史归档 [./archives](./archives)
