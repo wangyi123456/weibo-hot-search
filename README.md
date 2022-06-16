@@ -17,7 +17,7 @@
 
 <!-- Rank Begin -->
 
-最后更新时间 2022-06-17 02:05:46
+最后更新时间 2022-06-17 03:02:15
 
 1. [唐山要求雷霆风暴清仓见底](https://s.weibo.com/weibo?q=%23%E5%94%90%E5%B1%B1%E8%A6%81%E6%B1%82%E9%9B%B7%E9%9C%86%E9%A3%8E%E6%9A%B4%E6%B8%85%E4%BB%93%E8%A7%81%E5%BA%95%23&Refer=top) 2908314
 1. [男子称曾被陈继志等殴打险被活埋](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E7%A7%B0%E6%9B%BE%E8%A2%AB%E9%99%88%E7%BB%A7%E5%BF%97%E7%AD%89%E6%AE%B4%E6%89%93%E9%99%A9%E8%A2%AB%E6%B4%BB%E5%9F%8B%23&Refer=top) 1112614
@@ -64,6 +64,7 @@
 1. [女子与男友分手后患上心碎综合症](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E4%B8%8E%E7%94%B7%E5%8F%8B%E5%88%86%E6%89%8B%E5%90%8E%E6%82%A3%E4%B8%8A%E5%BF%83%E7%A2%8E%E7%BB%BC%E5%90%88%E7%97%87%23&Refer=top) 109978
 1. [女子信用卡背面写密码被盗刷7万6](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E4%BF%A1%E7%94%A8%E5%8D%A1%E8%83%8C%E9%9D%A2%E5%86%99%E5%AF%86%E7%A0%81%E8%A2%AB%E7%9B%97%E5%88%B77%E4%B8%876%23&Refer=top) 108915
 1. [男子杀害情人5名亲属二审维持死刑](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E6%9D%80%E5%AE%B3%E6%83%85%E4%BA%BA5%E5%90%8D%E4%BA%B2%E5%B1%9E%E4%BA%8C%E5%AE%A1%E7%BB%B4%E6%8C%81%E6%AD%BB%E5%88%91%23&Refer=top) 108168
+1. [陈伟霆 我没脑](https://s.weibo.com/weibo?q=%E9%99%88%E4%BC%9F%E9%9C%86%20%E6%88%91%E6%B2%A1%E8%84%91&Refer=top) 107335
 1. [海关在入境飞机截获47只德国小蠊](https://s.weibo.com/weibo?q=%23%E6%B5%B7%E5%85%B3%E5%9C%A8%E5%85%A5%E5%A2%83%E9%A3%9E%E6%9C%BA%E6%88%AA%E8%8E%B747%E5%8F%AA%E5%BE%B7%E5%9B%BD%E5%B0%8F%E8%A0%8A%23&Refer=top) 104667
 1. [兰州中考](https://s.weibo.com/weibo?q=%E5%85%B0%E5%B7%9E%E4%B8%AD%E8%80%83&Refer=top) 104043
 1. [易烊千玺演唱会彩蛋视频](https://s.weibo.com/weibo?q=%23%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BA%E6%BC%94%E5%94%B1%E4%BC%9A%E5%BD%A9%E8%9B%8B%E8%A7%86%E9%A2%91%23&Refer=top) 94108
