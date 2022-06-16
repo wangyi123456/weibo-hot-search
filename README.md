@@ -17,7 +17,7 @@
 
 <!-- Rank Begin -->
 
-最后更新时间 2022-06-17 04:04:21
+最后更新时间 2022-06-17 05:02:34
 
 1. [唐山要求雷霆风暴清仓见底](https://s.weibo.com/weibo?q=%23%E5%94%90%E5%B1%B1%E8%A6%81%E6%B1%82%E9%9B%B7%E9%9C%86%E9%A3%8E%E6%9A%B4%E6%B8%85%E4%BB%93%E8%A7%81%E5%BA%95%23&Refer=top) 2908314
 1. [男子称曾被陈继志等殴打险被活埋](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E7%A7%B0%E6%9B%BE%E8%A2%AB%E9%99%88%E7%BB%A7%E5%BF%97%E7%AD%89%E6%AE%B4%E6%89%93%E9%99%A9%E8%A2%AB%E6%B4%BB%E5%9F%8B%23&Refer=top) 1112614
@@ -69,8 +69,12 @@
 1. [兰州中考](https://s.weibo.com/weibo?q=%E5%85%B0%E5%B7%9E%E4%B8%AD%E8%80%83&Refer=top) 104043
 1. [易烊千玺演唱会彩蛋视频](https://s.weibo.com/weibo?q=%23%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BA%E6%BC%94%E5%94%B1%E4%BC%9A%E5%BD%A9%E8%9B%8B%E8%A7%86%E9%A2%91%23&Refer=top) 94108
 1. [在云南吃烧烤是能治社恐吗](https://s.weibo.com/weibo?q=%23%E5%9C%A8%E4%BA%91%E5%8D%97%E5%90%83%E7%83%A7%E7%83%A4%E6%98%AF%E8%83%BD%E6%B2%BB%E7%A4%BE%E6%81%90%E5%90%97%23&Refer=top) 84909
+1. [山东新一轮强对流天气上线](https://s.weibo.com/weibo?q=%23%E5%B1%B1%E4%B8%9C%E6%96%B0%E4%B8%80%E8%BD%AE%E5%BC%BA%E5%AF%B9%E6%B5%81%E5%A4%A9%E6%B0%94%E4%B8%8A%E7%BA%BF%23&Refer=top) 81208
 1. [高校通报教师发布针对女性不当言论](https://s.weibo.com/weibo?q=%23%E9%AB%98%E6%A0%A1%E9%80%9A%E6%8A%A5%E6%95%99%E5%B8%88%E5%8F%91%E5%B8%83%E9%92%88%E5%AF%B9%E5%A5%B3%E6%80%A7%E4%B8%8D%E5%BD%93%E8%A8%80%E8%AE%BA%23&Refer=top) 80946
-1. [山东新一轮强对流天气上线](https://s.weibo.com/weibo?q=%23%E5%B1%B1%E4%B8%9C%E6%96%B0%E4%B8%80%E8%BD%AE%E5%BC%BA%E5%AF%B9%E6%B5%81%E5%A4%A9%E6%B0%94%E4%B8%8A%E7%BA%BF%23&Refer=top) 40971
+1. [北京一些小店不扫码随便进](https://s.weibo.com/weibo?q=%23%E5%8C%97%E4%BA%AC%E4%B8%80%E4%BA%9B%E5%B0%8F%E5%BA%97%E4%B8%8D%E6%89%AB%E7%A0%81%E9%9A%8F%E4%BE%BF%E8%BF%9B%23&Refer=top) 49457
+1. [涉天堂超市酒吧疫情已有351例感染者](https://s.weibo.com/weibo?q=%23%E6%B6%89%E5%A4%A9%E5%A0%82%E8%B6%85%E5%B8%82%E9%85%92%E5%90%A7%E7%96%AB%E6%83%85%E5%B7%B2%E6%9C%89351%E4%BE%8B%E6%84%9F%E6%9F%93%E8%80%85%23&Refer=top) 16364
+1. [看铁路这样穿越沙漠之海](https://s.weibo.com/weibo?q=%23%E7%9C%8B%E9%93%81%E8%B7%AF%E8%BF%99%E6%A0%B7%E7%A9%BF%E8%B6%8A%E6%B2%99%E6%BC%A0%E4%B9%8B%E6%B5%B7%23&Refer=top) 9659
+1. [东北小姐姐科普铁路知识咔咔的](https://s.weibo.com/weibo?q=%23%E4%B8%9C%E5%8C%97%E5%B0%8F%E5%A7%90%E5%A7%90%E7%A7%91%E6%99%AE%E9%93%81%E8%B7%AF%E7%9F%A5%E8%AF%86%E5%92%94%E5%92%94%E7%9A%84%23&Refer=top) 8972
 <!-- Rank End -->
 
 历史归档 [./archives](./archives)
