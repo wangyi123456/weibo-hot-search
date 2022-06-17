@@ -17,7 +17,7 @@
 
 <!-- Rank Begin -->
 
-最后更新时间 2022-06-18 02:06:34
+最后更新时间 2022-06-18 03:02:07
 
 1. [医院否认唐山被打女子去世传言](https://s.weibo.com/weibo?q=%23%E5%8C%BB%E9%99%A2%E5%90%A6%E8%AE%A4%E5%94%90%E5%B1%B1%E8%A2%AB%E6%89%93%E5%A5%B3%E5%AD%90%E5%8E%BB%E4%B8%96%E4%BC%A0%E8%A8%80%23&Refer=top) 2115626
 1. [麦当劳](https://s.weibo.com/weibo?q=%E9%BA%A6%E5%BD%93%E5%8A%B3&Refer=top) 1577610
@@ -37,11 +37,13 @@
 1. [向往的生活](https://s.weibo.com/weibo?q=%E5%90%91%E5%BE%80%E7%9A%84%E7%94%9F%E6%B4%BB&Refer=top) 389975
 1. [小学学历骗子专骗外国人反赔几千](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E5%AD%A6%E5%AD%A6%E5%8E%86%E9%AA%97%E5%AD%90%E4%B8%93%E9%AA%97%E5%A4%96%E5%9B%BD%E4%BA%BA%E5%8F%8D%E8%B5%94%E5%87%A0%E5%8D%83%23&Refer=top) 386092
 1. [售价20熬夜水人参成本仅2元](https://s.weibo.com/weibo?q=%23%E5%94%AE%E4%BB%B720%E7%86%AC%E5%A4%9C%E6%B0%B4%E4%BA%BA%E5%8F%82%E6%88%90%E6%9C%AC%E4%BB%852%E5%85%83%23&Refer=top) 386034
+1. [花儿与少年 无聊](https://s.weibo.com/weibo?q=%E8%8A%B1%E5%84%BF%E4%B8%8E%E5%B0%91%E5%B9%B4%20%E6%97%A0%E8%81%8A&Refer=top) 337851
 1. [福建舰17日下水是巧合吗](https://s.weibo.com/weibo?q=%23%E7%A6%8F%E5%BB%BA%E8%88%B017%E6%97%A5%E4%B8%8B%E6%B0%B4%E6%98%AF%E5%B7%A7%E5%90%88%E5%90%97%23&Refer=top) 280941
 1. [殉职司机杨勇紧急制动画面曝光](https://s.weibo.com/weibo?q=%23%E6%AE%89%E8%81%8C%E5%8F%B8%E6%9C%BA%E6%9D%A8%E5%8B%87%E7%B4%A7%E6%80%A5%E5%88%B6%E5%8A%A8%E7%94%BB%E9%9D%A2%E6%9B%9D%E5%85%89%23&Refer=top) 263775
 1. [西安新房价格上涨](https://s.weibo.com/weibo?q=%23%E8%A5%BF%E5%AE%89%E6%96%B0%E6%88%BF%E4%BB%B7%E6%A0%BC%E4%B8%8A%E6%B6%A8%23&Refer=top) 260705
 1. [蔡徐坤 分析](https://s.weibo.com/weibo?q=%E8%94%A1%E5%BE%90%E5%9D%A4%20%E5%88%86%E6%9E%90&Refer=top) 245485
 1. [张好好池衙内分手](https://s.weibo.com/weibo?q=%E5%BC%A0%E5%A5%BD%E5%A5%BD%E6%B1%A0%E8%A1%99%E5%86%85%E5%88%86%E6%89%8B&Refer=top) 238926
+1. [这种虫子飞到身上千万别拍](https://s.weibo.com/weibo?q=%23%E8%BF%99%E7%A7%8D%E8%99%AB%E5%AD%90%E9%A3%9E%E5%88%B0%E8%BA%AB%E4%B8%8A%E5%8D%83%E4%B8%87%E5%88%AB%E6%8B%8D%23&Refer=top) 237129
 1. [河南重申健康码仅用于疫情防控](https://s.weibo.com/weibo?q=%23%E6%B2%B3%E5%8D%97%E9%87%8D%E7%94%B3%E5%81%A5%E5%BA%B7%E7%A0%81%E4%BB%85%E7%94%A8%E4%BA%8E%E7%96%AB%E6%83%85%E9%98%B2%E6%8E%A7%23&Refer=top) 227268
 1. [引章人设](https://s.weibo.com/weibo?q=%E5%BC%95%E7%AB%A0%E4%BA%BA%E8%AE%BE&Refer=top) 225805
 1. [怎么突然间就毕业了呢](https://s.weibo.com/weibo?q=%23%E6%80%8E%E4%B9%88%E7%AA%81%E7%84%B6%E9%97%B4%E5%B0%B1%E6%AF%95%E4%B8%9A%E4%BA%86%E5%91%A2%23&Refer=top) 215726
@@ -58,7 +60,6 @@
 1. [蒯曼vs金娜英](https://s.weibo.com/weibo?q=%23%E8%92%AF%E6%9B%BCvs%E9%87%91%E5%A8%9C%E8%8B%B1%23&Refer=top) 162472
 1. [张子枫希望螃蟹妈妈安全到家](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%AD%90%E6%9E%AB%E5%B8%8C%E6%9C%9B%E8%9E%83%E8%9F%B9%E5%A6%88%E5%A6%88%E5%AE%89%E5%85%A8%E5%88%B0%E5%AE%B6%23&Refer=top) 161519
 1. [马内 拜仁](https://s.weibo.com/weibo?q=%E9%A9%AC%E5%86%85%20%E6%8B%9C%E4%BB%81&Refer=top) 159136
-1. [这种虫子飞到身上千万别拍](https://s.weibo.com/weibo?q=%23%E8%BF%99%E7%A7%8D%E8%99%AB%E5%AD%90%E9%A3%9E%E5%88%B0%E8%BA%AB%E4%B8%8A%E5%8D%83%E4%B8%87%E5%88%AB%E6%8B%8D%23&Refer=top) 156928
 1. [向鹏3比1张本智和](https://s.weibo.com/weibo?q=%23%E5%90%91%E9%B9%8F3%E6%AF%941%E5%BC%A0%E6%9C%AC%E6%99%BA%E5%92%8C%23&Refer=top) 150853
 1. [广西的水果能有多便宜](https://s.weibo.com/weibo?q=%23%E5%B9%BF%E8%A5%BF%E7%9A%84%E6%B0%B4%E6%9E%9C%E8%83%BD%E6%9C%89%E5%A4%9A%E4%BE%BF%E5%AE%9C%23&Refer=top) 148592
 1. [一诺 失误](https://s.weibo.com/weibo?q=%E4%B8%80%E8%AF%BA%20%E5%A4%B1%E8%AF%AF&Refer=top) 141046
@@ -77,8 +78,9 @@
 1. [单依纯对秦霄贤说撕名牌我保护你](https://s.weibo.com/weibo?q=%23%E5%8D%95%E4%BE%9D%E7%BA%AF%E5%AF%B9%E7%A7%A6%E9%9C%84%E8%B4%A4%E8%AF%B4%E6%92%95%E5%90%8D%E7%89%8C%E6%88%91%E4%BF%9D%E6%8A%A4%E4%BD%A0%23&Refer=top) 62881
 1. [元气森林音乐节](https://s.weibo.com/weibo?q=%23%E5%85%83%E6%B0%94%E6%A3%AE%E6%9E%97%E9%9F%B3%E4%B9%90%E8%8A%82%23&Refer=top) 61434
 1. [烧饼 春风吹又生](https://s.weibo.com/weibo?q=%E7%83%A7%E9%A5%BC%20%E6%98%A5%E9%A3%8E%E5%90%B9%E5%8F%88%E7%94%9F&Refer=top) 60834
+1. [一招缓解因久坐导致的腰痛](https://s.weibo.com/weibo?q=%23%E4%B8%80%E6%8B%9B%E7%BC%93%E8%A7%A3%E5%9B%A0%E4%B9%85%E5%9D%90%E5%AF%BC%E8%87%B4%E7%9A%84%E8%85%B0%E7%97%9B%23&Refer=top) 46365
 1. [萌探探探案](https://s.weibo.com/weibo?q=%E8%90%8C%E6%8E%A2%E6%8E%A2%E6%8E%A2%E6%A1%88&Refer=top) 44477
-1. [一招缓解因久坐导致的腰痛](https://s.weibo.com/weibo?q=%23%E4%B8%80%E6%8B%9B%E7%BC%93%E8%A7%A3%E5%9B%A0%E4%B9%85%E5%9D%90%E5%AF%BC%E8%87%B4%E7%9A%84%E8%85%B0%E7%97%9B%23&Refer=top) 42143
+1. [三星堆考古为何未发现文字](https://s.weibo.com/weibo?q=%23%E4%B8%89%E6%98%9F%E5%A0%86%E8%80%83%E5%8F%A4%E4%B8%BA%E4%BD%95%E6%9C%AA%E5%8F%91%E7%8E%B0%E6%96%87%E5%AD%97%23&Refer=top) 26077
 1. [二次元毕业pose](https://s.weibo.com/weibo?q=%23%E4%BA%8C%E6%AC%A1%E5%85%83%E6%AF%95%E4%B8%9Apose%23&Refer=top) 24053
 <!-- Rank End -->
 
