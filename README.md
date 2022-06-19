@@ -17,7 +17,7 @@
 
 <!-- Rank Begin -->
 
-最后更新时间 2022-06-20 01:05:26
+最后更新时间 2022-06-20 02:02:43
 
 1. [建议尽早带爸妈接种带状疱疹疫苗](https://s.weibo.com/weibo?q=%23%E5%BB%BA%E8%AE%AE%E5%B0%BD%E6%97%A9%E5%B8%A6%E7%88%B8%E5%A6%88%E6%8E%A5%E7%A7%8D%E5%B8%A6%E7%8A%B6%E7%96%B1%E7%96%B9%E7%96%AB%E8%8B%97%23&Refer=top) 2557277
 1. [王传君拒绝宋丹丹提议](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%BC%A0%E5%90%9B%E6%8B%92%E7%BB%9D%E5%AE%8B%E4%B8%B9%E4%B8%B9%E6%8F%90%E8%AE%AE%23&Refer=top) 2333992
@@ -76,6 +76,7 @@
 1. [花样游泳](https://s.weibo.com/weibo?q=%E8%8A%B1%E6%A0%B7%E6%B8%B8%E6%B3%B3&Refer=top) 72515
 1. [清水变豆浆把戏骗千余老人600万](https://s.weibo.com/weibo?q=%23%E6%B8%85%E6%B0%B4%E5%8F%98%E8%B1%86%E6%B5%86%E6%8A%8A%E6%88%8F%E9%AA%97%E5%8D%83%E4%BD%99%E8%80%81%E4%BA%BA600%E4%B8%87%23&Refer=top) 65343
 1. [货车起火过路司机分工救人](https://s.weibo.com/weibo?q=%23%E8%B4%A7%E8%BD%A6%E8%B5%B7%E7%81%AB%E8%BF%87%E8%B7%AF%E5%8F%B8%E6%9C%BA%E5%88%86%E5%B7%A5%E6%95%91%E4%BA%BA%23&Refer=top) 65287
+1. [侏罗纪世界3票房破6亿](https://s.weibo.com/weibo?q=%23%E4%BE%8F%E7%BD%97%E7%BA%AA%E4%B8%96%E7%95%8C3%E7%A5%A8%E6%88%BF%E7%A0%B46%E4%BA%BF%23&Refer=top) 48932
 <!-- Rank End -->
 
 历史归档 [./archives](./archives)
