@@ -17,7 +17,7 @@
 
 <!-- Rank Begin -->
 
-最后更新时间 2022-06-22 03:02:18
+最后更新时间 2022-06-22 04:06:25
 
 1. [洗米华案涉及金额高达6800亿](https://s.weibo.com/weibo?q=%23%E6%B4%97%E7%B1%B3%E5%8D%8E%E6%A1%88%E6%B6%89%E5%8F%8A%E9%87%91%E9%A2%9D%E9%AB%98%E8%BE%BE6800%E4%BA%BF%23&Refer=top) 1430885
 1. [目前已经官宣阵容的三部仙剑作品](https://s.weibo.com/weibo?q=%23%E7%9B%AE%E5%89%8D%E5%B7%B2%E7%BB%8F%E5%AE%98%E5%AE%A3%E9%98%B5%E5%AE%B9%E7%9A%84%E4%B8%89%E9%83%A8%E4%BB%99%E5%89%91%E4%BD%9C%E5%93%81%23&Refer=top) 837889
@@ -79,6 +79,7 @@
 1. [动画折枝有多绝](https://s.weibo.com/weibo?q=%23%E5%8A%A8%E7%94%BB%E6%8A%98%E6%9E%9D%E6%9C%89%E5%A4%9A%E7%BB%9D%23&Refer=top) 76641
 1. [85条河流发生超警以上洪水](https://s.weibo.com/weibo?q=%2385%E6%9D%A1%E6%B2%B3%E6%B5%81%E5%8F%91%E7%94%9F%E8%B6%85%E8%AD%A6%E4%BB%A5%E4%B8%8A%E6%B4%AA%E6%B0%B4%23&Refer=top) 76018
 1. [总算把夏天的快乐玩明白了](https://s.weibo.com/weibo?q=%23%E6%80%BB%E7%AE%97%E6%8A%8A%E5%A4%8F%E5%A4%A9%E7%9A%84%E5%BF%AB%E4%B9%90%E7%8E%A9%E6%98%8E%E7%99%BD%E4%BA%86%23&Refer=top) 34990
+1. [小学生春游综合症](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E5%AD%A6%E7%94%9F%E6%98%A5%E6%B8%B8%E7%BB%BC%E5%90%88%E7%97%87%23&Refer=top) 16483
 <!-- Rank End -->
 
 历史归档 [./archives](./archives)
