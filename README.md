@@ -17,7 +17,7 @@
 
 <!-- Rank Begin -->
 
-最后更新时间 2022-06-23 01:16:41
+最后更新时间 2022-06-23 02:06:57
 
 1. [爸爸睡觉翻身压住宝宝头部](https://s.weibo.com/weibo?q=%23%E7%88%B8%E7%88%B8%E7%9D%A1%E8%A7%89%E7%BF%BB%E8%BA%AB%E5%8E%8B%E4%BD%8F%E5%AE%9D%E5%AE%9D%E5%A4%B4%E9%83%A8%23&Refer=top) 2092350
 1. [真的不建议手机电量耗尽再充电](https://s.weibo.com/weibo?q=%23%E7%9C%9F%E7%9A%84%E4%B8%8D%E5%BB%BA%E8%AE%AE%E6%89%8B%E6%9C%BA%E7%94%B5%E9%87%8F%E8%80%97%E5%B0%BD%E5%86%8D%E5%85%85%E7%94%B5%23&Refer=top) 1877474
@@ -74,6 +74,7 @@
 1. [林墨镜头下的杨超越](https://s.weibo.com/weibo?q=%23%E6%9E%97%E5%A2%A8%E9%95%9C%E5%A4%B4%E4%B8%8B%E7%9A%84%E6%9D%A8%E8%B6%85%E8%B6%8A%23&Refer=top) 131927
 1. [6月22日深圳新增2例社区筛查无症状](https://s.weibo.com/weibo?q=6%E6%9C%8822%E6%97%A5%E6%B7%B1%E5%9C%B3%E6%96%B0%E5%A2%9E2%E4%BE%8B%E7%A4%BE%E5%8C%BA%E7%AD%9B%E6%9F%A5%E6%97%A0%E7%97%87%E7%8A%B6&Refer=top) 126394
 1. [郑云龙人形生物首秀](https://s.weibo.com/weibo?q=%23%E9%83%91%E4%BA%91%E9%BE%99%E4%BA%BA%E5%BD%A2%E7%94%9F%E7%89%A9%E9%A6%96%E7%A7%80%23&Refer=top) 75647
+1. [高校办昆虫宴送别毕业生](https://s.weibo.com/weibo?q=%23%E9%AB%98%E6%A0%A1%E5%8A%9E%E6%98%86%E8%99%AB%E5%AE%B4%E9%80%81%E5%88%AB%E6%AF%95%E4%B8%9A%E7%94%9F%23&Refer=top) 41690
 <!-- Rank End -->
 
 历史归档 [./archives](./archives)
