@@ -17,7 +17,7 @@
 
 <!-- Rank Begin -->
 
-最后更新时间 2022-06-25 05:02:48
+最后更新时间 2022-06-25 06:02:52
 
 1. [美国最高法院取消宪法规定的堕胎权](https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E6%9C%80%E9%AB%98%E6%B3%95%E9%99%A2%E5%8F%96%E6%B6%88%E5%AE%AA%E6%B3%95%E8%A7%84%E5%AE%9A%E7%9A%84%E5%A0%95%E8%83%8E%E6%9D%83%23&Refer=top) 1500793
 1. [河南高考成绩](https://s.weibo.com/weibo?q=%23%E6%B2%B3%E5%8D%97%E9%AB%98%E8%80%83%E6%88%90%E7%BB%A9%23&Refer=top) 1420814
@@ -69,13 +69,15 @@
 1. [牺牲缉毒警缴毒超1727公斤](https://s.weibo.com/weibo?q=%23%E7%89%BA%E7%89%B2%E7%BC%89%E6%AF%92%E8%AD%A6%E7%BC%B4%E6%AF%92%E8%B6%851727%E5%85%AC%E6%96%A4%23&Refer=top) 75729
 1. [郑州气温42.3度突破建站历史极值](https://s.weibo.com/weibo?q=%23%E9%83%91%E5%B7%9E%E6%B0%94%E6%B8%A942.3%E5%BA%A6%E7%AA%81%E7%A0%B4%E5%BB%BA%E7%AB%99%E5%8E%86%E5%8F%B2%E6%9E%81%E5%80%BC%23&Refer=top) 71687
 1. [二哈终于找到了自己的知音](https://s.weibo.com/weibo?q=%23%E4%BA%8C%E5%93%88%E7%BB%88%E4%BA%8E%E6%89%BE%E5%88%B0%E4%BA%86%E8%87%AA%E5%B7%B1%E7%9A%84%E7%9F%A5%E9%9F%B3%23&Refer=top) 69382
+1. [侏罗纪世界3票房破7亿](https://s.weibo.com/weibo?q=%23%E4%BE%8F%E7%BD%97%E7%BA%AA%E4%B8%96%E7%95%8C3%E7%A5%A8%E6%88%BF%E7%A0%B47%E4%BA%BF%23&Refer=top) 52723
 1. [义墩墩入驻微博啦](https://s.weibo.com/weibo?q=%23%E4%B9%89%E5%A2%A9%E5%A2%A9%E5%85%A5%E9%A9%BB%E5%BE%AE%E5%8D%9A%E5%95%A6%23&Refer=top) 52602
+1. [2022河南高考理科一本分数线509](https://s.weibo.com/weibo?q=%232022%E6%B2%B3%E5%8D%97%E9%AB%98%E8%80%83%E7%90%86%E7%A7%91%E4%B8%80%E6%9C%AC%E5%88%86%E6%95%B0%E7%BA%BF509%23&Refer=top) 42800
 1. [河南67地最高气温超40℃](https://s.weibo.com/weibo?q=%23%E6%B2%B3%E5%8D%9767%E5%9C%B0%E6%9C%80%E9%AB%98%E6%B0%94%E6%B8%A9%E8%B6%8540%E2%84%83%23&Refer=top) 38425
+1. [张艺兴用厨房纸巾给黄磊擦汗](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E8%89%BA%E5%85%B4%E7%94%A8%E5%8E%A8%E6%88%BF%E7%BA%B8%E5%B7%BE%E7%BB%99%E9%BB%84%E7%A3%8A%E6%93%A6%E6%B1%97%23&Refer=top) 36329
 1. [转发这个朱洁静](https://s.weibo.com/weibo?q=%E8%BD%AC%E5%8F%91%E8%BF%99%E4%B8%AA%E6%9C%B1%E6%B4%81%E9%9D%99&Refer=top) 36313
 1. [后舍男生 后街男孩](https://s.weibo.com/weibo?q=%E5%90%8E%E8%88%8D%E7%94%B7%E7%94%9F%20%E5%90%8E%E8%A1%97%E7%94%B7%E5%AD%A9&Refer=top) 30695
+1. [采访算是被六公主玩明白了](https://s.weibo.com/weibo?q=%23%E9%87%87%E8%AE%BF%E7%AE%97%E6%98%AF%E8%A2%AB%E5%85%AD%E5%85%AC%E4%B8%BB%E7%8E%A9%E6%98%8E%E7%99%BD%E4%BA%86%23&Refer=top) 29709
 1. [毕业ing](https://s.weibo.com/weibo?q=%E6%AF%95%E4%B8%9Aing&Refer=top) 18353
-1. [张艺兴用厨房纸巾给黄磊擦汗](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E8%89%BA%E5%85%B4%E7%94%A8%E5%8E%A8%E6%88%BF%E7%BA%B8%E5%B7%BE%E7%BB%99%E9%BB%84%E7%A3%8A%E6%93%A6%E6%B1%97%23&Refer=top) 18087
-1. [2022河南高考理科一本分数线509](https://s.weibo.com/weibo?q=%232022%E6%B2%B3%E5%8D%97%E9%AB%98%E8%80%83%E7%90%86%E7%A7%91%E4%B8%80%E6%9C%AC%E5%88%86%E6%95%B0%E7%BA%BF509%23&Refer=top) 7374
 <!-- Rank End -->
 
 历史归档 [./archives](./archives)
