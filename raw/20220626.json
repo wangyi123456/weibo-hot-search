@@ -187,6 +187,10 @@
     "href": "https://s.weibo.com/weibo?q=%E6%B1%9F%E5%8D%97%E7%99%BE%E6%99%AF%E5%9B%BE&Refer=top",
     "hot": 130881
   },
+  "电子竞技菜是原罪": {
+    "href": "https://s.weibo.com/weibo?q=%E7%94%B5%E5%AD%90%E7%AB%9E%E6%8A%80%E8%8F%9C%E6%98%AF%E5%8E%9F%E7%BD%AA&Refer=top",
+    "hot": 127754
+  },
   "朱一龙厅": {
     "href": "https://s.weibo.com/weibo?q=%23%E6%9C%B1%E4%B8%80%E9%BE%99%E5%8E%85%23&Refer=top",
     "hot": 116452
@@ -230,5 +234,9 @@
   "饿了么宵夜免单答案": {
     "href": "https://s.weibo.com/weibo?q=%23%E9%A5%BF%E4%BA%86%E4%B9%88%E5%AE%B5%E5%A4%9C%E5%85%8D%E5%8D%95%E7%AD%94%E6%A1%88%23&Refer=top",
     "hot": 45907
+  },
+  "中国说唱巅峰对决": {
+    "href": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E8%AF%B4%E5%94%B1%E5%B7%85%E5%B3%B0%E5%AF%B9%E5%86%B3%23&Refer=top",
+    "hot": 24778
   }
 }
