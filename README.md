@@ -17,7 +17,7 @@
 
 <!-- Rank Begin -->
 
-最后更新时间 2022-06-29 04:06:26
+最后更新时间 2022-06-29 05:03:09
 
 1. [再也不怕快递丢件了](https://s.weibo.com/weibo?q=%23%E5%86%8D%E4%B9%9F%E4%B8%8D%E6%80%95%E5%BF%AB%E9%80%92%E4%B8%A2%E4%BB%B6%E4%BA%86%23&Refer=top) 1729316
 1. [微信推出图片大爆炸功能](https://s.weibo.com/weibo?q=%23%E5%BE%AE%E4%BF%A1%E6%8E%A8%E5%87%BA%E5%9B%BE%E7%89%87%E5%A4%A7%E7%88%86%E7%82%B8%E5%8A%9F%E8%83%BD%23&Refer=top) 1402148
@@ -76,9 +76,10 @@
 1. [奔跑吧下一站去哪](https://s.weibo.com/weibo?q=%23%E5%A5%94%E8%B7%91%E5%90%A7%E4%B8%8B%E4%B8%80%E7%AB%99%E5%8E%BB%E5%93%AA%23&Refer=top) 64404
 1. [新疆雅丹的日月星辰](https://s.weibo.com/weibo?q=%23%E6%96%B0%E7%96%86%E9%9B%85%E4%B8%B9%E7%9A%84%E6%97%A5%E6%9C%88%E6%98%9F%E8%BE%B0%23&Refer=top) 42365
 1. [中国跳水队再包揽金银牌](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E8%B7%B3%E6%B0%B4%E9%98%9F%E5%86%8D%E5%8C%85%E6%8F%BD%E9%87%91%E9%93%B6%E7%89%8C%23&Refer=top) 38629
-1. [车主加满一箱油将少花12.5元](https://s.weibo.com/weibo?q=%23%E8%BD%A6%E4%B8%BB%E5%8A%A0%E6%BB%A1%E4%B8%80%E7%AE%B1%E6%B2%B9%E5%B0%86%E5%B0%91%E8%8A%B112.5%E5%85%83%23&Refer=top) 20758
+1. [车主加满一箱油将少花12.5元](https://s.weibo.com/weibo?q=%23%E8%BD%A6%E4%B8%BB%E5%8A%A0%E6%BB%A1%E4%B8%80%E7%AE%B1%E6%B2%B9%E5%B0%86%E5%B0%91%E8%8A%B112.5%E5%85%83%23&Refer=top) 32541
 1. [一条plog告别六月](https://s.weibo.com/weibo?q=%23%E4%B8%80%E6%9D%A1plog%E5%91%8A%E5%88%AB%E5%85%AD%E6%9C%88%23&Refer=top) 18719
 1. [迪士尼相关访问量环比暴涨655%](https://s.weibo.com/weibo?q=%23%E8%BF%AA%E5%A3%AB%E5%B0%BC%E7%9B%B8%E5%85%B3%E8%AE%BF%E9%97%AE%E9%87%8F%E7%8E%AF%E6%AF%94%E6%9A%B4%E6%B6%A8655%25%23&Refer=top) 15153
+1. [如何看待年轻人MBTI交友](https://s.weibo.com/weibo?q=%23%E5%A6%82%E4%BD%95%E7%9C%8B%E5%BE%85%E5%B9%B4%E8%BD%BB%E4%BA%BAMBTI%E4%BA%A4%E5%8F%8B%23&Refer=top) 14395
 <!-- Rank End -->
 
 历史归档 [./archives](./archives)
