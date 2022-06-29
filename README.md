@@ -17,7 +17,7 @@
 
 <!-- Rank Begin -->
 
-最后更新时间 2022-06-30 01:32:13
+最后更新时间 2022-06-30 02:10:41
 
 1. [高价雪糕为什么卖不动了](https://s.weibo.com/weibo?q=%23%E9%AB%98%E4%BB%B7%E9%9B%AA%E7%B3%95%E4%B8%BA%E4%BB%80%E4%B9%88%E5%8D%96%E4%B8%8D%E5%8A%A8%E4%BA%86%23&Refer=top) 1277203
 1. [彩虹](https://s.weibo.com/weibo?q=%23%E5%BD%A9%E8%99%B9%23&Refer=top) 954732
@@ -57,8 +57,8 @@
 1. [女生捡婚纱送闺密疯狂拍照5小时](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E7%94%9F%E6%8D%A1%E5%A9%9A%E7%BA%B1%E9%80%81%E9%97%BA%E5%AF%86%E7%96%AF%E7%8B%82%E6%8B%8D%E7%85%A75%E5%B0%8F%E6%97%B6%23&Refer=top) 153652
 1. [全红婵跳板首秀](https://s.weibo.com/weibo?q=%23%E5%85%A8%E7%BA%A2%E5%A9%B5%E8%B7%B3%E6%9D%BF%E9%A6%96%E7%A7%80%23&Refer=top) 141238
 1. [白鹿民族风造型](https://s.weibo.com/weibo?q=%23%E7%99%BD%E9%B9%BF%E6%B0%91%E6%97%8F%E9%A3%8E%E9%80%A0%E5%9E%8B%23&Refer=top) 139027
+1. [暴扣哥回应盛宇说他不配](https://s.weibo.com/weibo?q=%23%E6%9A%B4%E6%89%A3%E5%93%A5%E5%9B%9E%E5%BA%94%E7%9B%9B%E5%AE%87%E8%AF%B4%E4%BB%96%E4%B8%8D%E9%85%8D%23&Refer=top) 132449
 1. [夏娃](https://s.weibo.com/weibo?q=%E5%A4%8F%E5%A8%83&Refer=top) 125633
-1. [暴扣哥回应盛宇说他不配](https://s.weibo.com/weibo?q=%23%E6%9A%B4%E6%89%A3%E5%93%A5%E5%9B%9E%E5%BA%94%E7%9B%9B%E5%AE%87%E8%AF%B4%E4%BB%96%E4%B8%8D%E9%85%8D%23&Refer=top) 124296
 1. [七国集团没有资格代表全世界](https://s.weibo.com/weibo?q=%23%E4%B8%83%E5%9B%BD%E9%9B%86%E5%9B%A2%E6%B2%A1%E6%9C%89%E8%B5%84%E6%A0%BC%E4%BB%A3%E8%A1%A8%E5%85%A8%E4%B8%96%E7%95%8C%23&Refer=top) 121320
 1. [朱一龙又说这是电影频道哎](https://s.weibo.com/weibo?q=%23%E6%9C%B1%E4%B8%80%E9%BE%99%E5%8F%88%E8%AF%B4%E8%BF%99%E6%98%AF%E7%94%B5%E5%BD%B1%E9%A2%91%E9%81%93%E5%93%8E%23&Refer=top) 110105
 1. [全红婵厉害](https://s.weibo.com/weibo?q=%23%E5%85%A8%E7%BA%A2%E5%A9%B5%E5%8E%89%E5%AE%B3%23&Refer=top) 108009
