@@ -26,7 +26,8 @@ def job():
 BASE_URL = 'https://s.weibo.com'
 JSON_DIR = './raw'
 ARCHIVE_DIR = './archives'
-THREAD_HOLD = 1000*10000
+THREAD_HOLD = 1000*10000 # 热搜阈值
+scripe_interval = 60*5 # 抓取周期 单位:秒
 
 
 def getHTML(url):
@@ -76,65 +77,6 @@ def parseHTMLByXPath(content):
 
     return correntRank
 
-
-# 更新本日榜单
-def updateJSON(correntRank):
-    ''' 更新当天的 JSON 文件
-
-    Args:
-        correntRank: dict, 最新的榜单信息
-    Returns:
-        与当天历史榜单对比去重, 排序后的榜单信息字典
-    '''
-    filename = datetime.today().strftime('%Y%m%d') + '.json'
-    filename = os.path.join(JSON_DIR, filename)
-
-    # 文件不存在则创建
-    if not os.path.exists(filename):
-        utils.save(filename, {})
-
-    historyRank = json.loads(utils.load(filename))
-    for k, v in correntRank.items():
-        # 若当前榜单和历史榜单有重复的，取热度数值(名称后面的数值)更大的一个
-        if k in historyRank:
-            historyRank[k]['hot'] = max(
-                historyRank[k]['hot'], correntRank[k]['hot'])
-        # 若没有，则添加
-        else:
-            historyRank[k] = v
-
-    # 将榜单按 hot 值排序
-    rank = {k: v for k, v in sorted(
-        historyRank.items(), key=lambda item: item[1]['hot'], reverse=True)}
-
-    # 更新当天榜单 json 文件
-    utils.save(filename, rank)
-    return rank
-
-
-def updateReadme(rank):
-    ''' 更新 README.md
-
-    Args:
-        rank: dict, 榜单信息
-    Returns:
-        None
-    '''
-    filename = './README.md'
-
-    line = '1. [{title}]({href}) {hot}'
-    lines = [line.format(title=k, hot=v['hot'], href=v['href'])
-             for k, v in rank.items()]
-    rank = '\n'.join(lines)
-
-    rank = '最后更新时间 {}\n\n'.format(
-        datetime.now().strftime('%Y-%m-%d %X')) + rank
-    rank = '<!-- Rank Begin -->\n\n' + rank + '\n<!-- Rank End -->'
-
-    content = re.sub(
-        r'<!-- Rank Begin -->[\s\S]*<!-- Rank End -->', rank, utils.load(filename))
-    utils.save(filename, content)
-
 def sentWX(title,link,hotvalue):
     print("调用微信发送消息")
     url = "https://qyapi.weixin.qq.com/cgi-bin/webhook/send?key=01e2cfba-e610-47e6-a5c9-e936256ad968"
@@ -161,35 +103,30 @@ def sentWX(title,link,hotvalue):
     #     }
     # }
     r = requests.post(url,data=json.dumps(date_news),headers=headers)
-    print(r.text)
+    print(r.text+title)
     return r.text
 
 
 def updateTodayJSON(correntRank):
-    ''' 更新当天的 JSON 文件
-
-        Args:
-            correntRank: dict, 最新的榜单信息
-        Returns:
-            与当天历史榜单对比去重, 排序后的榜单信息字典
-        '''
     print("执行更新逻辑")
     filename = datetime.today().strftime('%Y%m%d') + '.json'
-    filename = os.path.join(JSON_DIR, filename)
+    # filename = os.path.join(JSON_DIR, filename)
 
     # 文件不存在则创建
     if not os.path.exists(filename):
+        print("创建文件")
         utils.save(filename, {})
 
     historyRank = json.loads(utils.load(filename))
     for k, v in correntRank.items():
         # 若当前榜单和历史榜单有重复的，取热度数值(名称后面的数值)更大的一个
         if k in historyRank:
+            if correntRank[k]['hot'] > THREAD_HOLD*5: sentWX(k,correntRank[k]['href'],correntRank[k]['hot'])
             historyRank[k]['hot'] = max(
                 historyRank[k]['hot'], correntRank[k]['hot'])
         # 若没有，则添加
         else:
-            # 不存在于历史且大于两千万 则发送报警
+            # 不存在于历史且大于阈值 则发送报警
             if correntRank[k]['hot'] > THREAD_HOLD: sentWX(k,correntRank[k]['href'],correntRank[k]['hot'])
             historyRank[k] = v
 
@@ -208,18 +145,18 @@ def update():
     contentRank = parseHTMLByXPath(content)
     updateTodayJSON(contentRank)
 
-schedule.every(60*1).seconds.do(update)
+schedule.every(scripe_interval).seconds.do(update)
 
 def deleteJson():
     print("执行删除逻辑")
     filename = int(datetime.today().strftime('%Y%m%d'))-1
     filename =  str(filename)+ '.json'
 
-    dir = os.path.join(JSON_DIR, filename)
+    # dir = os.path.join(JSON_DIR, filename)
 
     # 文件存在则创建
-    if os.path.exists(dir):
-        os.remove(dir)
+    if os.path.exists(filename):
+        os.remove(filename)
         print(filename+"----->已被删除")
     else:print("文件不存在")
 

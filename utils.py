@@ -12,6 +12,7 @@ def save(filename, content):
     '''
     with open(filename, 'w', encoding='utf-8') as f:
         # 写 JSON
+        print("调用工具写文件")
         if filename.endswith('.json') and isinstance(content, dict):
             json.dump(content, f, ensure_ascii=False, indent=2)
         # 其他
